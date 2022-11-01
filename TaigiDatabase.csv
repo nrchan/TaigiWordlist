@@ -46,7 +46,6 @@
 一觸久仔,tsi̍t-tak-kú-á
 乙,it
 丁,ting
-丁,Ting
 七,tshit
 九,káu
 九,kiú
@@ -58,8 +57,6 @@
 人,jîn
 人,lâng
 人,lîn
-人,Jîn
-人,Lîn
 入,ji̍p
 入,li̍p
 八,pat
@@ -69,7 +66,6 @@
 刀,tor
 刁,tiau
 刁,thiau
-刁,Tiau
 力,la̍t
 力,li̍k
 力,lí
@@ -77,7 +73,6 @@
 十,si̍p
 卜,poh
 卜,pok
-卜,Poh
 又,iū
 十一哥,tsa̍p-it-ko
 十一哥,tsa̍p-it-kor
@@ -135,7 +130,6 @@
 八字跤,pat-jī-kha
 八字跤,pat-lī-kha
 十字路,si̍p-jī-lōo
-十字路,Si̍p-jī-lōo
 十字路,si̍p-lī-lōo
 七早八早,tshit-tsá-peh-tsá
 七早八早,tshit-tsá-pueh-tsá
@@ -691,7 +685,6 @@
 大熱,tuā-lua̍h
 大範,tuā-pān
 山線,suann-suànn
-山線,Suann-suànn
 三線路,sam-suànn-lōo
 上課,siōng-khò
 工課,khang-khuè
@@ -773,8 +766,6 @@
 仆,phak
 仇,siû
 仇,kiû
-仇,Kiû
-仇,Siû
 今,kin
 今,tann
 今,kim
@@ -1064,7 +1055,6 @@
 支,tsi
 支,ki
 文,bûn
-文,Bûn
 斗,táu
 斗,tóo
 斤,kin
@@ -1073,7 +1063,6 @@
 方,hng
 方,hong
 方,png
-方,Png
 方,puinn
 日,ji̍t
 日,li̍t
@@ -1097,7 +1086,6 @@
 氏,sī
 水,tsuí
 水,suí
-水,Tsuí
 歹𤆬頭,pháinn-tshuā-thâu
 手䘼,tshiú-ńg
 手䘼,tshiú-uínn
@@ -1868,7 +1856,6 @@
 加,ke
 包,pau
 包,pâu
-包,Pau
 北,pok
 北,pak
 半,puàn
@@ -2419,14 +2406,12 @@
 犯,huǎn
 玉,gi̍k
 玉,gio̍k
-玉,Gio̍k
 瓜,kue
 瓜,kua
 瓦,hiā
 瓦,uá
 瓦,huā
 甘,kam
-甘,Kam
 生,sing
 生,tshenn
 生,senn
@@ -2436,29 +2421,23 @@
 用,iōng
 田,tshân
 田,tiân
-田,Tiân
 由,iû
 甲,kah
 甲,kap
 申,sin
-申,Sin
 白,pe̍h
 白,pi̍k
 白,pē
-白,Pe̍h
 皮,phî
 皮,phuê
 皮,pî
-皮,Phuê
 皮,phê
-皮,Phê
 皮,phêr
 目,ba̍k
 目,bo̍k
 石,tsio̍h
 石,si̍k
 石,sia̍h
-石,Tsio̍h
 示,sī
 穴,hia̍t
 立,li̍p
@@ -2812,7 +2791,6 @@
 合,ha̍p
 吉,kiat
 吉,jì
-吉,Kiat
 吊,tiàu
 同,tông
 同,tâng
@@ -3027,7 +3005,6 @@
 守,tsiú
 安,an
 安,uann
-安,An
 寺,sī
 尖,tsiam
 州,tsiu
@@ -3035,7 +3012,6 @@
 帆,phâng
 年,liân
 年,nî
-年,Liân
 庄,tsng
 地下,tē-hā
 地下,tuē-hā
@@ -3235,7 +3211,6 @@
 成,siânn
 成,sîng
 成,tshiânn
-成,Tshiânn
 托,thuh
 托,thok
 扛,kong
@@ -3254,7 +3229,6 @@
 有,ū
 有,ǔ
 朱,tsu
-朱,Tsu
 次,tshù
 次,tshìr
 此,tshú
@@ -3428,7 +3402,6 @@
 汗,kuānn
 汗,hān
 江,kang
-江,Kang
 池,tî
 池,Tî
 百,peh
@@ -3437,7 +3410,6 @@
 竹,tik
 竹,tiok
 米,bí
-米,Bí
 羊,iûnn
 羊,iông
 羊,Iûnn
@@ -3703,9 +3675,8 @@
 血管,hueh-kńg
 血管,huih-kńg
 肉粽角,bah-tsàng-kak
-肉粽節,Bah-tsàng-tseh
 肉粽節,bah-tsàng-tseh
-肉粽節,Bah-tsàng-tsueh
+肉粽節,bah-tsàng-tsueh
 竹蓆,tik-tshio̍h
 肉餅,bah-piánn
 米價,bí-kè
@@ -3817,8 +3788,8 @@
 佗,tó
 佗,toh
 佗,tio̍h
-佛,Hu̍t
-佛,Pu̍t
+佛,hu̍t
+佛,pu̍t
 作,tsoh
 作,tsok
 你,lí
@@ -3870,7 +3841,7 @@
 古物商,kóo-bu̍t-siong
 作者,tsok-tsiá
 佛門,hu̍t-mn̂g
-佛門,Hu̍t-bûn
+佛門,hu̍t-bûn
 伸長手,tshun-tn̂g-tshiú
 伶俐,líng-lī
 佇咧,tī-leh
@@ -4391,7 +4362,6 @@
 沙,se
 沙,sua
 沙,sa
-沙,Sua
 灶,tsàu
 灶,tsò
 每日,muí-ji̍t
@@ -4525,7 +4495,6 @@
 車,ku
 車,kir
 辛,sin
-辛,Sin
 辰,sîn
 辰,Sîn
 那,ná
@@ -5088,7 +5057,6 @@
 奇蹟,kî-tsik
 垃儳,lâ-sâm
 季,kuì
-季,Kuì
 孤,koo
 官,kuann
 官,kuan
@@ -5568,7 +5536,6 @@
 昏,hng
 昏,huinn
 服,ho̍k
-服,Ho̍k
 杮,phuè
 杯,pue
 東,tang
@@ -5661,7 +5628,6 @@
 明講,bîng-kóng
 明顯,bîng-hián
 武,bú
-武,Bú
 沓,ta̍uh
 沓,ta̍p
 沫,phue̍h
@@ -5904,7 +5870,6 @@
 芡,khiàn
 花,hua
 花,hue
-花,Hua
 芳,hong
 芳,phang
 芳水,phang-tsuí
@@ -5987,7 +5952,6 @@
 迒,hānn
 迒,hâ
 金,kim
-金,Kim
 長,tshiâng
 長,tióng
 長,tiúnn
@@ -6410,7 +6374,6 @@
 厚譴損,kāu-khiàn-sńg
 城,siânn
 城,sîng
-城,Siânn
 奏,tsàu
 契,khè
 契,khuè
@@ -6460,7 +6423,6 @@
 室,sik
 封,hong
 封,pang
-封,Hong
 屍,si
 屎,sú
 屎,sái
@@ -6659,7 +6621,6 @@
 故,kòo
 施,sì
 施,si
-施,Si
 星,san
 星,sing
 星,tshenn
@@ -6783,10 +6744,8 @@
 柚,iū
 查,tshâ
 查,tsa
-查,Tsa
 柯,kua
 柯,kho
-柯,Kua
 柱,tsū
 柱,thiāu
 柿,khī
@@ -6855,7 +6814,6 @@
 歪,uai
 段,tuānn
 段,tuān
-段,Tuān
 毒,to̍k
 毒,thāu
 毒,thǎu
@@ -7436,7 +7394,6 @@
 音,im
 頁,ia̍h
 風,hong
-風,Hong
 飛,pe
 飛,hui
 飛,pue
@@ -7843,7 +7800,6 @@
 娘嬭,niû-lé
 娘嬭,niôo-lé
 孫,sun
-孫,Sun
 宮,king
 宮,kiong
 害,hāi
@@ -7855,7 +7811,6 @@
 屑,sap
 展,tián
 展,thián
-展,Tián
 屘,ban
 島,tóo
 島,tó
@@ -8114,7 +8069,6 @@
 書,su
 朕,tīm
 柴,tshâ
-柴,Tshâ
 栓,tshng
 栓,sng
 校,kàu
@@ -8309,7 +8263,6 @@
 烌,hu
 烏,oo
 烏,u
-烏,Oo
 烘,hong
 烘,hang
 爹,tia
@@ -8551,7 +8504,6 @@
 破雞筅,phuà-kue-tshíng
 破壞,phò-huāi
 祝,tsiok
-祝,Tsiok
 神,sîn
 祠,sû
 租,tsoo
@@ -8636,7 +8588,6 @@
 罟,koo
 翁,ang
 翁,ong
-翁,Ang
 耙,pê
 耙,pē
 胮,hàng
@@ -9071,7 +9022,6 @@
 骨,kut
 高,kau
 高,ko
-高,Ko
 鬥,tàu
 鬥,tòo
 鬼,kuí
@@ -9367,7 +9317,7 @@
 匙,sî
 匾,pián
 區,khu
-區,Oo
+區,oo
 參,sim
 參,tsham
 參,song
@@ -9452,7 +9402,6 @@
 圇,lûn
 圇,nuî
 國,kok
-國,Kok
 埠,pōo
 埠,poo
 埤,pi
@@ -9589,7 +9538,6 @@
 張,tiong
 張,tiunn
 張,tng
-張,Tiunn
 張,tionn
 強,kiōng
 強,kiông
@@ -9920,7 +9868,6 @@
 梅,muî
 梅,muê
 梅,m̂
-梅,Muî
 梅,muâi
 桱仔,kènn-á
 桱仔,kìnn-á
@@ -10224,7 +10171,6 @@
 窒,that
 章,tsiong
 章,tsiunn
-章,Tsiunn
 章,tsionn
 笠,li̍p
 笠,le̍h
@@ -10365,7 +10311,6 @@
 船,tsûn
 莊,tsng
 莊,tsong
-莊,Tsng
 舵公,tāi-kong
 脫手,thuat-tshiú
 耞仔,kénn-á
@@ -10402,7 +10347,7 @@
 莢,kueh
 莫,bo̍k
 莫,mài
-莫,Bo̍h
+莫,bo̍h
 蚵,ô
 蚵,ôr
 蚶,ham
@@ -10545,7 +10490,6 @@
 造,tsō
 連,liân
 連,nî
-連,Liân
 連,liâm
 軟𩛩𩛩,nńg-kauh-kauh
 軟㽎㽎,nńg-sìm-sìm
@@ -10786,9 +10730,7 @@
 鳥,niáu
 鳥,tsiáu
 鹿,lo̍k
-鹿,Lo̍k
 麥,be̍h
-麥,Be̍h
 麻,bâ
 麻,muâ
 麻,mâ
@@ -11403,7 +11345,6 @@
 湧,ióng
 湯,thong
 湯,thng
-湯,Thng
 湳,làm
 湳田,làm tshân
 湳田,làm-tshân
@@ -11429,7 +11370,6 @@
 焦,ta
 焦,tsiau
 焦,na
-焦,Ta
 煮,tsí
 煮,tsú
 煮,tsír
@@ -12063,7 +12003,6 @@
 貺,hīng
 貺,hǐng
 費,huì
-費,Huì
 貼,thiap
 貼,tah
 貿,bōo
@@ -13169,7 +13108,6 @@
 舅,kū
 舅,kiū
 萬,bān
-萬,Bān
 落,lo̍k
 落,lak
 落,làu
@@ -13312,7 +13250,6 @@
 腦髓,náu-tshé
 葉,hio̍h
 葉,ia̍p
-葉,Ia̍p
 葩,pha
 葬,tsòng
 蒂,tì
@@ -13717,7 +13654,6 @@
 隔,keh
 隔,kik
 雷,luî
-雷,Luî
 雹,phau
 雹,phàu
 雹,pha̍uh
@@ -14815,7 +14751,6 @@
 樂,lo̍k
 樂,ga̍k
 樂,ngāu
-樂,Ga̍k
 敵人,ti̍k-jîn
 敵人,ti̍k-lîn
 撥工,puah-kang
@@ -14878,7 +14813,6 @@
 潘,phun
 潘,phuan
 潘,phuann
-潘,Phuann
 潘水,phun-tsuí
 樓仔,lâu-á
 樟仔,tsiunn-á
@@ -15057,7 +14991,6 @@
 編,pinn
 緩,uān
 練,liān
-練,Liān
 罵,mē
 罵,mā
 罵,mī
@@ -15778,9 +15711,9 @@
 燉,tūn
 燒,sio
 燒,sior
+燕,ian
 燕,iàn
 燕,ìnn
-燕,Ian
 燖,tīm
 燙,thǹg
 燜,būn
@@ -15963,7 +15896,6 @@
 賰,tshun
 賴,nāi
 賴,luā
-賴,Luā
 蹁,phîn
 蹄,tê
 蹄,tuê
@@ -16076,7 +16008,6 @@
 錢,tshiân
 錢,tsiân
 錢,tsînn
-錢,Tsînn
 錫,sik
 錫,siah
 錶,pió
@@ -16272,7 +16203,6 @@
 應,ìn
 應,ing
 應,ìng
-應,Ing
 戲,hì
 戴,tài
 戴,tè
@@ -16497,7 +16427,6 @@
 臨,lím
 薄,po̍h
 薄,po̍k
-薄,Po̍k
 薄,po̍rh
 薅,khau
 罾仔,tsan-á
@@ -16600,7 +16529,6 @@
 講,káng
 謝,siā
 謝,tsiā
-謝,Tsiā
 趨,tshu
 講大聲話,kóng tuā-siann-uē
 觳仔,khok-á
@@ -16672,7 +16600,6 @@
 輾轉,liàn-tńg
 鍾,tsing
 鍾,tsiong
-鍾,Tsing
 闊,khuah
 隱,ún
 霜,sng
@@ -17323,7 +17250,6 @@
 關,kuinn
 關,kuainn
 關,kuan
-關,Kuan
 難,lān
 難,lân
 霧,bū
@@ -17380,7 +17306,6 @@
 勸,khuìnn
 勸,khuàn
 嚴,giâm
-嚴,Giâm
 嚷,lióng
 嚷,jiáng
 嚷,gióng
@@ -17506,15 +17431,12 @@
 覺醒,kak-tshínn
 蠓蟲,báng-thâng
 鐘,tsing
-鐘,Tsing
 釋迦,sik-khia
 釋迦,sik-kia
 釋迦,sik-kiau
 飄,phiau
 饒,liâu
 饒,jiâu
-饒,Jiâu
-饒,Liâu
 鰓,tshi
 饒命,jiâu-miā
 饒命,liâu-miā
@@ -17581,8 +17503,11 @@
 爛,nuā
 爛,nuǎ
 癩𰣻,thái-ko
+癩𰣻,thái-kor
 癩𰣻鬼,thái-ko-kuí
 癩𰣻爛癆,thái-ko-nuā-lô
+癩𰣻爛癆,thái-ko-nuǎ-lô
+癩𰣻爛癆,thái-kor-nuā-lôr
 攑手,gia̍h-tshiú
 灌水,kuàn-tsuí
 欄杆,lân-kan
@@ -17633,7 +17558,6 @@
 辯,piān
 鐵,thih
 鐵,thiat
-鐵,Thih
 露,lo̍k
 露,lōo
 霸,pà
@@ -19531,16 +19455,13 @@
 互,hōo
 介,kài
 元,guân
-元,Guân
 勿,bu̍t
 及,ki̍p
 夭,iáu
 孔,khóng
 孔,kháng
-孔,Khóng
 屯,tūn
 巴,pa
-巴,Pa
 幻,huàn
 弔,tiàu
 扎,tsah
@@ -19550,7 +19471,6 @@
 且,tshiánn
 丘,khu
 丘,khiu
-丘,Khu
 他,thann
 仗,tiōng
 仟,tshian
@@ -19567,13 +19487,11 @@
 司,sai
 司,si
 司,su
-司,Su
 孕,īn
 尻,kha
 尼,nî
 尼,lî
 左,tsó
-左,Tsó
 巨,kī
 巨,kū
 弘,hông
@@ -19596,9 +19514,7 @@
 仵,ngóo
 企,khì
 伍,ngóo
-伍,Ngóo
 伏,ho̍k
-伏,Ho̍k
 伙,hué
 伙,hé
 兇,hiong
@@ -19664,7 +19580,6 @@
 吩,huan
 吳,ngôo
 吳,gôo
-吳,Ngôo
 吻,bún
 吾,ngôo
 呂,lī
@@ -19731,10 +19646,8 @@
 芒,bông
 芒,bâng
 谷,kok
-谷,Kok
 豸,thuā
 貝,puè
-貝,Puè
 迅,sìn
 邑,ip
 邦,pang
@@ -19761,12 +19674,10 @@
 卑,pi
 卓,toh
 卓,tok
-卓,Toh
 協,ha̍h
 協,hia̍p
 呧,ti
 周,tsiu
-周,Tsiu
 呱,kuā
 呱,kua̍t
 呱,kop
@@ -19798,7 +19709,6 @@
 姒,sāi
 委,uí
 孟,bīng
-孟,Bīng
 宗,tsong
 宙,tiū
 宛,uán
@@ -19808,7 +19718,6 @@
 尚,siūnn
 尚,siǔnn
 尚,siōnn
-尚,Siōng
 屄,bai
 居,ki
 居,ku
@@ -19817,7 +19726,6 @@
 岩,gâm
 岩,giâm
 岳,ga̍k
-岳,Ga̍k
 帙,tia̍t
 帚,tshiú
 帚,siú
@@ -19905,7 +19813,6 @@
 秉,píng
 穹,kiong
 竺,tiok
-竺,Tiok
 肨,hàng
 肩,king
 肩,kian
@@ -19984,7 +19891,6 @@
 姜,khiunn
 姜,khiong
 姜,khionn
-姜,Khiong
 姪,ti̍t
 姪,tsit
 姻,in
@@ -19993,10 +19899,8 @@
 威,ui
 娃,ua
 宣,suan
-宣,Suan
 宥,iū
 宦,huān
-宦,Huān
 屋,ok
 屏,pîng
 屏,pîn
@@ -20038,7 +19942,6 @@
 柫,put
 柬,kán
 柳,liú
-柳,Liú
 柵,tshik
 柵,sa
 殃,iong
@@ -20091,7 +19994,6 @@
 胞,pau
 胡,hôo
 胡,ôo
-胡,Ôo
 舢,sam
 苑,uán
 苒,liâm
@@ -20100,7 +20002,6 @@
 苔,thai
 苔,thî
 苗,biâu
-苗,Biâu
 苞,pau
 苟,kóo
 苧,tē
@@ -20112,7 +20013,6 @@
 莓,muî
 莓,m̂
 范,huān
-范,Huān
 茅,mâu
 茅,hm̂
 茉,ba̍k
@@ -20154,12 +20054,10 @@
 冥,bîng
 凋,tiau
 凌,lîng
-凌,Lîng
 剖,phóo
 剛,kong
 卿,khing
 原,guân
-原,Guân
 哨,siàu
 哨,sàu
 哲,tiat
@@ -20168,7 +20066,6 @@
 唏,hì
 唐,tông
 唐,tn̂g
-唐,Tn̂g
 埃,ai
 埃,ia
 埆,kak
@@ -20192,7 +20089,6 @@
 庭,tîng
 庭,tiânn
 徐,tshî
-徐,Tshî
 徐,sîr
 徑,kìng
 恐,khióng
@@ -20216,7 +20112,6 @@
 捕,póo
 旁,pông
 晉,tsìn
-晉,Tsìn
 朔,sok
 朗,láng
 朗,lóng
@@ -20226,20 +20121,18 @@
 株,tu
 桀,kia̍t
 桂,kuì
-桂,Kuì
 桅,uî
 桐,tông
 桐,tâng
 桑,sng
 桑,song
 桑,sáng
-桑,Song
 殉,sûn
 殊,sû
 殊,sîr
 殷,ûn
 殷,in
-殷,Un
+殷,un
 氧,ióng
 泰,thài
 浙,tsiat
@@ -20250,7 +20143,6 @@
 浴,io̍k
 涂,tôo
 涂,thôo
-涂,Thôo
 涉,sia̍p
 涗,sè
 涗,suè
@@ -20284,7 +20176,6 @@
 祟,sui
 秘,pì
 秦,tsîn
-秦,Tsîn
 秩,tia̍t
 秪,te
 秫,tsu̍t
@@ -20374,7 +20265,6 @@
 售,siū
 唯,uî
 商,siong
-商,Siong
 啞,á
 啞,é
 啟,khé
@@ -20401,7 +20291,6 @@
 屠,Tôo
 崇,tsông
 崔,tshui
-崔,Tshui
 崖,gâi
 崗,kang
 崗,kong
@@ -20413,11 +20302,9 @@
 帷,uî
 常,tshiâng
 常,siông
-常,Siông
 庵,am
 康,khong
 康,khng
-康,Khng
 庸,iông
 彗,huī
 彩,tshái
@@ -20433,7 +20320,6 @@
 惟,î
 惟,uî
 戚,tshik
-戚,Tshik
 捨,siá
 掇,tuah
 掇,tua̍h
@@ -20450,11 +20336,9 @@
 晨,sîn
 曹,tsô
 曹,tsôr
-曹,Tsô
 曼,bān
 梁,niû
 梁,niôo
-梁,Niû
 梗,kénn
 梗,kíng
 梟,hiau
@@ -20490,7 +20374,6 @@
 率,sut
 率,lu̍t
 畢,pit
-畢,Pit
 略,lio̍k
 略,lio̍h
 異,ī
@@ -20555,7 +20438,6 @@
 許,khóo
 許,hú
 許,hí
-許,Khóo
 許,hír
 豚,thûn
 貧,pîn
@@ -20569,8 +20451,6 @@
 郭,kueh
 郭,keh
 郭,kok
-郭,Kueh
-郭,Keh
 郭,kerh
 釵,the
 釵,tshai
@@ -20582,7 +20462,6 @@
 陸,la̍k
 陸,lio̍k
 陸,lo̍k
-陸,Lio̍k
 雀,tshik
 雀,tshiok
 頃,khing
@@ -20612,7 +20491,6 @@
 喪,sòng
 喪,song
 喬,kiâu
-喬,Kiâu
 喲,iō
 喳,tshā
 喻,lū
@@ -20642,9 +20520,7 @@
 廊,lông
 彭,phîng
 彭,phênn
-彭,Phênn
 彭,phînn
-彭,Phînn
 復,ho̍k
 悲,pi
 悶,būn
@@ -20685,7 +20561,6 @@
 曾,tsing
 曾,tsîng
 曾,tsan
-曾,Tsan
 棍,kùn
 棑,pâi
 棒,pāng
@@ -20754,7 +20629,6 @@
 程,tîng
 程,thîng
 程,thiânn
-程,Thiânn
 窘,khún
 答,tah
 答,tap
@@ -20792,8 +20666,8 @@
 菠,po
 菩,phôo
 華,hua
+華,huà
 華,huâ
-華,Huà
 菱,lîng
 菲,hui
 菲,huí
@@ -20823,7 +20697,6 @@
 距,kū
 軸,ti̍k
 辜,koo
-辜,Koo
 逮,tāi
 週,tsiu
 逸,i̍k
@@ -20838,7 +20711,6 @@
 鈗,uínn
 鈞,kun
 閔,bín
-閔,Bín
 隆,liông
 隍,hông
 階,kai
@@ -20895,7 +20767,6 @@
 楊,tshiûnn
 楚,tshó
 楚,tshóo
-楚,Tshóo
 楝,līng
 楝,lǐng
 楝,liān
@@ -20917,7 +20788,6 @@
 毽,kiàn
 源,guân
 溫,un
-溫,Un
 溯,sòo
 溺,li̍k
 滂,phōng
@@ -20989,7 +20859,6 @@
 萵,gor
 葛,kuah
 葛,kat
-葛,Kat
 葡,phû
 董,tóng
 董,táng
@@ -21024,7 +20893,6 @@
 詰,khiat
 詳,siông
 詹,tsiam
-詹,Tsiam
 誇,khua
 貉,hô
 賂,lōo
@@ -21089,7 +20957,6 @@
 嶄,tsám
 幣,pè
 廖,liāu
-廖,Liāu
 弊,pè
 弊,piah
 彰,tsiong
@@ -21175,7 +21042,6 @@
 翠,tshuì
 聚,tsū
 聞,bûn
-聞,Bûn
 肇,tiāu
 腐,hū
 腐,hú
@@ -21209,7 +21075,6 @@
 賑,tsín
 賓,pin
 趙,tiō
-趙,Tiō
 輓,buán
 輔,hú
 輔,phóo
@@ -21306,7 +21171,6 @@
 歎,thàn
 歐,io
 歐,au
-歐,Au
 毅,gī
 毅,gē
 毿,sàm
@@ -21359,7 +21223,6 @@
 蔓,muā
 蔚,uì
 蔡,tshuà
-蔡,Tshuà
 蔬,se
 蔬,soo
 蔽,pè
@@ -21511,7 +21374,6 @@
 蕩,tōng
 蕭,sio
 蕭,siau
-蕭,Siau
 融,iông
 融,hiông
 螕,pi
@@ -21552,7 +21414,6 @@
 錯,tshò
 錯,tshok
 閻,giâm
-閻,Giâm
 隧,suī
 霎,sap
 霎,tiap
@@ -21563,7 +21424,7 @@
 餐,tshan
 餞,tsiàn
 駱,lo̍k
-駱,Lo̍h
+駱,lo̍h
 骸,hâi
 骿,phiann
 魽,kam
@@ -21602,7 +21463,6 @@
 嶼,sǐr
 嶼,sīr
 嶽,ga̍k
-嶽,Ga̍k
 彌,nî
 彌,mí
 懂,tóng
@@ -21764,7 +21624,6 @@
 謳,oo
 謹,kín
 豐,hong
-豐,Hong
 豐,phong
 贅,tsuè
 蹟,tsik
@@ -21776,7 +21635,6 @@
 釐,lî
 鎔,iûnn
 闕,khuat
-闕,Khuat
 闖,tshuàng
 鞦,tshiu
 顎,kok
@@ -21839,8 +21697,8 @@
 譁,huā
 譎,khiat
 譏,ki
+譚,thâm
 譚,tâm
-譚,Thâm
 贈,tsīng
 贊,tsàn
 贊,tsān
@@ -21889,7 +21747,6 @@
 藹,ái
 蘆,lôo
 蘇,soo
-蘇,Soo
 蘋,phông
 蘑,môo
 蠐,tsê
@@ -21906,7 +21763,6 @@
 躂,that
 醴,lé
 釋,sik
-釋,Sik
 鏽,siù
 鐃,nâ
 鐃,lâu
@@ -22077,7 +21933,6 @@
 汪,ngáu
 汪,ong
 汪,ha̍unnh
-汪,Ong
 汪,na̍uh
 汪,hóm
 咇,phi̍h
@@ -22087,7 +21942,6 @@
 耞,kínn
 焚,hûn
 甄,tsin
-甄,Tsin
 翡,huí
 潰,khuì
 諮,tsu
@@ -22161,7 +22015,8 @@
 磕未著,kha̍p-bē-tio̍h
 磕未著,kha̍p-buē-tio̍h
 出箠,tshut-tshuê
-碣仔,khiat-á、khat-á
+碣仔,khiat-á
+碣仔,khat-á
 原仔,uân-á
 一大片,tsi̍t-tuā-phìnn
 馬耳東風,má-ní-tong-hong
@@ -22526,7 +22381,8 @@
 東部幹線,Tang-pōo-kàn-suànn
 松山,Siông-san
 南港,Lâm-káng
-汐止,Si̍k-tsí(Si̍p-tsí)
+汐止,Si̍k-tsí
+汐止,Si̍p-tsí
 五堵,Gōo-tóo
 七堵,Tshit-tóo
 八堵,Peh-tóo
@@ -23433,12 +23289,14 @@
 查畝營,Tsa-bóo-iânn
 洄瀾,Huê-liân
 玲珞社,Lîn-lo̍k-siā
-竿(菅)蓁林,Kuann-tsin-nâ
+竿蓁林,Kuann-tsin-nâ
+菅蓁林,Kuann-tsin-nâ
 紅毛田,Âng-môo-tshân
 紅毛港,Âng-mn̂g-káng
 紅瓦厝仔,Âng-hiā-tshù-á
 紅頭嶼,Âng-thâu-sū
-苓仔寮、能雅寮,Lîng-á-liâu
+苓仔寮,Lîng-á-liâu
+能雅寮,Lîng-á-liâu
 茄拔,Ka-pua̍t
 茄苳萣仔,Ka-tang-tiānn-á
 茄苳跤,Ka-tang-kha
@@ -23558,74 +23416,73 @@
 灣里街,Uan-lí-ke
 灣里街,Uan-lí-kue
 蠻蠻,Bân-bân
-上官,Siōng-kuan
-公羊,Kong-iông
-公孫,Kong-sun
-尹,Ún
-戈,Ko
-令狐,Lîng-hôo
-司馬,Su-má
-匡,Khong
-牟,Bôo
-佘,Siâ
-余,Û
-佟,Tông
-巫,Bû
-狄,Ti̍k
+上官,siōng-kuan
+公羊,kong-iông
+公孫,kong-sun
+尹,ún
+戈,ko
+令狐,lîng-hôo
+司馬,su-má
+匡,khong
+牟,bôo
+佘,siâ
+余,û
+佟,tông
+巫,bû
+狄,ti̍k
 東方,tang-hong
-東方,Tong-hong
-邱,Khu
-邵,Siō
-南宮,Lâm-kiong
-皇甫,Hông-hú
-苻,Hû
-范姜,Huān-Kiong
-倪,Gê
-奚,Hê
-姬,Ki
-夏侯,Hā-hôo
-晁,Tiâu
-耿,Kíng
-袁,Uân
-郝,Hok
-婁,Lôo
-寇,Khòo
-尉遲,Ut-tî
-庾,Jú
-庾,Lú
-張李,Tiunn-Lí
-張許,Tiunn-Khóo
-張廖,Tiunn-Liāu
-張簡,Tiunn-Kán
-扈,Hōo
-陳廖,Tân-Liāu
-馮,Pâng
-虞,Gû
-鄒,Tsau
-鄔,Oo
-靳,Kìn
-端木,Tuan-bo̍k
-翟,Ti̍k
-臧,Tsong
-裴,Puê
-褚,Thú
-慕容,Bōo-iông
-樊,Huân
-歐陽,Au-iông
+東方,tong-hong
+邱,khu
+邵,siō
+南宮,lâm-kiong
+皇甫,hông-hú
+苻,hû
+范姜,huān-kiong
+倪,gê
+奚,hê
+姬,ki
+夏侯,hā-hôo
+晁,tiâu
+耿,kíng
+袁,uân
+郝,hok
+婁,lôo
+寇,khòo
+尉遲,ut-tî
+庾,lú
+庾,jú
+張李,tiunnlLí
+張許,tiunn-khóo
+張廖,tiunn-liāu
+張簡,tiunn-kán
+扈,hōo
+陳廖,tân-liāu
+馮,pâng
+虞,gû
+鄒,tsau
+鄔,oo
+靳,kìn
+端木,tuan-bo̍k
+翟,ti̍k
+臧,tsong
+裴,puê
+褚,thú
+慕容,bōo-iông
+樊,huân
+歐陽,au-iông
 蔣,tsiúnn
 蔣,tsiónn
-蔣,Tsiúnn
-諸葛,Tsu-kat
-盧,Lôo
-穆,Bo̍k
-霍,Hok
-薛,Sih
-瞿,Khû
-聶,Lia̍p
-魏,Guī
-藺,Līn
-酆,Hong
-龔,Kíng
+諸葛,tsu-kat
+盧,lôo
+穆,bo̍k
+霍,hok
+薛,sih
+瞿,khû
+聶,lia̍p
+魏,guī
+藺,līn
+酆,hong
+龔,kíng
 可以,khó-í
 如果,jû-kó
 如果,lû-kó
@@ -29834,13 +29691,9 @@
 販仔間,huàn-á-king
 冷著,líng--tio̍h
 翕著熱,hip-tio̍h-lua̍h
-癩𰣻,thái-ko
-癩𰣻,thái-kor
 痲瘋,bâ-huang
 痲瘋,muâ-hong
 痲瘋症,mâ-hong-tsìng
-癩𰣻病,thái-ko-pēnn
-癩𰣻病,thái-ko-pīnn
 八腳,pat-kiok
 歹囝症,phái-kiánn-tsìng
 垃圾病,lah-sap-pīnn
@@ -29936,9 +29789,6 @@
 插秧仔,tshah-ng-á
 蔭水,ìm-tsuí
 大個,tuǎ-kâinn
-癩𰣻爛癆,thái-ko-nuā-lô
-癩𰣻爛癆,thái-ko-nuǎ-lô
-癩𰣻爛癆,thái-kor-nuā-lôr
 濟歲,tsuē hè
 鹹澀,kiâm-siap
 貓筩,niau-thāng
