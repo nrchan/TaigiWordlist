@@ -87,6 +87,7 @@
 十二指腸,si̍p-lī-tsí-tn̂g
 二九暝,Jī-káu-mê
 二九暝,Lī-káu-mî
+二九暝,Lī-káu-mê
 十八骰仔,si̍p-pat-tâu-á
 十八骰仔,si̍p-pat-tāu-á
 十八變,tsa̍p-peh-piàn
@@ -237,6 +238,8 @@
 刁難,thiau-lân
 人權,jîn-khuân
 人權,lîn-khuân
+人權,jîn-kuân
+人權,lîn-kuân
 丈,tn̄g
 丈,tiōng
 丈,tiūnn
@@ -625,6 +628,7 @@
 土想,thóo-siūnn
 下暗,e-àm
 下暗,enn-àm
+下暗,ē-àm
 工會,kang-huē
 工業,kang-gia̍p
 才會,tsiah ē
@@ -669,6 +673,7 @@
 大腿骨,tuā-thuí-kut
 上蓋,siōng-kài
 小說,sió-suat
+小說,siáu-suat
 大銀,tuā-gîn
 大銀,tuā-gûn
 小銀,sió-gîn
@@ -842,12 +847,18 @@
 五日節,Gōo-ji̍t-tseh
 五日節,Gōo-li̍t-tsueh
 五日節,gōo-ji̍t-tseh
+五日節,Gōo-ji̍t-tsueh
+五日節,Gōo-li̍t-tseh
 五月節,Gōo-gue̍h-tseh
 五月節,Gōo-ge̍rh-tsueh
 五月節,Gōo-gēr-tsereh
 五月節,gōo-ge̍rh-tsueh
 五月節,gōo-ge̍h-tsueh
 五月節,Gōo-ge̍h-tsueh
+五月節,Gōo-gue̍h-tseh
+五月節,Gōo-gue̍h-tsueh
+五月節,Gōo-ge̍h-tseh
+五月節,Gōo-ge̍h-tsueh
 丑仔,thiú-á
 今仔,tann-á
 今仔日,kin-á-ji̍t
@@ -1464,6 +1475,7 @@
 月經,gue̍h-king
 月經,ge̍rh-king
 月經,ge̍h-king
+月經,gu̍eh-king
 反腹,píng-pak
 心腸,sim-tn̂g
 心腹,sim-pak
@@ -1845,6 +1857,7 @@
 冊櫥,tsheh-tû
 主顧,tsú-kòo
 主權,tsú-khuân
+主權,tsú-kuân
 冬,tang
 冬,tong
 凹,nah
@@ -2061,6 +2074,7 @@
 可惱,khó-náu
 四散,sì-suànn
 加減,ke-kiám
+加減,ka-kiám
 出港,tshut-káng
 外甥,guē-sing
 冬菜,tang-tshài
@@ -2212,6 +2226,9 @@
 平仄,piânn-tseh
 平分,pênn-pun
 平分,pînn-pun
+平分,pênn-hun
+平分,pîng-hun
+平分,pîng-pun
 失手,sit-tshiú
 打扎,tánn-tsah
 正手,tsiànn-tshiú
@@ -2244,6 +2261,8 @@
 母囝椅,bó-kiánn-í
 平地,pênn-tē
 平地,pînn-tuē
+平地,pênn-tuē
+平地,pînn-tē
 平安,pîng-an
 本地,pún-tē
 本地,pún-tuē
@@ -2402,6 +2421,7 @@
 幼麵麵,iù-mī-mī
 失戀,sit-luân
 母體,bú-thé
+母體,bó-thé
 失體面,sit-thé-bīn
 犯,huān
 犯,huǎn
@@ -2646,6 +2666,7 @@
 白糖,pe̍h-thn̂g
 白糖蔥,pe̍h-thn̂g-tshang
 目錄,bo̍k-lo̍k
+目錄,bo̍k-lio̍k
 目頭,ba̍k-thâu
 石頭仔,tsio̍h-thâu-á
 白頭鵠仔,pe̍h-thâu-khok-á
@@ -2956,6 +2977,7 @@
 各樣,koh-iūnn
 冰箱,ping-siunn
 同學,tông-ha̍k
+同學,tông-o̍h
 危機,guî-ki
 吊橋,tiàu-kiô
 冰糖,ping-thn̂g
@@ -3678,6 +3700,7 @@
 肉粽角,bah-tsàng-kak
 肉粽節,bah-tsàng-tseh
 肉粽節,bah-tsàng-tsueh
+肉粽節,Bah-tsàng-tseh
 竹蓆,tik-tshio̍h
 肉餅,bah-piánn
 米價,bí-kè
@@ -4183,6 +4206,8 @@
 扱,khi̍p
 扲,gīm
 扳,pian
+扳,pan
+扳,penn
 扴,ke̍h
 扶,hû
 扶,phôo
@@ -4299,6 +4324,7 @@
 杜定,tōo-tīng
 杜定,tōo-tǐng
 批信,phue-sìn
+批信,phe-sìn
 抑是,ia̍h-sī
 投胎,tâu-thai
 投降,tâu-hâng
@@ -4318,6 +4344,7 @@
 把握,pá-ak
 改換,kái-uānn
 批殼,phue-khak
+批殼,phe-khak
 杜猴,tōo-kâu
 杜猴,tǒo-kâu
 杜猴,tuā-kâu
@@ -4340,6 +4367,7 @@
 杜鵑,tōo-kuan
 抗議,khòng-gī
 批囊,phue-lông
+批囊,phe-lông
 抄襲,tshau-si̍p
 改變,kái-piàn
 束,sok
@@ -4905,6 +4933,8 @@
 坪,pînn
 坪,phîng
 坪,phiânn
+坪,phênn
+坪,phînn
 坯,phue
 坯,phe
 命令,bīng-līng
@@ -6518,6 +6548,7 @@
 後月日,āu ge̍h-li̍t
 後代,āu-tāi
 後代,āu-tē
+後代,hiō-tāi
 拭仔,tshit-á
 後世人,āu-sì-lâng
 恬去,tiām--khì
@@ -6927,6 +6958,7 @@
 流凊汗,lâu-tshìn-kuānn
 流浪,liû-lōng
 活動,ua̍h-tāng
+活動,ua̍h-tōng
 活欲,ua̍h-beh
 活欲,ua̍h-bueh
 流產,liû-sán
@@ -7463,6 +7495,7 @@
 面前,bīn-tsîng
 風俗,hong-sio̍k
 食品,si̍t-phín
+食品,kái-tsō
 風度,hong-tōo
 風流,hong-liû
 面盆,bīn-phûn
@@ -7537,6 +7570,7 @@
 風調雨順,hong-tiâu-ú-sūn
 食醋,tsia̍h-tshòo
 面積,bīn-tsik
+面積,biān-tsik
 食膨餅,tsia̍h-phòng-piánn
 食錢,tsia̍h-tsînn
 食錢,tsiā-tsînn
@@ -7987,6 +8021,8 @@
 挽回,bán-hê
 捌字,bat-jī
 捌字,bat-lī
+捌字,pat-jī
+捌字,pat-lī
 旅行,lí-hîng
 旅行,lú-hîng
 時行,sî-kiânn
@@ -8018,6 +8054,7 @@
 捒做堆,sak-tsò-tui
 捒做堆,sak-tsuè-tui
 振動,tín-tāng
+振動,tsín-tōng
 時常,sî-siông
 挽救,bán-kiù
 挵球,lòng-kiû
@@ -8141,6 +8178,7 @@
 柴耙,tshâ-pê
 柴草,tshâ-tsháu
 核能,hi̍k-lîng
+核能,hu̍t-lîng
 晏起來,uànn khí--lâi
 栽培,tsai-puê
 桌屜,toh-thuah
@@ -8243,6 +8281,7 @@
 氣運,khì-ūn
 海墘,hái-kînn
 海漲,hái-tiòng
+海漲,hái-tiùnn
 海綿,hái-mî
 氣數,khì-sòo
 海線,hái-suànn
@@ -8320,6 +8359,7 @@
 消毒,siau-to̍k
 消風,siau-hong
 烏面抐桮,oo-bīn-lā-pue
+烏面抐桮,oo-bīn-lā-pue
 消息,siau-sit
 特效藥,ti̍k-hāu-io̍h
 烏格仔,oo-keh-á
@@ -9832,6 +9872,7 @@
 捲螺仔風,kńg-lêr-á-hong
 捲螺仔風,kuínn-lê-á-hong
 捲螺仔風,kńg-lêr-á-huang
+捲螺仔風,kńg-lê-á-hong
 捲螺仔旋,kńg-lê-á-tsn̄g
 捲螺仔旋,kuínn-lê-á-tsuīnn
 採購,tshái-kòo
@@ -10687,6 +10728,7 @@
 陰桮,im-pue
 頂晡,tíng-poo
 野球,iá-kiû
+野球,iá-kiû
 粟鳥仔,tshik-tsiáu-á
 釣魚翁,tiò-hî-ang
 釣魚翁,tiò-hû-ang
@@ -11153,6 +11195,7 @@
 掰開,pué-khui
 插話,tshah-uē
 描寫,biô-siá
+描寫,biâu-siá
 插潲,tshap-siâu
 惡確確,ok-khia̍k-khia̍k
 提親,thê-tshin
@@ -11352,6 +11395,7 @@
 湯匙仔,thng-sî-á
 湯匙仔菜,thng-sî-á-tshài
 測量,tshik-liông
+測量,tshik-liōng
 湠開,thuànn--khui
 港路,káng-lōo
 港墘,káng-kînn
@@ -11566,6 +11610,7 @@
 番社,huan-siā
 痟的,siáu--ê
 發芽,puh-gê
+發芽,huat-gê
 發表,huat-piáu
 痛苦,thòng-khóo
 發展,huat-tián
@@ -11742,6 +11787,7 @@
 結束,kiat-sok
 筊岫,kiáu-siū
 等於,tíng-î
+等於,tíng-û
 筊東,kiáu-tong
 結果,kiat-kó
 粟青,tshik-tshenn
@@ -11889,6 +11935,7 @@
 菜粽,tshài-tsàng
 菖蒲,tshiong-pôo
 菜蔬,tshài-se
+菜蔬,tshài-sue
 菜燕,tshài-iàn
 菜頭,tshài-thâu
 菜館,tshài-kuán
@@ -12098,6 +12145,7 @@
 進行,tsìn-hîng
 郵局,iû-kio̍k
 鄉村,hiong-tshun
+鄉村,hiong-tshuan
 進步,tsìn-pōo
 鄉里,hiunn-lí
 鄉長,hiong-tiúnn
@@ -12267,6 +12315,7 @@
 雲尪,hûn-ang
 順序,sūn-sī
 順序,sūn sū
+順序,sūn-sū
 飯杓,pn̄g-sia̍h
 飯疕,pn̄g-phí
 飯疕,pňg-phí
@@ -12674,6 +12723,7 @@
 摃槌仔,kòng-thuî-á
 新聞,sin-bûn
 搬請,puann-tshiánn
+新曆,iông-li̍k
 新曆,sin-li̍k
 新興,sin-hing
 損蕩,sńg-tn̄g
@@ -13049,6 +13099,8 @@
 義子,gī-tsú
 節日,tseh-ji̍t
 節日,tsueh-li̍t
+節日,tseh-li̍t
+節日,tsueh-ji̍t
 節目,tsiat-bo̍k
 節育,tsiat-io̍k
 節制,tsiat-tsè
@@ -13085,6 +13137,7 @@
 節儉,tsiat-khiām
 經線,kenn-suànn
 經線,kinn-suànn
+經線,king-suànn
 經歷,king-li̍k
 經濟,king-tsè
 經營,king-îng
@@ -13171,6 +13224,7 @@
 腹肚,pak-tóo
 腹肚,pat-tóo
 腹肚,bat-tóo
+腹肚,bak-tóo
 腹肚尾,pak-tóo-bué
 腹肚尾,pak-tóo-bé
 腹肚枵,pak-tóo-iau
@@ -13317,6 +13371,7 @@
 蜈蚣,giâ-kang
 解酒,kái-tsiú
 解除,kái-tû
+解除,kái-tî
 試探,tshì-thàm
 補添,póo-thiam
 補紩,póo-thīnn
@@ -13454,6 +13509,7 @@
 話頭,uē-thâu
 賊頭,tsha̍t-thâu
 跤頭趺,kha-thâu-u
+跤頭趺,kha-thâu-hu
 誠懇,sîng-khún
 話縫,uē-phāng
 跤縫,kha-phāng
@@ -13880,6 +13936,7 @@
 廕,ìm
 實力,si̍t-li̍k
 對分,tuì-pun
+對分,tuì-hun
 對不住,tuì-put-tsū
 對反,tuì-huán
 對手,tuì-tshiú
@@ -14391,6 +14448,7 @@
 認定,līn-tīng
 說明,suat-bîng
 說明,sueh-bîng
+說明,seh-bîng
 語法,gí-huat
 語法,gú-huat
 說客,suè-kheh
@@ -14671,6 +14729,7 @@
 寬寬仔,khuann-khuann-á
 寬寬仔是,khuann-khuann-á-sī
 廣播劇,kóng-pòo-kio̍k
+廣播劇,kóng-pò-kio̍k
 影戲,iánn-hì
 影響,íng-hióng
 慼,tshik
@@ -14916,6 +14975,7 @@
 皺痕,jiâu-hûn
 皺痕,liâu-hûn
 盤喙錦,puânn-tshuì-gím
+盤喙錦,puânn-tshuì-kím
 瘦猴,sán-kâu
 璇筆,suān-pit
 熱著,jua̍h--tio̍h
@@ -15101,6 +15161,7 @@
 蝶仔,iā-á
 課本,khò-pún
 衛生,uē-sing
+衛生,uī-sing
 衛生紙,uē-sing-tsuá
 談判,tâm-phuànn
 衛星,uē-tshenn
@@ -15632,6 +15693,7 @@
 樹栽,tshiū-tsai
 機密,ki-bi̍t
 機械,ki-hāi
+機械,ki-kài
 橐袋仔,lak-tē-á
 橐袋仔,lak-tēr-á
 橋頂,kiô-tíng
@@ -16256,6 +16318,7 @@
 擤鼻,tshǹg-phī
 擤鼻,tshǹg-phīnn
 戲劇,hì-kio̍k
+戲劇,hì-ki̍k
 懂嚇,táng-hiannh
 應聲,ìn-siann
 幫贊,pang-tsān
@@ -16556,6 +16619,7 @@
 講堂,káng-tn̂g
 講情,kóng-tsîng
 謎猜,bī-tshai
+謎猜,bî-tshai
 講習,káng-si̍p
 謝絕,siā-tsua̍t
 謙虛,khiam-hi
@@ -16726,6 +16790,7 @@
 禮服,lé-ho̍k
 禮物,lé-bu̍t
 禮拜,lé-pài
+禮拜,lé-pài-tsè
 禮拜日,lé-pài-ji̍t
 禮拜日,lé-pài-li̍t
 禮拜堂,lé-pài-tn̂g
@@ -16788,6 +16853,7 @@
 繏腰,sǹg io
 舊數,kū-siàu
 舊曆,kū-li̍k
+舊曆,kū-lik
 翻頭,huan-thâu
 薰頭,hun-thâu
 翻點,huan-tiám
@@ -17122,6 +17188,7 @@
 曝鹽,pha̍k iâm
 瀨,luā
 爍,sih
+瓣,pān
 瓣,bān
 礙,gāi
 礙目,gāi-ba̍k
@@ -17349,6 +17416,7 @@
 癢,ióng
 懸低,kuân-kē
 懸山,kuân suann
+懸山,kuân-suann
 爐丹,lôo-tan
 攕仔,tshiám-á
 櫳仔,lông-á
@@ -17649,6 +17717,7 @@
 權力,khuân-li̍k
 彎曲,uan-khiau
 權利,khuân-lī
+權利,kuân-lī
 彎來斡去,uan-lâi-uat-khì
 歡迎,huan-gîng
 權威,khuân-ui
@@ -17802,6 +17871,7 @@
 顯聖,hián-sìng
 體諒,thé-liōng
 體操,thé-tshau
+體操,thê-tshau
 顯頭,hiánn-thâu
 變竅,piàn-khiàu
 體驗,thé-giām
@@ -18059,7 +18129,9 @@
 𨑨迌囡仔,tshit-thô-gín-á
 𨑨迌物,tshit-thô-mi̍h
 𨑨迌物,tshit-thô-mn̍gh
+𨑨迌物,thit-thô-mi̍h
 𨑨迌物仔,tshit-thô-mih-á
+𨑨迌物仔,thit-thô-mih-á
 𨑨迌查某,tshit-thô-tsa-bóo
 𥍉,liap
 𥍉,nih
@@ -18234,6 +18306,7 @@
 沙耙,sua-pê
 牢鼎,tiâu-tiánn
 芒種雨,bông-tsíng hōo
+芒種雨,bông-tsíng-hōo
 事事項項,sū-sū-hāng-hāng
 佮股,kap-kóo
 奉待,hōng-thāi
@@ -18492,6 +18565,8 @@
 一必一中,it-pit-it-tiòng
 七月半,tshit-gue̍h-puànn
 七月半,tshit-ge̍h-puànn
+七月半,Tshit-gue̍h-puànn
+七月半,Tshit-ge̍h-puànn
 七晏八晏,tshit-uànn-peh-uànn
 七晏八晏,tshit-uànn-pueh-uànn
 人額,lâng-gia̍h
@@ -19082,6 +19157,7 @@
 湠根,thuànn-kin
 湠根,thuànn-kun
 湳仔地,làm-á-tē
+湳仔地,làm-á-tuē
 湳塗,làm-thôo
 湳塗,làm thôo
 無才,bô-tsâi
@@ -19132,6 +19208,7 @@
 催油,tshui-iû
 剾刀蔫,khau-to-lian
 塗石流,thôo-tsio̍h-lâu
+塗石流,thôo-tsio̍h-liû
 塗肉,thôo-bah
 媽祖婆,Má-tsóo-pô
 幌頭,hàinn-thâu
@@ -19385,6 +19462,8 @@
 食飯會,tsia̍h-pn̄g-huē
 金言玉語,kim-giân-gio̍k-gí
 金言玉語,kim-giân-gio̍k-gú
+金言玉語,kim-giân-giok-gí
+金言玉語,kim-giân-giok-gú
 好食睏,hó-tsia̍h-khùn
 隨人食,suî-lâng-tsia̍h
 渡鳥,tōo-tsiáu
@@ -22141,11 +22220,14 @@
 清明,tshing-bîng
 清明,tshuinn-miâ
 清明,tshinn-miâ
+清明,Tshing-bîng
+清明,Tshinn-miâ
 穀雨,kok-ú
 立夏,li̍p-hē
 小滿,sió-buán
 芒種,bông-tsíng
 夏至,hē-tsì
+夏至,hā-tsì
 小暑,siáu-sú
 大暑,tāi-sú
 立秋,li̍p-tshiu
@@ -22160,6 +22242,7 @@
 冬節,tang-tseh
 冬節,tang-tsueh
 冬節,tang-tsereh
+冬節,tang-tsehh
 小寒,siáu-hân
 九份二山,Káu-hūn-jī-suann
 八卦山,Pat-kuà-suann
@@ -22174,6 +22257,7 @@
 小觀音山,Sió-kuan-im-suann
 丹大山,Tan-tuā-suann
 中央山脈,Tiong-iong-suann-me̍h
+中央山脈,Tiong-iong Suann-me̍h
 中央尖山,Tiong-iong-tsiam-suann
 五指山,Ngóo-tsí-suann
 木瓜山,Bo̍k-kue-suann
@@ -22217,7 +22301,9 @@
 大安森林公園,Tāi-an Sim-lîm Kong-hn̂g
 大稻埕偶戲館,Tuā-tiū-tiânn Ngóo-hì-kuán
 天文台,Thian-bûn-tâi
+天文台,thian-bûn-tâi
 天文臺,Thian-bûn-tâi
+天文臺,thian-bûn-tâi
 天文館,Thian-bûn-kuán
 木柵動物園,Ba̍k-sa Tōng-bu̍t-hn̂g
 台北二二八紀念館,Tâi-pak Jī-jī-pat Kì-liām-kuán
@@ -22251,6 +22337,7 @@
 故宮博物院,Kòo-kiong Phok-bu̍t-īnn
 科學博物館,Kho-ha̍k Phok-bu̍t-kuán
 美術館,Bí-su̍t-kuán
+美術館,bí-su̍t-kuán
 海洋生物館,Hái-iûnn Sing-bu̍t-kuán
 海關博物館,Hái-kuan Phok-bu̍t-kuán
 琉園水晶博物館,Liû-uân Tsuí-tsinn Phok-bu̍t-kuán
@@ -22432,6 +22519,8 @@
 平和,pîng-hô
 壽豐,Siū-hong
 溪口,Khe-kháu
+溪口,khe-kháu
+溪口,khue-kháu
 南平,Lâm-pîng
 鳳林,Hōng-lîm
 萬榮,Bān-îng
@@ -22951,6 +23040,7 @@
 昆陽,Khun-iông
 後山埤,Āu-suann-pi
 市政府,Tshī-tsìng-hú
+市政府,tshī-tsìng-hú
 國父紀念館,Kok-hū Kì-liām-kuán
 忠孝敦化,Tiong-hàu Tun-huà
 忠孝新生,Tiong-hàu Sin-sing
@@ -22970,6 +23060,7 @@
 西子灣,Se-á-uân
 鹽埕埔,Iâm-tiânn-poo
 市議會,Tshī-gī-huē
+市議會,tshī-gī-huē
 信義國小,Sìn-gī Kok-sió
 文化中心,Bûn-huà Tiong-sim
 文化中心,bûn-huà tiong-sim
@@ -23039,6 +23130,9 @@
 蘇澳港,Soo-ò-káng
 花蓮港,Hua-liân-káng
 蘭陽溪,Lân-iâng-khe
+蘭陽溪,Lân-iâng-khue
+蘭陽溪,Lân-iông-khe
+蘭陽溪,Lân-iông-khue
 羅東溪,Lô-tong-khe
 宜蘭河,Gî-lân-hô
 大礁溪,Tuā-ta-khe
@@ -23068,6 +23162,7 @@
 旱溪,Hān-khe
 頭汴坑溪,Thâu-pān-khenn-khe
 濁水溪,Lô-tsuí-khe
+濁水溪,Lô-tsuí-khue
 清水溪,Tshing-tsuí-khe
 陳有蘭溪,Tân-iú-lân-khe
 東埔蚋溪,Tong-poo-la̍k-khe
@@ -23081,6 +23176,7 @@
 二仁溪,Jī-jîn-khe
 阿公店溪,A-kong-tiàm-khe
 高屏溪,Ko-pîn-khe
+高屏溪,Ko-pîn-khue
 旗山溪,Kî-san-khe
 美濃溪,Bi-long-khe
 荖濃溪,Lāu-lông-khe
@@ -23090,6 +23186,7 @@
 東港溪,Tang-káng-khe
 四重溪,Sì-tîng-khe
 卑南溪,Pi-lâm-khe
+卑南溪,Pi-lâm-khue
 鹿野溪,Lo̍k-iá-khe
 鹿寮溪,Lo̍k-liâu-khe
 秀姑巒溪,Siù-koo-luân-khe
@@ -23098,6 +23195,7 @@
 豐坪溪,Hong-pênn-khe
 樂樂溪,Lo̍k-lo̍k-khe
 花蓮溪,Hua-liân-khe
+花蓮溪,Hua-liân-khue
 木瓜溪,Bo̍k-kue-khe
 壽豐溪,Siū-hong-khe
 萬里溪,Bān-lí-khe
@@ -23209,6 +23307,7 @@
 木瓜村,Bo̍k-kue-tshuan
 水尾,Tsuí-bué
 水尾,Tsuí-bé
+水尾,tsuí-bué
 水返腳,Tsuí-tńg-kha
 月津港,Gua̍t-tin-káng
 水堀頭,Tsuí-khut-thâu
@@ -23294,6 +23393,7 @@
 菅蓁林,Kuann-tsin-nâ
 紅毛田,Âng-môo-tshân
 紅毛港,Âng-mn̂g-káng
+紅毛港,Âng-moo-káng
 紅瓦厝仔,Âng-hiā-tshù-á
 紅頭嶼,Âng-thâu-sū
 苓仔寮,Lîng-á-liâu
@@ -23769,6 +23869,7 @@
 突破,tu̍t-phuà
 售價,siū-kè
 紀錄,kì-lo̍k
+紀錄,kì-lio̍k
 造型,tsō-hîng
 報名,pò-miâ
 營收,îng-siu
@@ -23874,6 +23975,7 @@
 指標,tsí-piau
 英文,Ing-bûn
 素描,sòo-biô
+素描,sòo-biâu
 措施,tshòo-si
 異常,ī-siông
 過敏,kuè-bín
@@ -23905,6 +24007,7 @@
 好好,hó-hó
 彷彿,hóng-hut
 東南亞,Tang-lâm-a
+東南亞,Tang-lâm-A
 記錄,kì-lo̍k
 象徵,siōng-ting
 進一步,tsìn-tsi̍t-pōo
@@ -23915,6 +24018,7 @@
 親自,tshin-tsū
 錄音帶,lo̍k-im-tuà
 環保,khuân-pó
+環保,huân-pó
 吸收,khip-siu
 身上,sin--siōng
 取代,tshú-tāi
@@ -23968,6 +24072,7 @@
 反彈,huán-tuânn
 方案,hong-àn
 生態,sing-thài
+生態,sing-thāi
 全力,tsuân-li̍k
 完美,uân-bí
 抗生素,khòng-sing-sòo
@@ -23987,6 +24092,7 @@
 出任,tshut-jīm
 出任,tshut-līm
 平衡,pîng-hîng
+平衡,pînn-hîng
 因應,in-ìng
 防止,hông-tsí
 忽略,hut-lio̍k
@@ -24015,12 +24121,14 @@
 澈底,thiat-té
 澈底,thiat-tué
 歌劇,kua-kio̍k
+歌劇,kua-ki̍k
 數據,sòo-kì
 數據,sòo-kù
 確保,khak-pó
 器材,khì-tsâi
 機種,ki-tsióng
 競爭力,kīng-tsing-li̍k
+競爭力,kìng-tsing-li̍k
 人選,jîn-suán
 人選,lîn-suán
 下降,hā-kàng
@@ -24654,6 +24762,7 @@
 行列,hâng-lia̍t
 行星,hîng-tshenn
 行星,hîng-tshinn
+行星,hîng-sing
 占用,tsiàm-iōng
 佈滿,pòo-muá
 改造,kái-tsō
@@ -24750,6 +24859,7 @@
 地檢署,Tuē-kiám-sú
 好笑,hó-tshiò
 曲線,khiok-suànn
+曲線,khik-suànn
 西部,se-pōo
 忍受,jím-siū
 忍受,lím-siū
@@ -24921,6 +25031,7 @@
 同仁,tông-jîn
 同仁,tông-lîn
 名詞,miâ-sû
+名詞,bîng-sû
 地板,tē-pán
 地板,tuē-pán
 字樣,jī-iūnn
@@ -25012,6 +25123,7 @@
 木星,Bo̍k-tshenn
 木星,Bo̍k-tshinn
 水面,tsuí-bīn
+水面,tsuí-biān
 出廠,tshut-tshiúnn
 功夫,kang-hu
 古典,kóo-tián
@@ -25267,6 +25379,7 @@
 壓縮,ap-sok
 瞬間,sùn-kan
 隱私,ún-su
+隱私,ín-su
 轉載,tsuán-tsài
 櫥窗,tû-thang
 簽訂,tshiam-tīng
@@ -25298,6 +25411,7 @@
 外流,guā-lâu
 巧合,khá-ha̍p
 平原,pîng-guân
+平原,pênn-guân
 民法,bîn-huat
 民政局,bîn-tsìng-kio̍k
 民營,bîn-îng
@@ -25509,6 +25623,7 @@
 糾紛,kiù-hun
 侷限,kio̍k-hān
 客家,kheh-ka
+客家,Kheh-ka
 柔軟,jiû-nńg
 柔軟,liû-nńg
 查詢,tshâ-sûn
@@ -25661,6 +25776,7 @@
 自律,tsū-lu̍t
 自排,tsū-pâi
 兵役,ping-i̍k
+兵役,ping-ia̍h
 冷淡,líng-tām
 冷淡,líng tām
 判定,phuànn-tīng
@@ -25778,6 +25894,7 @@
 詩人,si-lîn
 路標,lōo-piau
 跳遠,thiàu-hn̄g
+跳遠,thiàu-uán
 農地,lông-tē
 農地,lông-tuē
 雷射,luî-siā
@@ -26329,6 +26446,8 @@
 標誌,piau-tsì
 標題,piau-tê
 標題,piau-tuê
+標題,phiau-tê
+標題,phiau-tuê
 獎助金,tsióng-tsōo-kim
 編制,pian-tsè
 編號,pian-hō
@@ -26882,6 +27001,7 @@
 爭奪,tsing-tua̍t
 版面,pán-bīn
 版權,pán-khuân
+版權,pán-kuân
 直線,ti̍t-suànn
 社員,siā-uân
 社論,siā-lūn
@@ -27437,6 +27557,7 @@
 屈服,khut-ho̍k
 岩石,gâm-tsio̍h
 岩石,gâm-si̍k
+岩石,giâm-tsio̍h
 底薪,té-sin
 底薪,tué-sin
 怪罪,kuài-tsuē
@@ -27841,6 +27962,7 @@
 二手貨,jī-tshiú-huè
 二手貨,lī-tshiú-hè
 二氧化碳,jī-ióng-huà-thuànn
+二氧化碳,lī-ióng-huà-thuànn
 人事局,Jîn-sū-kio̍k
 人事局,Lîn-sū-kio̍k
 人和,jîn-hô
@@ -28476,6 +28598,7 @@
 溪頭,Khe-thâu
 溪頭,Khue-thâu
 溪頭,khe-thâu
+溪頭,khue-thâu
 煎餅,tsian-piánn
 煩心,huân-sim
 當日,tong-ji̍t
@@ -28617,6 +28740,8 @@
 黎明,lê-bîng
 儒家,Jû-ka
 儒家,Lû-ka
+儒家,jû-ka
+儒家,lû-ka
 學府,ha̍k-hú
 學會,ha̍k-huē
 導師,tō-su
@@ -28817,6 +28942,7 @@
 天公疼戇人,thinn-kong thiànn gōng-lâng
 台灣,tâi-uân
 臺灣,tâi-uân
+臺灣,Tâi-uân
 目睭花花,ba̍k-tsiu hue-hue
 好心予雷唚,hó-sim hōo luî tsim
 好酒沉甕底,hó-tsiú tîm àng-té
@@ -28959,7 +29085,9 @@
 花仔紙,hue-á-tsuá
 搝索仔,giú-soh-á
 拔大索,pue̍h-tuā-soh
+拔大索,pui̍h-tuā-soh
 拔索,pui̍h-soh
+拔索,pue̍h-soh
 擋索仔,tòng-soh--á
 捙拋輪,tshia-pha-lin
 反輦狗仔,píng-lián-káu-á
@@ -29076,6 +29204,7 @@
 湯匙,thng-sî
 日頭公,li̍t-thâu-kong
 太陽,thài-iâng
+太陽,thài-iông
 月亮,gue̍h-liāng
 天星,thinn-tshinn
 天星,thinn-tshenn
@@ -29095,6 +29224,7 @@
 三日節,sann-ji̍t-tseh
 三月節,sann-ge̍rh-tsueh
 三月節,sann-ge̍h-tsueh
+三月節,sann-gue̍h-tsueh
 九月重陽,káu-gēr-tiông-iông
 九月重陽,káu-gue̍h-tiông-iông
 重陽,tiông-iông
@@ -29164,6 +29294,7 @@
 下昏暗時,ing-àm-sî
 暗時仔,àm-sî-á
 下昏時,ing-sî
+下昏時,ē-hng-sî
 此暝昏,tsiùnn-mî-hng
 夏仔,hē-á
 夏天,hā-thinn
@@ -29648,6 +29779,8 @@
 綴轎後,tè-kiō-āu
 奶仔,lin-á
 奶仔,ne-á
+奶仔,ling-á
+奶仔,ni-á
 不吉,put-kiat
 尾指指仔,bué-tsíng-tsáinn-á
 煞尾指,suah-bué-tsáinn
@@ -29907,8 +30040,10 @@
 車衫車仔,tshia-sann-tshia-á
 吸鐵,khip-thih
 吸鐵,hiap-thih
+吸鐵,khi̍p-thih
 吸石仔,khi̍p-tsio̍rh-á
 吸石仔,khip-tsio̍h-á
+吸石仔,khi̍p-tsio̍h-á
 燒罐,sio-kuàn
 燒罐,sior-kuàn
 滾水瓶,kún-tsuí-pân
@@ -30392,6 +30527,8 @@
 大人物,tuā jîn-bu̍t
 七星陣,tshit-tshenn tīn
 公務人員,kong-bū jîn-uân
+公務人員,kong-bū-jîn-uân
+公務人員,kong-bū-lîn-uân
 人造雨,jîn-tsō hōo
 三生有幸,sam-sing-iú-hīng
 天跤下,thinn-kha-ē
@@ -30469,6 +30606,7 @@
 台日,Tâi Ji̍t
 日月,ji̍t gua̍t
 草木,tshó-bo̍k
+草木,tsháu-bo̍k
 木本,bo̍k-pún
 血流袂止,hueh lâu bē tsí
 手毛,tshiú môo
@@ -30515,6 +30653,7 @@
 一知半解,it ti puàn kái
 占位,tsiàm-uī
 信用卡,sìn-iōng khah
+信用卡,sìn-iōng-khah
 卯時,báu-sî
 有去無回,ū khì bô huê
 古早時代,kóo-tsá sî-tāi
@@ -30551,6 +30690,7 @@
 民心不滿,bîn-sim put-buán
 左右為難,tsó-iū uî-lân
 平埔族,Pênn-poo-tso̍k
+平埔族,Pînn-poo-tso̍k
 犯煞,huān-suah
 玉環,gi̍k-khuân
 囝甘,kiánn-kam
@@ -30615,6 +30755,7 @@
 回絕,huê-tsua̍t
 良辰吉日,liông-sîn kiat-ji̍t
 同心協力,tông-sim hia̍p-li̍k
+同心協力,tông-sim-hia̍p-li̍k
 合家平安,ha̍p-ka pîng-an
 吉祥如意,kiat-siông jû-ì
 改過向善,kái-kò hiòng-siān
@@ -30629,6 +30770,7 @@
 貴妃,kuì-hui
 太子妃,thài-tsú-hui
 借字,tsioh-jī
+借字,tsioh-lī
 留存,liû-tsûn
 心存善念,sim tsûn siān liām
 守時,siú-sî
@@ -30642,6 +30784,7 @@
 延年益壽,iân-liân-ik-siū
 地下錢莊,tē-hā tsînn-tsng
 地方政府,tē-hng tsìng-hú
+地方政府,tuē-hng tsìng-hú
 炒地皮,tshá tē-phuê
 既然如此,kì-jiân jû-tshú
 原來如此,guân-lâi jû-tshú
@@ -30708,6 +30851,7 @@
 免錢,bián-tsînn
 免職,bián-tsit
 做兵,tsò-ping
+做兵,ho̍k ping-ia̍h
 冷飯,líng pn̄g
 祀佛仔,tshāi pu̍t-á
 食免錢飯,tsia̍h bián-tsînn-pn̄g
@@ -30797,6 +30941,7 @@
 酉時,iú-sî
 點燈,tiám ting
 並列,pīng lia̍t
+並列,pīng-lia̍t
 相比並,sio pí-phīng
 乖僻,kuai-phiah
 國家大事,kok ka tāi sū
@@ -30983,6 +31128,7 @@
 名垂千古,bîng suî tshian kóo
 萬里長城,Bān-lí-tn̂g-siânn
 紅毛城,Âng-mn̂g-siânn
+紅毛城,Âng-moo-siânn
 金城,kim-siânn
 城隍爺,Sîng-hông-iâ
 啟奏,khé-tsàu
@@ -30992,6 +31138,7 @@
 影帝,iánn-tè
 度日,tōo-ji̍t
 十大建設,si̍p tāi kiàn-siat
+十大建設,tsa̍p tuā kiàn-siat
 建置家後,kiàn-tì ke-āu
 新竹客運,Sin-tik Kheh-ūn
 客運公司,kheh-ūn kong-si
@@ -31210,6 +31357,7 @@
 閃著腰,siám tio̍h io
 金光閃閃,kim kong siám-siám
 行政院,hîng-tsìng-īnn
+行政院,Hîng-tsìng-īnn
 鬥陣來去,tàu-tīn lâi-khì
 除掉,tî-tiāu
 馬文才,Má Bûn-tsâi
@@ -31229,6 +31377,7 @@
 農務,lông bū
 葫蘆匏,hôo-lôo pû
 工業區,kang-gia̍p khu
+工業區,kang-gia̍p-khu
 唱名,tshiàng miâ
 明呼明唱,bîng-hoo-bîng-tshiàng
 唸歌詩,liām kua-si
@@ -31274,6 +31423,8 @@
 捧屎抹面,phóng-sái-buah-bīn
 高麗菜捻,ko-lê-tshài liām
 掠魚,lia̍h hî
+掠魚,lia̍h-hî
+掠魚,lia̍h-hû
 探病,thàm-pēnn
 掩身術,iám sin su̍t
 掩目睭,ng ba̍k-tsiu
@@ -31511,6 +31662,7 @@
 藥戥,io̍h-tíng
 揫索仔,tshiû soh-á
 里幹事,lí kàn-sū
+里幹事,lí-kàn-sū
 意氣用事,ì-khì iōng-sū
 意氣投合,ì-khì tâu-ha̍p
 損胃,sńg uī
@@ -31644,8 +31796,10 @@
 看圖,khuànn tôo
 認字,jīn jī
 認字,jīn-jī
+認字,jīn-lī
 代表團,tāi-piáu thuân
 冷氣團,líng-khì thuân
+冷氣團,líng-khì-thuân
 旅行團,lí-hîng thuân
 順境,sūn-kíng
 椅墊,í-tiām
@@ -32042,6 +32196,7 @@
 柑仔瓣,kam-á-bān
 蒜頭瓣,suàn-thâu-bān
 花瓣,hue-bān
+花瓣,hue-pān
 簸米,puà bí
 簸蝦米,puà hê-bí
 竹簾,tik-liâm
@@ -32261,6 +32416,7 @@
 精兵,tsing-ping
 算計,suàn-kè
 暗算,àm-suàn
+暗算,àm-sǹg
 關監,kuainn-kann
 工夫盡展,kang-hu tsīn tián
 盡趁盡開,tsīn thàn tsīn khai
@@ -32609,3 +32765,2895 @@ be-á-lìng-guh,be-á-lìng-guh
 ma-sú-khuh,ma-sú-khuh
 siòo-tooh,siòo-tooh
 si-lí-khóng,si-lí-khóng
+會用,ē-īng
+袂用,bē-īng
+袂用,buě-ǐng
+七律,tshit-lu̍t
+人稱,jîn-tshing
+人稱,lîn-tshing
+上下文,siōng-hā-bûn
+頂下文,tíng-ē-bûn
+上下平分,siōng-hā pênn-hun
+上下平分,siōng-hā pîng-hun
+上下對分,siōng-hā tuì-pun
+上長下短,siōng tn̂g hā té
+上短下長,siōng té hā tn̂g
+大篆,tuā-thuàn
+小作家,sió-tsok-ka
+小說家,sió-suat-ka
+小說家,siáu-suat-ka
+小篆,sió-thuàn
+工具冊,kang-kū-tsheh
+工具冊,kang-khū-tsheh
+中華文化,Tiong-huâ bûn-huà
+中華文化,Tiong-huâ Bûn-huà
+中華,Tiong-huâ
+五律,ngóo-lu̍t
+內容大意,luē-iông tāi-ì
+內容大意,lāi-iông tāi-ì
+分號,hun-hō
+分說,hun-suat
+反共文學,huán-kiōng bûn-ha̍k
+反共,huán-kiōng
+引號,ín-hō
+文句,bûn-kù
+文言文,bûn-giân-bûn
+文意,bûn-ì
+主語,tsú-gí
+主語,tsú-gú
+半包圍結構,puànn-pau-uî kiat-kòo
+古文,kóo-bûn
+古典文學,kóo-tián bûn-ha̍k
+古詩,kóo-si
+語句,gí-kù
+語句,gú-kù
+擴寫,khok-siá
+句尾,kù-bué
+句尾,kù-bé
+句型,kù-hîng
+四字詞,sì-jī-sû
+四字詞,sì-lī-sû
+四字語詞,sì-jī-gí-sû
+四字語詞,sì-jī-gú-sû
+四字語詞,sì-lī-gí-sû
+四字語詞,sì-lī-gú-sû
+外來語,guā-lâi-gí
+外來語,guā-lâi-gú
+左狹右闊,tsó e̍h iū khuah
+左闊右狹,tsó khuah iū e̍h
+本土語言,pún-thóo-gí-giân
+本土語言,pún-thóo-gú-giân
+正文,tsiànn-bûn
+正楷,tsiànn-khái
+真書,tsin-su
+生字,senn-jī
+生字,senn-lī
+生字,sinn-jī
+生字,sinn-lī
+生字,tshenn-jī
+生字,tshenn-lī
+生字,tshinn-jī
+生字,tshinn-lī
+生字表,senn-jī-pió
+生字表,senn-lī-pió
+生字表,sinn-jī-pió
+生字表,sinn-lī-pió
+生字表,tshenn-jī-pió
+生字表,tshenn-lī-pió
+生字表,tshinn-jī-pió
+生字表,tshinn-lī-pió
+用字遣詞,īng-jī-khián-sû
+用字遣詞,īng-lī-khián-sû
+用字遣詞,iōng-jī-khián-sû
+用字遣詞,iōng-lī-khián-sû
+白話詩,pe̍h-uē-si
+目次,bo̍k-tshù
+立意,li̍p-ì
+前後順序,tsiân-āu sūn-sī
+前後順序,tsiân-āu sūn-sū
+合併段意法,ha̍p-pìng tuānn-ì-huat
+合體字,ha̍p-thé-jī
+合體字,ha̍p-thé-lī
+同形同音詞,tông-hîng-tông-im-sû
+仝形音詞,kâng-hîng-im-sû
+同音字,tông-im-jī
+同音字,tông-im-lī
+仝音詞,kâng-im-sû
+同音詞,tông-im-sû
+同類詞,tông-luī-sû
+名言,bîng-giân
+名言佳句,bîng-giân-ka-kù
+因果句,in-kó-kù
+多音字,to-im-jī
+多音字,to-im-lī
+字形,jī-hîng
+字形,lī-hîng
+字例,jī-lē
+字例,lī-lē
+字音,jī-im
+字音,lī-im
+查音表,tshâ-im-pió
+字詞,jī-sû
+字詞,lī-sû
+字義,jī-gī
+字義,lī-gī
+成語,sîng-gí
+成語,sîng-gú
+自序,tsū-sū
+自序,tsū-sī
+自然段,tsū-liân-tuānn
+自然段,tsū-jiân-tuānn
+行書,hîng-su
+半草楷,puànn-tshó-khái
+做文,tsuè-bûn
+做文,tsò-bûn
+白字,pe̍h-jī
+白字,pe̍h-lī
+耽字,tânn-jī
+耽字,tânn-lī
+刪節號,san-tsiat-hō
+夾注號,gia̍p-tsù-hō
+註解號,tsù-kái-hō
+希臘,Hi-lia̍p
+頭序,thâu-sū
+頭序,thâu-sī
+序跋,sū-pua̍t
+序跋,sī-pua̍t
+形容詞,hîng-iông-sû
+形符,hîng-hû
+形聲,hîng-siann
+形聲字,hîng-siann-jī
+形聲字,hîng-siann-lī
+壓升謄轉,ah sing thîng tsuán
+抑揚頓挫,ik-iông tùn-tshò
+並排,pīng-pâi
+平排,pênn-pâi
+平排,pînn-pâi
+對排,tuì-pâi
+並列句,pīng-lia̍t-kù
+並列關係,pīng-lia̍t kuan-hē
+例句,lē-kù
+例字,lē-jī
+例字,lē-lī
+典故,tián-kòo
+呼應法,hoo-ìng-huat
+明喻,bîng-jū
+明喻,bîng-lū
+注音符號,tsù-im hû-hō
+注音輸入,tsù-im su-ji̍p
+注音輸入,tsù-im su-li̍p
+注釋,tsù-sik
+直式,ti̍t sik
+直式,ti̍t-sik
+字條仔,jī-tiâu-á
+字條仔,lī-tiâu-á
+冒號,mōo-hō
+律詩,lu̍t-si
+律仔,lu̍t-á
+後記,hiō-kì
+指事,tsí-sū
+指事符號,tsí-sū hû-hō
+查讀,tshâ-tha̍k
+段落意義,tuānn-lo̍h ì-gī
+段落大意,tuānn-lo̍h tāi-ì
+對反詞,tuì-huán-sû
+反義詞,huán-gī-sû
+科普,kho-phóo
+科普文章,kho-phóo bûn-tsiong
+科普文章,kho-phóo bûn-tsiunn
+音譯,im-i̍k
+修飾,siu-sik
+修飾性,siu-sik-sìng
+修辭法,siu-sû-huat
+倒敘,tò-sū
+倒敘,tò-sī
+倒敘法,tò-sū-huat
+倒敘法,tò-sī-huat
+倒反句,tò-píng-kù
+借條,tsioh-tiâu
+原句,guân-kù
+原因法,guân-in-huat
+旁白,pông-pe̍h
+邊白,pinn-pe̍h
+書名號,su-bîng-hō
+誦讀,siōng-tho̍k
+格言,kik-giân
+箴言,tsim-giân
+班刊,pan-khan
+留言,liû-giân
+字條,jī-tiâu
+字條,lī-tiâu
+病句,pēnn-kù
+病句,pīnn-kù
+轉折號,tsuán-tsiat-hō
+破題,phò-tê
+破題,phò-tuê
+祝福語,tsiok-hok-gí
+祝福語,tsiok-hok-gú
+草字,tshó-jī
+草字,tshó-lī
+記敘,kì-sū
+記敘文,kì-sū-bûn
+假借,ká-tsioh
+假設句,ká-siat-kù
+停頓,thîng-tùn
+副標題,hù-piau-tê
+副標題,hù-piau-tuê
+副標題,hù-phiau-tê
+副標題,hù-phiau-tuê
+問句,būn-kù
+問句,mn̄g-kù
+問候語,būn-hāu-gí
+問候語,būn-hāu-gú
+問號,būn-hō
+問點,mn̄g-tiám
+專名號,tsuan-miâ-hō
+排比,pâi-pí
+推薦序,thui-tsiàn-sū
+推薦序,tshui-tsiàn-sū
+敘述句,sū-su̍t-kù
+敘寫,sū-siá
+條件句,tiâu-kiānn-kù
+臆燈猜,ioh-ting-tshai
+猜燈猜,tshai-ting-tshai
+現代詩,hiān-tāi-si
+略寫,lio̍k-siá
+大體仔寫,tāi-thé-á siá
+異形同音詞,ī-hîng tông-im-sû
+異形仝音詞,ī-hîng-kâng-im-sû
+第一人稱,tē-it jîn-tshing
+第一人稱,tē-it lîn-tshing
+第一人稱法,tē-it-jîn-tshing-huat
+第一人稱法,tē-it-lîn-tshing-huat
+第二人稱,tē-jī jîn-tshing
+第二人稱,tē-jī lîn-tshing
+第二人稱,tē-lī jîn-tshing
+第二人稱,tē-lī lîn-tshing
+第二人稱法,tē-jī jîn-tshing-huat
+第二人稱法,tē-jī lîn-tshing-huat
+第二人稱法,tē-lī jîn-tshing-huat
+第二人稱法,tē-lī lîn-tshing-huat
+第三人稱,tē-sann jîn-tshing
+第三人稱,tē-sann lîn-tshing
+第三人稱法,tē-sann jîn-tshing-huat
+第三人稱法,tē-sann lîn-tshing-huat
+習寫字,si̍p-siá-jī
+習寫字,si̍p-siá-lī
+聆聽,lîng-thiann
+斟酌聽,tsim-tsiok-thiann
+斟酌聽,tsim-tsiok thiann
+設問,siat-būn
+逗點,tōo-tiám
+造句,tsō-kù
+造字方法,tsō-jī hong-huat
+造字方法,tsō-lī hong-huat
+造字法,tsō-jī-huat
+造字法,tsō-lī-huat
+造詞,tsō-sû
+連接詞,liân-tsiap-sû
+連接號,liân-tsiap-hō
+連貫句,liân-kuàn-kù
+部首,pōo-siú
+字部,jī-pōo
+字部,lī-pōo
+寓言,gū-giân
+寓言故事,gū-giân kòo-sū
+提問,thê-būn
+插敘,tshah-sū
+插敘法,tshah-sū-huat
+短文,té-bûn
+短句,té-kù
+短語,té-gí
+短語,té-gú
+短篇小說,té-phinn-sió-suat
+短篇小說,té-phinn-siáu-suat
+短篇小說集,té-phinn sió-suat-tsi̍p
+短篇小說集,té-phinn siáu-suat-tsi̍p
+童詩,tông-si
+囡仔古,gín-á-kóo
+筆劃,pit-ue̍h
+字劃數,jī-ue̍h-sòo
+字劃數,jī-ui̍h-sòo
+字劃數,lī-ue̍h-sòo
+字劃數,lī-ui̍h-sòo
+筆順,pit-sūn
+結構圖,kiat-kòo-tôo
+絕句,tsua̍t-kù
+著作權,tù-tsok-khuân
+著作權,tù-tsok-kuân
+詞句,sû-kù
+詞性,sû-sìng
+詞牌,sû-pâi
+詞義,sû-gī
+詞意,sû-ì
+語詞,gí-sû
+語詞,gú-sû
+象形,siōng-hîng
+開頭法,khui-thâu-huat
+開頭法,khai-thâu-huat
+間隔號,kàn-keh-hō
+順敘,sūn-sī
+順敘,sūn-sū
+順敘法,sūn-sū-huat
+順敘法,sūn-sī-huat
+意符,ì-hû
+意義段落,ì-gī tuānn-lo̍h
+感想法,kám-sióng-huat
+新詩,sin-si
+暗喻,àm-jū
+暗喻,àm-lū
+隱喻,ún-jū
+隱喻,ún-lū
+會意,huē-ì
+楷書,khái-su
+概覽,kài-lám
+概覽,khài-lám
+瞭過,liò--kuè
+瞭過,liò--kè
+大體仔讀,tāi-thé-á tha̍k
+摘錄,tiah-lo̍k
+摘錄,tiah-lio̍k
+落名,lo̍h-miâ
+詩選,si-suán
+詳寫,siông-siá
+誇飾,khua-sik
+遊記,iû-kì
+過渡句,kuè-tōo-kù
+過渡句,kè-tōo-kù
+頓號,tùn-hō
+對句,tuì-kù
+精讀,tsing-tho̍k
+認讀字,jīn-tha̍k-jī
+認讀字,jīn-tha̍k-lī
+語氣詞,gí-khì-sû
+語氣詞,gú-khì-sû
+語意,gí-ì
+語意,gú-ì
+語境,gí-kíng
+語境,gú-kíng
+語譯,gí-i̍k
+語譯,gú-i̍k
+語體文,gí-thé-bûn
+語體文,gú-thé-bûn
+說明文,suat-bîng-bûn
+講故事,kóng kòo-sū
+說話,sueh-uē
+說話,seh-uē
+審題,sím-tê
+審題,sím-tuê
+寫法,siá-huat
+寫景,siá-kíng
+摹寫,bôo-siá
+樂府詩,ga̍k-hú-si
+標點符號,piau-tiám hû-hō
+標點符號,phiau-tiám hû-hō
+篆書,thuàn-su
+課文大意,khò-bûn tāi-ì
+請假條,tshíng-ká-tiâu
+假單,kà-tuann
+論據,lūn-kì
+論據,lūn-kù
+賞析,sióng-sik
+欣賞分析,him-sióng hun-sik
+導言,tō-giân
+導讀,tō-tho̍k
+導讀者,tō-tho̍k-tsiá
+橫式,huâinn-sik
+橫式,huînn-sik
+歷史故事,li̍k-sú kòo-sū
+激問,kik-būn
+諧音,hâi-im
+諺語,gān-gí
+諺語,gān-gú
+選材,suán-tsâi
+選擇句,suán-ti̍k-kù
+重耽字,tîng-tânn-jī
+重耽字,tîng-tânn-lī
+錯別字,tshò-pia̍t-jī
+錯別字,tshò-pia̍t-lī
+靜態描寫,tsīng-thài biô-siá
+靜態描寫,tsīng-thài biâu-siá
+默讀法,bi̍k-tha̍k-huat
+恬讀法,tiām-tha̍k-huat
+擬人化,gí-jîn-huà
+擬人化,gí-lîn-huà
+擬人法,gí-jîn-huat
+擬人法,gí-lîn-huat
+縮寫,sok-siá
+總字劃數,tsóng jī-ue̍h-sòo
+總字劃數,tsóng lī-ue̍h-sòo
+聲符,siann-hû
+隸書,lē-su
+瀏覽,liû-lám
+寄話 ,kià-uē
+轉折句,tsuán-tsiat-kù
+轉注,tsuán-tsù
+繪本,huē-pún
+畫本,uē-pún
+畫本,uī-pún
+羅馬字拼音,Lô-má-jī phing-im
+羅馬字拼音,Lô-má-lī phing-im
+羅馬,Lô-má
+關鍵句,kuan-kiān-kù
+關鍵字詞,kuan-kiān jī-sû
+關鍵字詞,kuan-kiān lī-sû
+韻跤,ūn-kha
+類句,luī-kù
+類字,luī-jī
+類字,luī-lī
+類疊,luī-thia̍p
+懸問,hiân-būn
+議論文,gī-lūn-bûn
+釋文,sik-bûn
+紲接寫,suà-tsiap-siá
+歡送詞,huan-sàng-sû
+疊句,tha̍h-kù
+疊字,tha̍h-jī
+疊字,tha̍h-lī
+聽故事,thiann kòo-sū
+閱讀心得,ua̍t-tho̍k sim-tik
+讀音,tha̍k-im
+讀音,tho̍k-im
+文音,bûn-im
+驚嘆號,king-thàn-hō
+感嘆號,kám-thàn-hō
+小時,sió-sî
+一位小數,tsi̍t uī sió-sòo
+一位數,tsi̍t uī-sòo
+兩位小數,nn̄g uī sió-sòo
+二位數,jī uī-sòo
+二位數,lī uī-sòo
+十分位,tsa̍p-hun-uī
+十位,tsa̍p uī
+十進,tsa̍p-tsìn
+十進位法,tsa̍p-tsìn-uī-huat
+十萬分位,tsa̍p-bān-hun-uī
+十萬位,tsa̍p-bān uī
+十億位,tsa̍p-ik uī
+三位數,sann uī-sòo
+三角形,sann-kak-hîng
+三角柱,sann-kak-thiāu
+頂底,tíng-té
+千分位,tshian-hun-uī
+千位,tshing uī
+千萬位,tshing-bān uī
+千億位,tshing ik-uī
+大於,tuā-î
+大於,tuā-û
+大數,tuā-sòo
+小於,sió-î
+小於,sió-û
+小數四則,sió-sòo sì-tsik
+小數位數,sió-sòo uī-sòo
+小數倍,sió-sòo-puē
+小數除法,sió-sòo tû-huat
+除法,tû-huat
+除法,tî-huat
+小數點,sió-sòo-tiám
+不退位,put-thè-uī
+無退位,bô-thè-uī
+無進位,bô tsìn-uī
+互相平行,hōo-siōng-pîng-hîng
+放直,pàng-ti̍t
+互相徛直,hōo-siōng-khiā-ti̍t
+互相垂直,hōo-siōng-suî-ti̍t
+垂直,suî-ti̍t
+垂直,suî ti̍t
+互質,hōo-tsit
+五邊形,gōo-pinn-hîng
+內角,luē-kak
+內角,lāi-kak
+內角和,luē-kak-hô
+內角和,lāi-kak-hô
+厘米,lî-bí
+公升,kong-tsin
+每分公尺數,muí hun kong-tshioh sòo
+每秒公尺數,muí bió kong-tshioh sòo
+公因數,kong-in-sòo
+因數,in-sòo
+每分公里數,muí hun kong-lí sòo
+每小時公里數,muí sió-sî kong-lí sòo
+公秉,kong-píng
+公倍數,kong-puē-sòo
+公畝,kong-bóo
+六邊形,la̍k-pinn-hîng
+分母,hun-bú
+分母,hun-bó
+分配律,hun-phuè-lu̍t
+分針,hun-tsiam
+長針,tn̂g-tsiam
+分速,hun-sok
+分數四則,hun-sòo-sì-tsik
+分數倍,hun-sòo-puē
+分數除法,hun-sòo tû-huat
+比例尺,pí-lē-tshioh
+比值,pí-ti̍t
+比較量,pí-kàu-liōng
+加法,ka-huat
+心算,sim-sǹg
+加法心算,ka-huat sim-sǹg
+加法暗算,ka-huat àm-sǹg
+加法估算,ka-huat kóo-sǹg
+加法計算,ka-huat kè-sǹg
+算式,sǹg-sik
+互送,hōo-sàng
+互逆,hōo-gi̍k
+相參,sio-tsham
+加數,ka-sòo
+四位數,sì uī-sòo
+四角柱,sì-kak-thiāu
+四則運算,sì-tsik-ūn-suàn
+四則運算,sì-tsik ūn-suàn
+四捨五入,sì-siá-gōo-ji̍p
+四捨五入法,sì-siá-gōo-ji̍p-huat
+四邊形,sì-pinn-hîng
+對半分,tuì-puànn pun
+平方公分,pîng-hong-kong-hun
+平方公尺,pîng-hong-kong-tshioh
+平方公里,pîng-hong-kong-lí
+平行四邊形,pîng-hîng-sì-pinn-hîng
+平行現象,pîng-hîng-hiān-siōng
+平均速率,pîng-kin sok-lu̍t
+平均速率,pîng-kun sok-lu̍t
+平角,pênn-kak
+平角,pînn-kak
+未知數,bī-ti-sòo
+正三角形,tsiànn-sann-kak-hîng
+正六邊形,tsiànn-la̍k-pinn-hîng
+正四角形,tsiànn-sì-kak-hîng
+正四角柱,tsiànn-sì-kak-thiāu
+正比,tsiànn-pí
+正比,tsìng-pí
+正比例關係,tsiànn-pí-lē kuan-hē
+正多邊形,tsiànn-to-pinn-hîng
+多邊形,to-pinn-hîng
+立方公分,li̍p-hong-kong-hun
+立方公尺,li̍p-hong-kong-tshioh
+立體形體,li̍p-thé hîng-thé
+兆位,tiāu uī
+全等,tsuân-tíng
+全等三角形,tsuân-tíng sann-kak-hîng
+全等圖形,tsuân-tíng tôo-hîng
+合數,ha̍p-sòo
+多位小數,to-uī sió-sòo
+百分位,pah hun-uī
+百分數圓形圖,pah-hun-sòo înn-hîng-tôo
+百分數,pah-hun-sòo
+圓形圖,înn-hîng-tôo
+百位,pah-uī
+百位數,pah-uī-sòo
+百位數字,pah-uī sòo-jī
+百位數字,pah-uī sòo-lī
+百萬位,pah-bān-uī
+百億位,pah-ik uī
+百數表,pah sòo pió
+位值表,uī-ti̍t-pió
+位值表,uī-ta̍t-pió
+換算,uānn-sǹg
+位數,uī-sòo
+完全數,uân-tsuân-sòo
+完美數,uân-bí-sòo
+序數,sū-sòo
+序數,sī-sòo
+折線圖,tsiat-suànn-tôo
+角柱,kak-thiāu
+角錐,kak-tsui
+周角,tsiu-kak
+周長,tsiu-tn̂g
+周界,tsiu-kài
+始邊,sí-pinn
+底角,té-kak
+底角,tué-kak
+底面,té-bīn
+底面,tué-bīn
+底面積,té-bīn-tsik
+底面積,té-biān-tsik
+底面積,tué-bīn-tsik
+底面積,tué-biān-tsik
+底邊,té-pinn
+底邊,tué-pinn
+弧長,hôo-tn̂g
+放大圖,hòng-tuā-tôo
+直式計算,ti̍t-sik-kè-sǹg
+直式除法,ti̍t-sik tû-huat
+直角,ti̍t-kak
+屈尺角,khut-tshioh-kak
+直角三角形,ti̍t-kak-sann-kak-hîng
+屈尺角三角形,khut-tshioh-kak-sann-kak-hîng
+直觀,ti̍t-kuan
+表面積,piáu-bīn-tsik
+表面積,piáu-biān-tsik
+長方形,tiông-hong-hîng
+長方體,tn̂g-hong-thé
+長條圖,tn̂g-tiâu-tôo
+長條圖,tn̂g-liâu-tôo
+長株圖,tn̂g-tu-tôo
+長邊,tn̂g-pinn
+前項,tsîng-hāng
+墜直,tuī-ti̍t
+垂直現象,suî-ti̍t hiān-siōng
+後項,āu-hāng
+括號,kuat-hō
+柱懸,thiāu-kuân
+柱仔形,thiāu-á-hîng
+秒速,bió-sok
+約分,iok-hun
+大約等於,tāi-iok tíng-î
+乘法,sîng-huat
+乘法估算,sîng-huat kóo-sǹg
+乘法算式,sîng-huat-sǹg-sik
+乘除互逆,sîng-tû hōo-gi̍k
+乘除互逆,sîng-tî hōo-gi̍k
+加減乘除,ka-kiám sîng-tû
+加減乘除,ka-kiám sîng-tî
+乘號,sîng-hō
+乘數,sîng-sòo
+個位,kò-uī
+個位數,kò-uī-sòo
+個位數字,kò-uī sòo-jī
+個位數字,kò-uī sòo-lī
+個數,kò-sòo
+容量,iông-liōng
+展開圖,thián-khui-tôo
+展開圖,tián-khui-tôo
+扇形,sìnn-hîng
+葵扇形,khuê-sìnn-hîng
+葵扇形,khê-sìnn-hîng
+扇形面積,sìnn-hîng bīn-tsik
+時針,sî-tsiam
+時間換算,sî-kan uānn-sǹg
+真分數,tsin-hun-sòo
+退位減法,thè-uī kiám-huat
+逆時針,gi̍k-sî-tsiam
+逆時針方向,gi̍k-sî-tsiam hong-hiòng
+除法估算,tû-huat kóo-sǹg
+除法估算,tî-huat kóo-sǹg
+除法算式,tû-huat sǹg-sik
+除法算式,tî-huat sǹg-sik
+除號,tî-hō
+除號,tû-hō
+除數,tû-sòo
+除數,tî-sòo
+懸位,kuân-uī
+假分數,ké-hun-sòo
+做數,tsò-sòo
+做數,tsuè-sòo
+邊面,pinn-bīn
+雙數,siang-sòo
+基準量,ki-tsún-liōng
+帶分數,tài-hun-sòo
+旋轉角,suân-tsuán-kak
+梯形,thui-hîng
+毫公升,hô-kong-sing
+毫公升,hô-kong-tsin
+毫升,hô-tsin
+亳米,hô-bí
+混合計算,hūn-ha̍p kè-sǹg
+球心,kiû-sim
+球體,kiû-thé
+累加,luí-ka
+終邊,tsiong-pinn
+統計表,thóng-kè-pió
+統計圖,thóng-kè-tôo
+被加數,pī-ka-sòo
+被乘數,pī-sîng-sòo
+被除數,pī-tî-sòo
+被除數,pī-tû-sòo
+被減數,pī-kiám-sòo
+通分,thong-hun
+連加,liân-ka
+連減,liân-kiám
+頂角,tíng-kak
+頂點,tíng-tiám
+單位分數,tan-uī hun-sòo
+單位比較,tan-uī pí-kàu
+幾分之幾,kuí-hun tsi kuí
+幾點半,kuí tiám puànn
+幾點幾分,kuí tiám kuí hun
+上大公因數,siōng-tuā-kong-in-sòo
+上細公倍數,siōng-sè-kong-puē-sòo
+上細公倍數,siōng-suè-kong-puē-sòo
+上簡單分數,siōng-kán-tan-hun-sòo
+上簡單整數比,siōng-kán-tan tsíng-sòo-pí
+減法心算,kiám-huat sim-sǹg
+減法暗算,kiám-huat àm-sǹg
+減法估算,kiám-huat kóo-sǹg
+減法計算,kiám-huat kè-sǹg
+減數,kiám-sòo
+無條件放棄,bô-tiâu-kiānn-hòng-khì
+無條件進入,bô-tiâu-kiānn tsìn-ji̍p
+無條件放棄法,bô-tiâu-kiānn-hòng-khì-huat
+無條件進入法,bô-tiâu-kiānn tsìn-ji̍p-huat
+短針,té-tsiam
+簡單除法,kán-tan-tû-huat
+等式,tíng-sik
+等值分數,tíng-ti̍t-hun-sòo
+等值分數,tíng-ta̍t hun-sòo
+等量公理,tíng-liōng kong-lí
+等腰三角形,tíng-io-sann-kak-hîng
+等腰直角三角形,tíng-io-ti̍t-kak-sann-kak-hîng
+結合律,kiat-ha̍p-lu̍t
+麻芳斜,muâ-phang-tshua̍h
+麻芳範,muâ-phang-huān
+斜糕形,tshiâ-ko-hîng
+進位,tsìn-uī
+進位加法,tsìn-uī ka-huat
+鈍角,tun-kak
+鈍角,tūn-kak
+鈍角三角形,tun-kak-sann-kak-hîng
+鈍角三角形,tūn-kak-sann-kak-hîng
+間接比較,kàn-tsiap pí-kàu
+順時針,sūn-sî-tsiam
+順時針方向,sūn-sî-tsiam hong-hiòng
+圓心,înn-sim
+圓箍仔中心,înn-khoo-á tiong-sim
+圓箍仔中心角,înn-khoo-á tiong-sim-kak
+圓心角,înn-sim-kak
+圓形百分圖,înn-hîng pah-hun-tôo
+圓周,înn-tsiu
+圓周長,înn-tsiu-tn̂g
+圓周率,înn-tsiu-lu̍t
+圓柱,înn-thiāu
+圓面積,înn-bīn-tsik
+圓面積,înn-biān-tsik
+圓錐,înn-tsui
+概數,kài-sòo
+概數,khài-sòo
+萬分位,bān-hun-uī
+萬位,bān-uī
+斜對角,tshua̍h-tuì-kak
+斜對角線,tshua̍h-tuì-kak-suànn
+對角線,tuì-kak-suànn
+對稱角,tuì-tshìng--kak
+對稱中心線,tuì-tshìng tiong-sim-suànn
+對稱點,tuì-tshìng-tiám
+對稱邊,tuì-tshìng-pinn
+對應角,tuì-ìng-kak
+對應點,tuì-ìng-tiám
+對應邊,tuì-ìng-pinn
+對邊,tuì-pinn
+計算式,kè-sǹg-sik
+臺斤,tâi-kin
+臺斤,tâi-kun
+遞移關係,tē-î kuan-hē
+億位,ik-uī
+闊度,khuah-tōo
+闊邊,khuah-pinn
+數字線,sòo-jī-suànn
+數字線,sòo-lī-suànn
+線段圖,suànn-tuānn-tôo
+線逝圖,suànn-tsuā-tôo
+線對稱,suànn-tuì-tshìng
+線相對應,suànn sio-tuì-ìng
+線對稱圖形,suànn-tuì-tshìng tôo-hîng
+複合形體,ho̍k-ha̍p hîng-thé
+複合圖形,ho̍k-ha̍p tôo-hîng
+質因數,tsit-in-sòo
+質因數分解,tsit-in-sòo-hun-kái
+質數,tsit-sòo
+相倚邊,sio-uá-pinn
+尖角,tsiam-kak
+尖角三角形,tsiam-kak-sann-kak-hîng
+餘數,î-sòo
+整十倍,tsíng-tsa̍p-puē
+整百倍,tsíng-pah-puē
+整除,tsíng-tû
+整除,tsíng-tî
+整數倍,tsíng-sòo-puē
+錐體,tsui-thé
+縮小圖,sok-sió-tôo
+縮圖,sok-tôo
+縱軸,tshiong-ti̍k
+擴分,khok-hun
+簡化計算,kán-huà kè-sǹg
+簡化問題,kán-huà būn-tê
+簡化問題,kán-huà būn-tuê
+邊長,pinn-tn̂g
+關係圖,kuan-hē-tôo
+魔方陣,môo-hong-tīn
+驗算,giām-sǹg
+電子化,tiān-tsú-huà
+微笑,bî-tshiò
+標章,phiau-tsiong
+標章,piau-tsiong
+一府二鹿三艋舺,it Hú jī Lo̍k sann Báng-kah
+一府二鹿三艋舺,it Hú lī Lo̍k sann Báng-kah
+一街一庄一神社,tsi̍t ke tsi̍t tsng tsi̍t sîn-siā
+一街一庄一神社,tsi̍t kue tsi̍t tsng tsi̍t sîn-siā
+二二八,Jī-jī-pat
+二二八,Lī-lī-pat
+二二八事件,Jī-jī-pat sū-kiānn
+二二八事件,Lī-lī-pat sū-kiānn
+人力運輸,jîn-li̍k ūn-su
+人力運輸,lîn-li̍k ūn-su
+普查,phóo-tsa
+人工生湠技術,jîn-kang senn-thuànn ki-su̍t
+人工生湠技術,jîn-kang sinn-thuànn ki-su̍t
+人工生湠技術,lîn-kang senn-thuànn ki-su̍t
+人工生湠技術,lîn-kang sinn-thuànn ki-su̍t
+人文資源,jîn-bûn tsu-guân
+人文資源,lîn-bûn tsu-guân
+人造溫室氣體,jîn-tsō un-sik khì-thé
+人造溫室氣體,lîn-tsō un-sik khì-thé
+溫室,un-sik
+人際關係,jîn-tsè kuan-hē
+人際關係,lîn-tsè kuan-hē
+合音,ha̍p-im
+八部合音,peh-pōo ha̍p-im
+八部合音,pueh-pōo ha̍p-im
+八堡圳,Pat-pó-tsùn
+十三行文化,Tsa̍p-sann-hâng bûn-huà
+十三行遺址,Tsa̍p-sann-hâng uî-tsí
+三合院,sann-ha̍p-īnn
+正身護龍,tsiànn-sin hōo-lîng
+三貂角,Sam-tiau-kak
+塗掣流,thôo-tshuah-lâu
+塗掣流,thôo-tshuah-liû
+土地運用,thóo-tē ūn-iōng
+土地運用,thóo-tuē ūn-iōng
+土地改革,thóo-tē kái-kik
+土地改革,thóo-tuē kái-kik
+土地開發,thóo-tē khai-huat
+土地開發,thóo-tuē khai-huat
+大坌坑文化,Tuā-pùn-khenn Bûn-huà
+大坌坑文化,Tuā-pùn-khinn Bûn-huà
+大洋洲,Tāi-iûnn-tsiu
+大員,Tāi-uân
+大家庭,tuā-ka-tîng
+大口灶,tuā-kháu-tsàu
+大口家,tuā-kháu-ke
+大航海時代,Tuā-hâng-hái Sî-tāi
+大眾運輸工具,tāi-tsiòng ūn-su kang-kū
+大眾運輸工具,tāi-tsiòng ūn-su kang-khū
+大眾運輸系統,tāi-tsiòng ūn-su hē-thóng
+大都會區,tuā-too-huē-khu
+大陸島,tāi-lio̍k-tó
+大獵祭,Tuā-la̍h-tsè
+小家庭,sió-ka-tîng
+細口灶,sè-kháu-tsàu
+細口灶,suè-kháu-tsàu
+小家口,sió-ke-kháu
+少頭喙,tsió thâu-tshuì
+小琉球,Sió-liû-khiû
+小琉球,Sió-liû-kiû
+烏鬼洞,Oo-kuí-tōng
+工作人口,kang-tsok jîn-kháu
+工作人口,kang-tsok lîn-kháu
+工商業,kang-siong-gia̍p
+工商業社會,kang-siong-gia̍p siā-huē
+工業革命,Kang-gia̍p Kik-bīng
+干欄式房屋,kan-nuâ-sik pâng-ok
+中日戰爭,Tiong-Ji̍t Tsiàn-tsing
+中日戰爭,Tiong-Li̍t Tsiàn-tsing
+中央政府,tiong-iong tsìng-hú
+中沙群島,Tiong-sua kûn-tó
+中沙群島,Tiong-sua kûn-tóo
+清法戰爭,Tshing-Huat Tsiàn-tsing
+清法戰爭,Tshing Huat Tsiàn-tsing
+八月節,Peh-gue̍h tseh
+八月節,Peh-gue̍h tsueh
+八月節,Peh-ge̍h tseh
+八月節,Peh-ge̍h tsueh
+八月節,Pueh-gue̍h tseh
+八月節,Pueh-gue̍h tsueh
+八月節,Pueh-ge̍h tseh
+八月節,Pueh-ge̍h tsueh
+中國大陸,Tiong-kok Tāi-lio̍k
+羅針,lô-tsiam
+指南針,tsí-lâm-tsiam
+子午針,tsú-ngóo-tsiam
+中華民國憲法,Tiong-huâ Bîn-kok Hiàn-huat
+中華民國,Tiong-huâ Bîn-kok
+公平貿易,kong-pênn bōo-i̍k
+公平貿易,kong-pînn bōo-i̍k
+公民行動,kong-bîn hîng-tōng
+公共事務,kong-kiōng sū-bū
+公共設施,kong-kiōng siat-si
+公共資源,kong-kiōng tsu-guân
+公共衛生,kong-kiōng uē-sing
+公共衛生,kong-kiōng uī-sing
+公務員,kong-bū-uân
+公廨,kong-kài
+分工合作,hun-kang ha̍p-tsok
+反清復明,huán Tshing ho̍k Bîng
+霸凌,pà-lîng
+反霸凌,huán pà-lîng
+反霸凌申訴專線,huán pà-lîng sin-sòo tsuan-suànn
+天地會,Thinn-tē-huē
+天地會,Thinn-tuē-huē
+天地會,Thian-tī-huē
+天氣變化,thinn-khì piàn-huà
+天然災害,thian-jiân tsai-hāi
+天然災害,thian-liân tsai-hāi
+太平洋地區,Thài-pîng-iûnn tē-khu
+太平洋地區,Thài-pîng-iûnn tuē-khu
+太平洋板塊,Thài-pîng-iûnn Pán-khuài
+板塊,Pán-khuài
+太陽能,thài-iông-lîng
+太陽能枋,thài-iông-lîng pang
+太陽能發電,thài-iông-lîng huat-tiān
+少子化,siáu-tsú-huà
+少囝化,tsió-kiánn-huà
+少年事件處理法,siàu-liân sū-kiānn tshú-lí-huat
+屯田政策,tûn-tiân tsìng-tshik
+巴士海峽,Pa-sū Hái-kiap
+巴西嘉年華會,Pa-se Ka-liân-huâ-huē
+戶政事務所,hōo-tsìng sū-bū-sóo
+文化產業,bûn-huà sán-gia̍p
+文化創意產業,bûn-huà tshòng-ì sán-gia̍p
+文化遺產,bûn-huà uî-sán
+文史工作室,bûn-sú kang-tsok-sik
+文史協會,bûn-sú hia̍p-huē
+方位標,hong-uī-piau
+方位標,hong-uī-phiau
+日治時代,Ji̍t-tì Sî-tāi
+日治時代,Li̍t-tì Sî-tāi
+水力發電,tsuí-li̍k huat-tiān
+水資源,tsuí-tsu-guân
+水燈節,Tsuí-ting-tseh
+水燈節,Tsuí-ting-tsueh
+父姓,hū-sènn
+父姓,hū-sìnn
+父親節,Hū-tshin-tseh
+父親節,Hū-tshin-tsueh
+牛頓,Gû-tùn
+世界人權宣言,Sè-kài Jîn-khuân Suan-giân
+世界人權宣言,Sè-kài Jîn-kuân Suan-giân
+世界人權宣言,Sè-kài Lîn-khuân Suan-giân
+世界人權宣言,Sè-kài Lîn-kuân Suan-giân
+世界公民,sè-kài kong-bîn
+世界文化,sè-kài bûn-huà
+世界文化遺產,sè-kài bûn-huà uî-sán
+世界地球村,sè-kài tē-kiû tshun
+世界地球村,sè-kài tuē-kiû tshun
+世界地球村,sè-kài tē-kiû tshuan
+世界地球村,sè-kài tuē-kiû tshuan
+世界展望會,Sè-kài Tián-bōng-huē
+世界貿易組織,Sè-kài Bōo-i̍k Tsoo-tsit
+世界衛生組織,Sè-kài Uē-sing Tsoo-tsit
+世界衛生組織,Sè-kài Uī-sing Tsoo-tsit
+冬季,tong-kuì
+冬季,tang-kuì
+加工出口區,ka-kang tshut-kháu-khu
+北回歸線,Pak-huê-kui-suànn
+北極圈,Pak-ki̍k-khuan
+北緯,pak-uí
+北緯,pak-huī
+古文明,kóo-bûn-bîng
+古早科技,kóo-tsá kho-ki
+古蹟導覽地圖,kóo-tsik tō-lám tuē-tôo
+古蹟導覽地圖,kóo-tsik tō-lám tē-tôo
+古蘭經,Kóo-lân-king
+台江內海,Tâi-kang Lāi-hái
+內海,lāi-hái
+史前文化,Sú-tsiân Bûn-huà
+史前時代,Sú-tsiân Sî-tāi
+史前時期,Sú-tsiân Sî-kî
+四大古文明,sì tuā kóo bûn-bîng
+四極,sù-ki̍k
+外籍勞工,guā-tsi̍k lô-kang
+市公所,tshī-kong-sóo
+市民代表會,tshī-bîn tāi-piáu-huē
+市場需求,tshī-tiûnn su-kiû
+平等權,pîng-tíng-khuân
+平等權,pîng-tíng-kuân
+幼年人口,iù-liân lîn-kháu
+幼年人口,iù-liân jîn-kháu
+打耳祭,Tá-ní-tsè
+母親節,Bó-tshin-tseh
+母親節,Bó-tshin-tsueh
+母親節,Bú-tshin-tseh
+母親節,Bú-tshin-tsueh
+民主社會,bîn-tsú siā-huē
+民主政治,bîn-tsú tsìng-tī
+民生用水,bîn-sing iōng-tsúi
+民生用水,bîn-sing īng-tsúi
+民俗技藝,bîn-sio̍k ki-gē
+民俗活動,bîn-sio̍k ua̍h-tāng
+民俗活動,bîn-sio̍k ua̍h-tōng
+民俗藝品,bîn-sio̍k gē-phín
+民間信仰,bîn-kan sìn-gióng
+民間組織,bîn-kan tsoo-tsit
+民間團體,bîn-kan thuân-thé
+民意代表,bîn-ì tāi-piáu
+民意機關,bîn-ì ki-kuan
+民變,bîn-piàn
+玉山山脈,Gio̍k-san Suann-me̍h
+玉山山脈,Gio̍k-suann Suann-me̍h
+玉山主峰,Gio̍k-san tsú-hong
+玉山主峰,Gio̍k-suann tsú-hong
+生存權,sing-tsûn-khuân
+生存權,sing-tsûn-kuân
+性命禮俗,sìnn-miā lé-sio̍k
+性命禮俗,sènn-miā lé-sio̍k
+生物科技,sing-bu̍t-kho-ki
+生物資源,sing-bu̍t tsu-guân
+生活方式,sing-ua̍h hong-sik
+生活器物,sing-ua̍h khì-bu̍t
+生態工法,sing-thài kang-huat
+生態工法,sing-thāi kang-huat
+生態保育,sing-thài pó-io̍k
+生態保育,sing-thāi pó-io̍k
+生態資源,sing-thài tsu-guân
+生態資源,sing-thāi tsu-guân
+生態環境,sing-thài khuân-kíng
+生態環境,sing-thāi khuân-kíng
+甲午戰爭,Kah-gōo Tsiàn-tsing
+白色恐怖,Pe̍h-sik Khióng-pòo
+石器時期,Tsio̍h-khì Sî-kî
+立法機關,li̍p-huat ki-kuan
+交通工具,kau-thong kang-khū
+交通工具,kau-thong kang-kū
+交通運輸,kau-thong ūn-su
+交通運輸網,kau-thong ūn-su-bāng
+伊斯蘭教,I-su-lân-kàu
+伐木業,hua̍t-bo̍k-gia̍p
+休閒活動,hiu-hân ua̍h-tāng
+休閒活動,hiu-hân ua̍h-tōng
+休閒觀光產業,hiu-hân kuan-kong sán-gia̍p
+全球定位系統,tsuân-kiû tīng-uī hē-thóng
+全球性,tsuân-kiû-sìng
+全球暖化,tsuân-kiû luán-huà
+印度洋,Ìn-tōo-iûnn
+印度教,Ìn-tōo-kàu
+印度數字,Ìn-tōo sòo-jī
+印度數字,Ìn-tōo sòo-lī
+印澳板塊,Ìn-ò Pán-khuài
+名勝古蹟,bîng-sìng kóo-tsik
+回收標誌,huê-siu piau-tsì
+回收標誌,huê-siu phiau-tsì
+地方民間信仰,tē-hng bîn-kan sìn-gióng
+地方民間信仰,tuē-hng bîn-kan sìn-gióng
+地方自治,tuē-hng tsū-tī
+地方自治,tē-hng tsū-tī
+地方組織,tē-hng tsoo-tsit
+地方組織,tuē-hng tsoo-tsit
+地方資源,tē-hng tsu-guân
+地方資源,tuē-hng tsu-guân
+地球村,tē-kiû-tshun
+地球村,tē-kiû-tshuan
+地球村,tuē-kiû-tshun
+地球村,tuē-kiû-tshuan
+地球暖化,tē-kiû luán-huà
+地球暖化,tuē-kiû luán-huà
+地球儀,tē-kiû-gî
+地球儀,tuē-kiû-gî
+地理位置,tē-lí uī-tì
+地理位置,tuē-lí uī-tì
+地理景觀,tē-lí kíng-kuan
+地理景觀,tuē-lí kíng-kuan
+地理環境,tē-lí khuân-kíng
+地理環境,tuē-lí khuân-kíng
+地層下陷,tuē-tsân hā-hām
+地層下陷,tē-tsân hā-hām
+地層坐落,tē-tsân tshē-lo̍h
+地層坐落,tuē-tsân tshē-lo̍h
+地層陷落去,tē-tsân hām--lo̍h-khì
+地層陷落去,tuē-tsân hām--lo̍h-khì
+多元化,to-guân-huà
+安平古堡,An-pîng kóo-pó
+安平古堡,An-pîng-kóo-pó
+王城,Ông-siânn
+尖仔尾,Tsiam-á-bué
+成年禮,sîng-liân-lé
+老年人口,ló-liân jîn-kháu
+老年人口,ló-liân lîn-kháu
+舊街,kū-ke
+舊街,kū-kue
+考試院,Khó-tshì-īnn
+自由貿易,tsū-iû bōo-i̍k
+自由權,tsū-iû-khuân
+自由權,tsū-iû-kuân
+自治活動,tsū-tī ua̍h-tāng
+自治活動,tsū-tī ua̍h-tōng
+自治組織,tsū-tī tsoo-tsit
+自然生態保護區,tsū-jiân sing-thài pó-hōo-khu
+自然生態保護區,tsū-jiân sing-thāi pó-hōo-khu
+自然生態保護區,tsū-liân sing-thài pó-hōo-khu
+自然生態保護區,tsū-liân sing-thāi pó-hōo-khu
+自然保留區,tsū-jiân pó-liû-khu
+自然保留區,tsū-liân pó-liû-khu
+自然神明,tsū-jiân sîn-bîn
+自然神明,tsū-liân sîn-bîn
+自然崇拜,tsū-jiân tsông-pài
+自然崇拜,tsū-liân tsông-pài
+自然景觀,tsū-jiân kíng-kuan
+自然景觀,tsū-liân kíng-kuan
+自然溫室氣體,tsū-jiân un-sik khì-thé
+自然溫室氣體,tsū-liân un-sik khì-thé
+自然資源,tsū-jiân tsu-guân
+自然資源,tsū-liân tsu-guân
+自然環境,tsū-jiân khuân-kíng
+自然環境,tsū-liân khuân-kíng
+血緣關係,hiat-iân kuan-hē
+行政區域圖,hîng-tsìng khu-hi̍k tôo
+行政區域圖,hîng-tsìng khu-i̍k tôo
+行政機關,hîng-tsìng ki-kuan
+西太平洋,se Thài-pîng-iûnn
+西半球,Sai-puànn-kiû
+西沙群島,Sai-sua kûn-tó
+西沙群島,Sai-sua kûn-tóo
+楔形文字,siat-hîng bûn-lī
+楔形文字,siat-hîng bûn-jī
+西亞楔形文字,Sai-a Siat-hîng Bûn-lī
+西亞楔形文字,Sai-a Siat-hîng Bûn-jī
+西來庵事件,Se-lâi-am Sū-kiānn
+季風,kuì-hong
+西南季風,sai-lâm kuì-hong
+西部平原,se-pōo pîng-guân
+西部走廊,se-pōo tsáu-lông
+西部海岸,se-pōo hái-huānn
+西經,Se-king
+住戶大會,tsū-hōo tāi-huē
+住戶管理委員會,tsū-hōo kuán-lí uí-uân-huē
+吳沙,Ngôo Sua
+吳沙,Gôo Sua
+壯丁團,tsòng-ting-thuân
+孝道,hàu-tō
+希臘正教,Hi-lia̍p̍-tsìng-kàu
+希臘神話,Hi-lia̍p Sîn-uē
+志工隊,tsì-kang-tuī
+志工團體,tsì-kang thuân-thé
+快速道路,khuài-sok tō-lōo
+戒嚴令,kài-giâm-līng
+戒嚴時期,kài-giâm sî-kî
+投票權,tâu-phiò-khuân
+投票權,tâu-phiò-kuân
+抗日,khòng Ji̍t
+抗日,khòng Li̍t
+抗日運動,khòng Ji̍t ūn-tōng
+抗日運動,khòng Li̍t ūn-tōng
+折衷家庭,tsiat-thiong ka-tîng
+村民大會,tshuan-bîn tāi-huē
+村民大會,tshun-bîn tāi-huē
+村幹事,tshun-kàn-sū
+村幹事,tshuan-kàn-sū
+村辦公處,tshun pān-kong-tshù
+村辦公處,tshuan pān-kong-tshù
+沈葆楨,Sím Pó-tsing
+沖積平原,tshiâng-tsik pîng-guân
+沙岸,sua-gān
+沙岸,sua-huānn
+牡丹社抗日紀念碑,Bóo-tan-siā khòng Ji̍t kì-liām-pi
+牡丹社抗日紀念碑,Bóo-tan-siā khòng Li̍t kì-liām-pi
+牡丹社事件,Bóo-tan-siā Sū-kiānn
+赤崁樓,Tshiah-khàm-lâu
+赤道,tshik-tō
+身份證,sin-hūn-tsìng
+身心障礙,sin-sim tsiòng-gāi
+身心障礙人士,sin-sim tsiòng-gāi jîn-sū
+身心障礙人士,sin-sim tsiòng-gāi lîn-sū
+身體自主權,sin-thé tsū-tsú-khuân
+身體自主權,sin-thé tsū-tsú-kuân
+里民大會,lí-bîn tāi-huē
+里辦公處,lí pān-kong-tshù
+防疫措施,hông-i̍k tshòo-si
+亞洲大陸,A-tsiu Tāi-lio̍k
+依法行政,i huat hîng-tsìng
+兒童及少年福利與權益保障法,Jî-tông ki̍p siàu-liân Hok-lī ú khuân-ik Pó-tsiong-huat
+兒童及少年福利與權益保障法,Jî-tông ki̍p siàu-liân Hok-lī ú kuân-ik Pó-tsiong-huat
+兒童及少年福利與權益保障法,Jî-tông ki̍p siàu-liân Hok-lī ú khuân-ik Pó-tsiòng-huat
+兒童及少年福利與權益保障法,Jî-tông ki̍p siàu-liân Hok-lī ú kuân-ik Pó-tsiòng-huat
+兒童及少年福利與權益保障法,Lî-tông ki̍p siàu-liân Hok-lī ú khuân-ik Pó-tsiong-huat
+兒童及少年福利與權益保障法,Lî-tông ki̍p siàu-liân Hok-lī ú kuân-ik Pó-tsiong-huat
+兒童及少年福利與權益保障法,Lî-tông ki̍p siàu-liân Hok-lī ú khuân-ik Pó-tsiòng-huat
+兒童及少年福利與權益保障法,Lî-tông ki̍p siàu-liân Hok-lī ú kuân-ik Pó-tsiòng-huat
+兒童節,Jî-tông-tseh
+兒童節,Jî-tông-tsueh
+兒童節,Lî-tông-tseh
+兒童節,Lî-tông-tsueh
+兒童權利公約,Jî-tông Khuân-lī Kong-iok
+兒童權利公約,Jî-tông Kuân-lī Kong-iok
+兒童權利公約,Lî-tông Khuân-lī Kong-iok
+兒童權利公約,Lî-tông Kuân-lī Kong-iok
+卑南文化,Pi-lâm Bûn-huà
+卑南遺址,Pi-lâm Uî-tsí
+受益權,siū-ik-khuân
+受益權,siū-ik-kuân
+受教權,siū-kàu-khuân
+受教權,siū-kàu-kuân
+和平紀念日,Hô-pîng Kì-liām-ji̍t
+和平紀念日,Hô-pîng Kì-liām-li̍t
+宗教信仰,tsong-kàu sìn-gióng
+宗教慶典,tsong-kàu khìng-tián
+宗族組織,tsong-tso̍k tsoo-tsit
+宗親會,tsong-tshin-huē
+宜蘭平原,Gî-lân Pîng-guân
+岩岸,gâm-huānn
+岩岸,giâm-huānn
+海角,hái-kak
+海鼻,hái-phīnn
+岬灣,kap-uan
+岬灣海岸地形,kap-uan hái-huānn tē-hîng
+岬灣海岸地形,kap-uan hái-huānn tuē-hîng
+岬灣海岸地形,kap-uan hái-gān tē-hîng
+岬灣海岸地形,kap-uan hái-gān tuē-hîng
+弧形島嶼,hôo-hîng tó-sū
+性別平等,sìng-pia̍t pîng-tíng
+性別偏見,sìng-pia̍t phian-kiàn
+明鄭時期,Bîng-Tēnn Sî-kî
+明鄭時期,Bîng-Tīnn Sî-kî
+服兵役,ho̍k ping-ia̍h
+服務業,ho̍k-bū-gia̍p
+服務學習,ho̍k-bū ha̍k-si̍p
+東北季風,tang-pak kuì-hong
+東半球,Tang-puànn-kiû
+東沙群島,Tang-sua kûn-tó
+東沙群島,Tang-sua kûn-tóo
+東亞地區,Tang-A tē-khu
+東亞地區,Tang-A tuē-khu
+東亞島弧,Tang-A tó-hôo
+東經,Tong-king
+台地,Tâi-tē
+台地,Tâi-tuē
+臺地,Tâi-tē
+臺地,Tâi-tuē
+林口台地,Nâ-kháu Tâi-tē
+林口台地,Nâ-kháu Tâi-tuē
+林口臺地,Nâ-kháu Tâi-tē
+林口臺地,Nâ-kháu Tâi-tuē
+林爽文事件,Lîm-sóng-bûn Sū-kiānn
+河川流量,hô-tshuan liû-liōng
+治臺政策,tī Tâi tsìng-tshik
+治臺措施,tī Tâi tshòo-si
+法國大革命,Huat-kok Tuā-kik-bīng
+直轄市政府,ti̍t-hat-tshī tsìng-hú
+直轄市議會,ti̍t-hat-tshī gī-huē
+社區志工,siā-khu tsì-kang
+社區營造,siā-khu îng-tsō
+社教機構,siā-kàu ki-kòo
+社會秩序,siā-huē tia̍t-sū
+社會組織,siā-huē tsoo-tsit
+社會規範,siā-huē kui-huān
+社會運動,siā-huē ūn-tōng
+社會福利,siā-huē hok-lī
+社會變遷,siā-huē piàn-tshian
+糾察隊,kiù-tshat-tuī
+花東縱谷平原,Hua-Tang Tshióng-kok Pîng-guân
+花綵列島,Hua-tshái lia̍t-tó
+列島,lia̍t-tó
+金門,Kim-mn̂g
+金門列島,Kim-mn̂g lia̍t-tó
+金門島,Kim-mn̂g-tó
+金廣福公館,Kim-kóng-hok Kong-kuán
+金錢價值觀,kim-tsînn kè-ta̍t-kuan
+金屬器時代,Kim-sio̍k-khì Sî-tāi
+金屬器時期,Kim-sio̍k-khì Sî-kî
+長濱文化,Tiông-pin Bûn-huà
+阿里山山脈,A-lí-san Suann-me̍h
+阿拉伯板塊,A-la-pik Pán-khuài
+雨量,hōo-liōng
+青年節,Tshing-liân-tseh
+青年節,Tshing-liân-tsueh
+青年團,tshing-liân-thuân
+青壯年人口,tshing-tsòng-liân jîn-kháu
+青壯年人口,tshing-tsòng-liân lîn-kháu
+亞非利加,A-hui-lī-ka
+非洲,Hui-tsiu
+非洲板塊,Hui-tsiu Pán-khuài
+侵蝕作用,tshim-si̍h tsok-iōng
+侵蝕風化,tshim-si̍h hong-huà
+保甲制度,pó-kah tsè-tōo
+南半球,Lâm-puànn-kiû
+南回歸線,lâm-huê-kui-suànn
+南回歸線,Lâm-huê-kui-suànn
+南沙群島,Lâm-sua kûn-tó
+南沙群島,Lâm-sua kûn-tóo
+南極板塊,Lâm-ki̍k Pán-khuài
+南極圈,Lâm-ki̍k-khuan
+南緯,lâm-huī
+南緯,lâm-uí
+南韓,Lâm-Hân
+客家人,Kheh-ka-lâng
+客家桐花祭,Kheh-ka tâng-hue-tsè
+客家桐花祭,Kheh-ka tông-hue-tsè
+屏東平原,Pîn-tong Pîng-guân
+恆春半島,Hîng-tshun Puànn-tó
+恆春城,Hîng-tshun-siânn
+政府單位,tsìng-hú tan-uī
+政府機構,tsìng-hú ki-kòo
+政府機關,tsìng-hú ki-kuan
+政黨輪替,tsìng-tóng lûn-thè
+施琅,Si Lông
+星期,sing-kî
+星期制,sing-kî-tsè
+禮拜制,lé-pài-tsè
+泉郊會館,Tsuân-kau huē-kuán
+泉漳械鬥,Tsuân-Tsiang hâi-tàu
+漳泉拚,Tsiang-Tsuân-piànn
+流行文化,liû-hîng bûn-huà
+珊瑚礁,sān-ôo-tsiau
+珊瑚礁,sān-lôo-tsiau
+珊瑚礁,suan-ôo-ta
+珊瑚礁,suan-lôo-ta
+珊瑚礁島,sān-ôo-tsiau tó
+珊瑚礁島,sān-ôo-tsiau tóo
+珊瑚礁島,suan-ôo-ta tó
+珊瑚礁島,suan-ôo-ta tóo
+珊瑚礁海岸,sān-ôo-tsiau hái-huānn
+珊瑚礁海岸,suan-ôo-ta hái-huānn
+預防射,ī-hông-siā
+預防射,ū-hông-siā
+注預防射,tsù ī-hông-siā
+注預防射,tsù ū-hông-siā
+皇民化運動,Hông-bîn-huà ūn-tōng
+盆地,phûn-tē
+盆地,phûn-tuē
+科技產業,kho-ki sán-gia̍p
+科舉考試,kho-kí khó-tshì
+科舉考試,kho-kú khó-tshì
+紅十字國際委員會,Âng-si̍p-jī Kok-tsè Uí-uân-huē
+紅十字國際委員會,Âng-si̍p-lī Kok-tsè Uí-uân-huē
+紅毛人,Âng-mn̂g-lâng
+紅毛人,Âng-moo-lâng
+美洲板塊,Bí-tsiu Pán-khuài
+感恩節,Kám-un-tseh
+感恩節,Kám-un-tsueh
+耶誕節,Iâ-tàn-tseh
+耶誕節,Iâ-tàn-tsueh
+聖誕節,Sìng-tàn-tseh
+聖誕節,Sìng-tàn-tsueh
+苗栗丘陵,Biâu-li̍k Khiu-lîng
+苗栗山崙,Biâu-li̍k Suann-lūn
+苗栗事件,Biâu-li̍k Sū-kiānn
+英法聯軍之役,Ing Huat Liân-kun tsi i̍k
+軍事防禦,kun-sū hông-gū
+郊商,kau-siong
+降雨量,kàng-hōo-liōng
+風力發電,hong-li̍k huat-tiān
+風俗民情,hong-sio̍k bîn-tsîng
+風俗習慣,hong-sio̍k si̍p-kuàn
+個人隱私,kò-jîn ún-su
+個人隱私,kò-lîn ún-su
+倫理道德,lûn-lí tō-tik
+原住民文化,guân-tsū-bîn bûn-huà
+原住民族,guân-tsū-bîn-tso̍k
+原漢衝突,Guân Hàn tshiong-tu̍t
+唐山過台灣,Tn̂g-suann kuè Tâi-uân
+唐山過台灣,Tn̂g-suann kè Tâi-uân
+唐山過臺灣,Tn̂g-suann kuè Tâi-uân
+唐山過臺灣,Tn̂g-suann kè Tâi-uân
+埃及太陽曆,Ai-ki̍p Thài-iông-li̍k
+埔里盆地,Poo-lí Phhûn-tē
+埔里盆地,Poo-lí Phhûn-tuē
+家扶基金會,Ka-hû Ki-kim-huē
+家庭型態,ka-tîng hîng-thài
+家庭計畫,ka-tîng kè-uē
+家庭倫理,ka-tîng lûn-lí
+家族社會,ka-tso̍k siā-huē
+家族聚居,ka-tso̍k tsū-ki
+家族聚居,ka-tso̍k tsū-ku
+旅遊景點,lí-iû kíng-tiám
+旅遊景點,lú-iû kíng-tiám
+校規,hāu-kui
+校園安全,hāu-hn̂g an-tsuân
+校園安全地圖,hāu-hn̂g an-tsuân tē-tôo
+校園安全地圖,hāu-hn̂g an-tsuân tuē-tôo
+校園霸凌,hāu-hn̂g pà-lîng
+核能科技,hi̍k-lîng kho-ki
+核能科技,hu̍t-lîng kho-ki
+格林威治,Kik-lîm-uī-tī
+格林威治天文台,Kik-lîm-uī-tī Thian-bûn-tâi
+格林威治天文臺,Kik-lîm-uī-tī Thian-bûn-tâi
+桃園神社,Thô-hn̂g Sîn-siā
+神社,sîn-siā
+桃園國際機場,Thô-hn̂g Kok-tsè Ki-tiûnn
+國際機場,kok-tsè ki-tiûnn
+氣候型態,khì-hāu hîng-thài
+氣候變遷,khì-hāu piàn-tshian
+海岸山脈,hái-gān suann-me̍h
+海岸山脈,hái-huānn suann-me̍h
+海岸地形,hái-huānn tē-hîng
+海岸地形,hái-huānn tuē-hîng
+海岸地形,hái-gān tē-hîng
+海岸地形,hái-gān tuē-hîng
+海岸地區,hái-gān tē-khu
+海岸地區,hái-gān tuē-khu
+海岸地區,hái-huānn tē-khu
+海岸地區,hái-huānn tuē-khu
+海岸線,hái-huānn-suànn
+海岸線,hái-gān-suànn
+海底火山,hái-té hué-suann
+海底火山,hái-té hé-suann
+海底火山,hái-tué hué-suann
+海底火山,hái-tué hé-suann
+海底溫泉,hái-tué un-tsuânn
+海底溫泉,hái-té un-tsuânn
+海拔懸度,hái-pua̍t kuân-tōo
+海洋資源,hái-iûnn tsu-guân
+海禁,hái-kìm
+消防局,siau-hông-kio̍k
+消費行為,siau-huì hîng-uî
+消費者文教基金會,Siau-huì-tsiá Bûn-kàu Ki-kim-huē
+消費者服務專線1950,Siau-huì-tsiá Ho̍k-bū tsuan-suànn it kiú ngóo khòng
+消費權益,siau-huì khuân-ik
+消費權益,siau-huì kuân-ik
+特色產業,ti̍k-sik sán-gia̍p
+班級公約,pan-kip kong-iok
+班級自治,pan-kip tsū-tī
+班級幹部,pan-kip kàn-pōo
+班會,pan-huē
+畜牧業,thiok-bo̍k-gia̍p
+祖先崇拜,tsóo-sian tsông-pài
+祖籍,tsóo-tsi̍k
+祖靈,tsóo-lîng
+祖靈祭,Tsóo-lîng-tsè
+耕者有其田,king--tsiá iú kî tiân
+能源危機,lîng-guân guî-ki
+三十暝,Sann-tsa̍p-mê
+過年暗,Kuè-nî-àm
+過年暗,Kè-nî-àm
+除夕,Tû-si̍k
+除夕,Tî-si̍k
+飢餓,ki-gō
+飢餓問題,ki-gō būn-tê
+飢餓問題,ki-gō būn-tuê
+枵飢問題,iau-ki būn-tê
+枵飢問題,iau-ki būn-tuê
+馬祖,Má-tsóo
+馬祖列島,Má-tsóo lia̍t-tó
+馬祖列島,Má-tsóo lia̍t-tóo
+馬祖列嶼,Má-tsóo lia̍t-sū
+馬偕牧師,Má-Kai Bo̍k-su
+馬關條約,Má-kuan Tiâu-iok
+高山族,Ko-san-tso̍k
+下淡水溪,Ē-tām-tsuí-khe
+下淡水溪,Ē-tām-tsuí-khue
+高科技產業,ko-kho-ki sán-gia̍p
+高科技製造業,ko-kho-ki tsè-tsō-gia̍p
+高速公路,ko-sok kong-lōo
+高速鐵路,ko-sok thih-lōo
+高齡化社會,ko-lîng-huà siā-huē
+健康服務中心,Kiān-khong Ho̍k-bū Tiong-sim
+偷渡,thau-tōo
+副熱帶氣候,hù-jia̍t-tài khì-hāu
+副熱帶氣候,hù-lia̍t-tài khì-hāu
+副熱帶氣候區,hù-jia̍t-tài khì-hāu-khu
+副熱帶氣候區,hù-lia̍t-tài khì-hāu-khu
+動物保護協會,tōng-bu̍t pó-hōo hia̍p-huē
+區域特色,khu-hi̍k ti̍k-sik
+區域特色,khu-i̍k ti̍k-sik
+參政權,tsham-tsìng-khuân
+參政權,tsham-tsìng-kuân
+商人節,Siong-jîn-tseh
+商人節,Siong-jîn-tsueh
+商人節,Siong-lîn-tseh
+商人節,Siong-lîn-tsueh
+問禮堂,Būn-lé-tông
+問禮堂,Mn̄g-lé-tn̂g
+國民教育,kok-bîn kàu-io̍k
+國民義務教育,kok-bîng ī-bū kàu-io̍k
+國姓爺,Kok-sìng-iâ
+國定古蹟,kok-tīng kóo-tsik
+國家公園,Kok-ka Kong-hn̂g
+國家公園,kok-ka kong-hn̂g
+國語家庭,kok-gú ka-tîng
+國語家庭,kok-gí ka-tîng
+國語傳習所,kok-gí thuân-si̍p-sóo
+國語傳習所,kok-gú thuân-si̍p-sóo
+國際公約,kok-tsè kong-iok
+國際犯罪問題,kok-tsè huān-tsuē būn-tê
+國際犯罪問題,kok-tsè huān-tsuē būn-tuê
+珍古德,Tin-kóo-tik
+國際珍古德教育保育協會,Kok-tsè Tin-kóo-tik Kàu-io̍k ki̍p Pó-io̍k Hia̍p-huē
+國際航空站,kok-tsè hâng-khong-tsām
+國際組織,kok-tsè tsoo-tsit
+國際勞工公約,Kok-tsè Lô-kang Kong-iok
+國際貿易,kok-tsè bōo-i̍k
+國際環境保護組織,Kok-tsè Khuân-kíng Pó-hōo Tsoo-tsit
+國際競爭力,kok-tsè kīng-tsing-li̍k
+國際護師節,Kok-tsè Hōo-su-tseh
+國際護師節,Kok-tsè Hōo-su-tsueh
+基本人權,ki-pún jîn-khuân
+基本人權,ki-pún jîn-kuân
+基本人權,ki-pún lîn-khuân
+基本人權,ki-pún lîn-kuân
+基因改造食品,ki-in kái-tsō si̍t-phín
+基督宗教,Ki-tok tsong-kàu
+堂號,tn̂g-hō
+專賣,tsuan-bē
+專賣制度,tsuan-bē tsè-tōo
+教育程度,kàu-io̍k thîng-tōo
+教師節,Kàu-su-tseh
+教師節,Kàu-su-tsueh
+族群械鬥,tso̍k-kûn hāi-tàu
+曹公圳,Tsô-kong-tsùn
+械鬥,hāi-tàu
+械鬥,hâi-tàu
+清水斷崖,Tshing-tsuí Tuān-gâi
+清明節,Tshing-bîng-tseh
+清明節,Tshinn-miâ-tsueh
+清朝時期,Tshing-tiâu Sî-kî
+現代化,hiān-tāi-huà
+現代化建設,hiān-tāi-huà kiàn-siat
+產業類別,sán-gia̍p luī-pia̍t
+祭典活動,tsè-tián ua̍h-tāng
+祭典活動,tsè-tián ua̍h-tōng
+移民文化,î-bîn bûn-huà
+移墾社會,î-khún siā-huē
+荷西時代,Hô-Se Sî-tāi
+荷西時期,Hô-Se Sî-kî
+荷蘭人,Hô-lân-lâng
+荷蘭時期,Hô-lân Sî-kî
+被扶養人口,pī-hû-ióng jîn-kháu
+被扶養人口,pī-hû-ióng lîn-kháu
+貧富差距,pîn-hù tsha-kī
+貧富差距,pîn-hù tsha-kū
+通訊工具,thong-sìn kang-kū
+通訊工具,thong-sìn kang-khū
+通訊設施,thong-sìn siat-si
+郭懷一事件,Kueh huâi-it Sū-kiānn
+郭懷一事件,Keh huâi-it Sū-kiānn
+都市計畫,too-tshī kè-uē
+野百合學運,Iá-pik-ha̍p Ha̍k-ūn
+釣魚臺列嶼,Tiò-hî-tâi lia̍t-sū
+陳賴章墾號,Tân Luā-Tsiong Khún-hō
+雪山山脈,Suat-suann Suann-me̍h
+雪山磅空,Suat-suann pōng-khang
+雪山磅空,Suat-san pōng-khang
+雪霸國家公園,Suat-pà Kok-ka Kong-hn̂g
+鹿皮,lo̍k-phuê
+鹿皮,lo̍k-phê
+鹿耳門水路,Lo̍k-ní-mn̂g tsuí-lōo
+博愛座,phok-ài-tsō
+單親家庭,tan tshing ka-tîng
+就業機會,tsiū-gia̍p ki-huē
+惡性競爭,ok-sìng kīng-tsing
+惡性競爭,ok-sìng kìng-tsing
+散村,suánn-tshun
+普悠瑪號,Phu-iu-má-háu
+智慧財產權,tì-huī tsâi-sán-khuân
+智慧財產權,tì-huī tsâi-sán-kuân
+上低繳納金額,siōng-kē kiáu-la̍p kim-gia̍h
+渡海來台,tōo-hái lâi Tâi
+渡海來臺,tōo-hái lâi Tâi
+渡台禁令,tōo Tâi kìm-līng
+渡臺禁令,tōo Tâi kìm-līng
+港埠型都市,káng-poo-hîng too-tshī
+無國界醫生,Bû-kok-kài i-sing
+菲律賓板塊,Hui-lu̍t-pin Pán-khuài
+菲律賓海板塊,Hui-lu̍t-pin-hái Pán-khuài
+街路圖,ke-lōo-tôo
+街路圖,kue-lōo-tôo
+鄉公所,hiong-kong-sóo
+鄉民代表會,hiong-bîn tāi-piáu-huē
+開放港口,khai-hòng káng-kháu
+開國紀念日,Khai-kok Kì-liām-ji̍t
+開國紀念日,Khai-kok Kì-liām-li̍t
+開發土地,khai-huat thóo-tē
+開發土地,khai-huat thóo-tuē
+開漳聖王,Khai-tsiang-sìng-ông
+開荒,khui-hng
+開臊節,Khui-tsho-tseh
+開臊節,Khui-tsho-tsueh
+集村,tsi̍p-tshun
+集村,tsi̍p-tshuan
+集會所,tsi̍p-huē-sóo
+雲端,hûn-tuan
+雲頂,hûn-tíng
+雲端科技,hûn-tuan kho-ki
+雲頂科技,hûn-tíng kho-ki
+飲食文化,ím-si̍t bûn-huà
+飲食習慣,ím-si̍t si̍p-kuàn
+飯匙鵝,pn̄g-sî-gô
+傳教士,thuân-kàu-sū
+傳統文化,thuân-thóng bûn-huà
+傳統厝,thuân-thóng-tshù
+傳統徛家厝,thuân-thóng khiā-ke-tshù
+古早厝,kóo-tsá-tshù
+傳統技藝,thuân-thóng ki-gē
+傳統社會,thuân-thóng siā-huē
+傳統產業,thuân-thóng sán-gia̍p
+傳統祭典,thuân-thóng tsè-tián
+傳統節慶,thuân-thóng tsiat-khìng
+傳統農漁業,thuân-thóng lông-hî-gia̍p
+傳統農漁業,thuân-thóng lông-hû-gia̍p
+傳統聚落,thuân-thóng tsū-lo̍k
+圓山仔文化,Înn-suann-á Bûn-huà
+圓山仔遺址,Înn-suann-á Uî-tsí
+塑膠貨幣,sok-ka huè-pè
+塑膠貨幣,sok-ka hè-pè
+塑膠製品,sok-ka tsè-phín
+愛鄉環保行動,ài-hiong khuân-pó hîng-tōng
+愛鄉環保行動,ài-hiong huân-pó hîng-tōng
+慈善團體,tsû-siān thuân-thé
+新石器文化,Sin-tsio̍h-khì bûn-huà
+新石器時代,Sin-tsio̍h-khì Sî-tāi
+新石器時期,Sin-tsio̍h-khì Sî-kî
+新住民,sin-tsū-bîn
+新港文,Sin-káng-bûn
+暖化,luán-huà
+溫室氣體,un-sik khì-thé
+矮靈祭,é-lîng-tsè
+節能減碳,tsiat-lîng kiám-thuànn
+節能標章,tsiat-lîng phiau-tsiong
+節能標章,tsiat-lîng piau-tsiong
+節慶,tsiat-khìng
+經度,king-tōo
+經緯線,king-huī-suànn
+經緯線,king-uí-suànn
+經濟活動,king-tsè ua̍h-tāng
+經濟活動,king-tsè ua̍h-tōng
+經濟發展,king-tsè huat-tián
+義務教育,gī-bū kàu-io̍k
+聖地麥加,sìng-tē Mài-ka
+聖地,sìng-tē
+報禁,pò-kìm
+解嚴令,kái-giâm-līng
+資訊科技,tsu-sìn kho-ki
+資訊產業,tsu-sìn sán-gia̍p
+資訊電子業,tsu-sìn tiān-tsú-gia̍p
+資源回收,tsu-guân hê-siu
+資源回收,tsu-guân huê-siu
+農民市仔,lông-bîn tshī-á
+農業社會,lông-gia̍p siā-huē
+農漁牧業,lông-hî-bo̍k-gia̍p
+運輸設施,ūn-su siat-si
+過度開發,kuè-tōo khai-huat
+過度開發,kè-tōo khai-huat
+過番,kuè-huan
+過番,kè-huan
+道教信仰,Tō-kàu sìn-gióng
+隔代教養,keh-tāi kàu-ióng
+電子地圖,tiān-tsú tē-tôo
+電子地圖,tiān-tsú tuē-tôo
+電子發票,tiān-tsú huat-phiò
+嘉南平原,Ka-lâm Pîng-guân
+圖例,tôo-lē
+團隊活動,thuân-tuī ua̍h-tāng
+團隊活動,thuân-tuī ua̍h-tōng
+團體活動,thuân-thé ua̍h-tāng
+團體活動,thuân-thé ua̍h-tōng
+實景,si̍t-kíng
+實景地圖,si̍t-kíng tē-tôo
+實景地圖,si̍t-kíng tuē-tôo
+實體商店,si̍t-thé siong-tiàm
+拍獵掠魚,phah-la̍h lia̍h-hî
+演化論,ián-huà-lūn
+漢文化,Hàn bûn-huà
+漢番界碑,Hàn-Huan kài-pi
+漳泉械鬥,Tsiang-Tsuân hâi-tàu
+瑠公圳,Liû-kong-tsùn
+監察,kàm-tshat
+監察院,Kàm-tshat-īnn
+碳跤跡,thuànn kha-jiah
+碳跤跡,thuànn kha-liah
+碳跤跡,thuànn-kha-jiah
+碳跤跡,thuànn-kha-liah
+福爾摩沙,Hō-lú-môo-sa
+精緻農業,tsing-tì lông-gia̍p
+綠色和平組織,Li̍k-sik Hô-pîng Tsoo-tsit
+綠色消費,li̍k-sik siau-huì
+綠建築,li̍k-kiàn-tio̍k
+綠能產業,li̍k-lîng sán-gia̍p
+網路商店,bāng-lōo siong-tiàm
+網路購物,bāng-lōo kòo-bu̍t
+緊急安置所,kín-kip an-tì-sóo
+聚落,tsū-lo̍k
+臺中盆地,Tâi-tiong Phûn-tē
+臺中盆地,Tâi-tiong Phûn-tuē
+臺北盆地,Tâi-pak Phûn-tē
+臺北盆地,Tâi-pak Phûn-tuē
+臺南古蹟,Tâi-lâm kóo-tsik
+臺員,Tâi-uân
+臺窩灣,Tâi-o-uân
+臺灣三大圳,Tâi-uân sann tuā-tsùn
+臺灣文化協會,Tâi-uân Bûn-huà Hia̍p-huē
+臺灣本島,Tâi-uân pún-tó
+臺灣本島,Tâi-uân pún-tóo
+臺灣民主國,Tâi-uân Bîn-tsú-kok
+臺灣民報,Tâi-uân Bîn-pò
+臺灣原住民,Tâi-uân Guân-tsū-bîn
+臺灣島,Tâi-uân tó
+臺灣海峽,Tâi-uân Hái-kiap
+臺灣總督府,Tâi-uân Tsóng-tok-hú
+臺灣議會,Tâi-uân Gī-huē
+臺灣議會設置請願運動,Tâi-uân Gī-huē Siat-tì Tshíng-guān Ūn-tōng
+製造業,tsè-tsō-gia̍p
+閩粵械鬥,Bân-Ua̍t hâi-tàu
+閩粵拚,Bân-Ua̍t-piànn
+領事館,Líng-sū-kuán
+噍吧哖事件,Ta-pa-nî sū-kiānn
+彈劾,tân-hi̍k
+掖種祭,Iā-tsíng-tsè
+歐亞板塊,Au-A Pán-khuài
+歐洲聯盟,Au-tsiu Liân-bîng
+潑水節,Phuah-tsuí-tseh
+潑水節,Phuah-tsuí-tsueh
+澎湖群島,Phînn-ôo kûn-tó
+澎湖群島,Phînn-ôo kûn-tóo
+澎湖群島,Phênn-ôo kûn-tó
+澎湖群島,Phênn-ôo kûn-tóo
+熱帶氣候,jia̍t-tài khì-hāu
+熱帶氣候,lia̍t-tài khì-hāu
+熱帶氣候區,jia̍t-tài khì-hāu-khu
+熱帶氣候區,lia̍t-tài khì-hāu-khu
+熱蘭遮城,Jia̍t-lân-jia-siânn
+熱蘭遮城,Lia̍t-lân-jia-siânn
+緯度,hūi-tōo
+緯度,uí-tōo
+緯線,huī-suànn
+緯線,uí-suànn
+衛生所,uē-sing-sóo
+衛生所,uī-sing-sóo
+衛星影像圖,uē-tshenn iánn-siōng-tôo
+衛星影像圖,tshinn iánn-siōng-tôo
+課餘時間,khò-î sî-kan
+課外時間,kho-gua sî-kan
+輪作,lûn-tsok
+鄭氏王朝,Tēnn--sī Ông-tiâu
+鄭氏王朝,Tīnn--sī Ông-tiâu
+鄭氏時代,Tēnn--sì Sî-tāi
+鄭氏時代,Tīnn--sì Sî-tāi
+鄭氏時期,Tēnn--sī Sî-kî
+鄭氏時期,Tīnn--sī Sî-kî
+鄭成功,Tīnn Sîng-kong
+鄭成功,Tēnn Sîng-kong
+鄭克塽,Tēnn Khik-sóng
+鄭克塽,Tīnn Khik-sóng
+鄭經,Tēnn King
+鄭經,Tīnn King
+儒家思想,jû-ka su-sióng
+儒家思想,lû-ka su-sióng
+學校自治組織,ha̍k-hāu tsū-tī tsoo-tsit
+學習活動,ha̍k-si̍p ua̍h-tāng
+學習活動,ha̍k-si̍p ua̍h-tōng
+學習資源,ha̍k-si̍p tsu-guân
+戰後初期,tsiàn-āu tshoo-kî
+戰後臺灣,tsiàn-āu Tâi-uân
+戰祭,Tsiàn-tsè
+曆法,li̍k-huat
+歷史建築,li̍k-sú kiàn-tio̍k
+西螺溪,Sai-lê-khe
+西螺溪,Sai-lê-khue
+縣定古蹟,kuān-tīng kóo-tsik
+縣政府,kuān-tsìng-hú
+縣議會,kuān-gī-huē
+蕃人公學校,Huan-jîn kong-ha̍k-hāu
+蕃人公學校,Huan-lîn kong-ha̍k-hāu
+龜山島,Ku-suann-tó
+環保局,Khuân-pó-kio̍k
+環保局,Huân-pó-kio̍k
+環保標章,khuân-pó phiau-tsiong
+環保標章,khuân-pó piau-tsiong
+環保標章,huân-pó phiau-tsiong
+環保標章,huân-pó piau-tsiong
+環境汙染,khuân-kíng ú-jiám
+環境汙染,khuân-kíng ú-liám
+環境影響評估,khuân-kíng íng-hióng phîng-kóo
+總統直選,tsóng-thóng ti̍t-suán
+總督府,Tsóng-tok-hú
+聯合國,Liân-ha̍p-kok
+聯合國兒童基金會,Liân-ha̍p-kok Jî-tông Ki-kim-huē
+聯合國兒童基金會,Liân-ha̍p-kok Lî-tông Ki-kim-huē
+聯合國教科文組織,Liân-ha̍p-kok Kàu-kho-bûn Tsoo-tsit
+教科文組織,Kàu-kho-bûn Tsoo-tsit
+臨時動議,lîm-sî tōng-gī
+齋戒月,tsai-kài-gue̍h
+齋戒月,tsai-kài-ge̍h
+斷層海岸,tuān-tsân hái-huānn
+禮俗,lé-sio̍k
+舊石器時代,Kū-tsio̍h-khì Sî-tāi
+舊石器時期,Kū-tsio̍h-khì Sî-kî
+藍地黃虎旗,nâ-tē n̂g-hóo-kî
+藍地黃虎旗,nâ-tuē n̂g-hóo-kî
+藍色公路,nâ-sik kong-lōo
+厚水期,kāu-tsuí-kî
+豐年祭,hong-nî-tsè
+豐年祭,hong-liân-tsè
+醫療資源,i-liâu tsu-guân
+醫療衛生,i-liâu uē-sing
+醫療衛生,i-liâu uī-sing
+鎮公所,tìn-kong-sóo
+離島,lî-tó
+離島,lī-tó
+鵝鑾鼻,Gô-luân-phīnn
+獸力運輸,siù-li̍k ūn-su
+藝文活動,gē-bûn ua̍h-tāng
+藝文活動,gē-bûn ua̍h-tōng
+霧社事件,Bū-sia sū-kiānn
+蘭嶼,Lân-sū
+霸凌事件,pà-lîng sū-kiānn
+霾,bâi
+觀光業,kuan-kong-gia̍p
+觀光導覽圖,kuan-kong tō-lám-tôo
+指北極,tsí-pak-ki̍k
+指南極,tsí-lâm-ki̍k
+九龍公道杯,kiú-liông kong-tō-pue
+九龍杯,kiú-liông-pue
+二分法,jī-hun-huat
+二分法,lī-hun-huat
+人造虹,jîn-tsō khīng
+人造虹,lîn-tsō khīng
+三稜鏡,sann-lîng-kiànn
+頂弦月,tíng-hiân-gue̍h
+頂弦月,tíng-hiân-ge̍h
+上游,siōng-iû
+下弦月,hā-hiân-gue̍h
+下弦月,hā-hiân-ge̍h
+溪尾,khe-bué
+溪尾,khue-bué
+下游,hā-iû
+塗壤,thôo-jióng
+大地景觀,tāi-tē kíng-kuan
+大地景觀,tāi-tuē kíng-kuan
+大氣層,tāi-khì-tsân
+大陸冷氣團,tāi-lio̍k líng-khì-thuân
+大熊座,Tāi-hîm-tsō
+大車齒,tuā-tshia-khí
+大齒仔,tuā-gí-á
+大狗齒仔,tuā-káu-khí-á
+子房,tsú-pâng
+子葉,tsú-hio̍h
+小熊座,Siáu-hîm-tsō
+細車齒,sè-tshia-khí
+細車齒,suè-tshia-khí
+細齒仔,sè-gí-á
+細齒仔,suè-gí-á
+細狗齒仔,sè-káu-khí-á
+細狗齒仔,suè-káu-khí-á
+鹼仔水,kinn-á-tsuí
+再生資源,tsài-sing tsu-guân
+袂當再生資源,buē-tàng tsài-sing tsu-guân
+袂當再生資源,bē-tàng tsài-sing tsu-guân
+無完全變態,bô-uân-tsuân piàn-thài
+不良導體,put-liông tō-thé
+導體,tō-thé
+中央氣象局,Tiong-iong Khì-siōng-kio̍k
+中性水溶液,tiong-sìng tsuí-iông-i̍k
+水溶液,tsuí-iông-i̍k
+中游,tiong-iû
+互生,hōo-sing
+五車二,gōo-tshia-jī
+內溫動物,luē-un tōng-bu̍t
+內溫動物,lāi-un tōng-bu̍t
+分貝計,hun-puè-kè
+反光鏡,huán-kong kiànn
+倒照,tò-tsiò
+反經石,huán-king-tsio̍h
+天津四,thian-tin-sù
+天氣現象,thinn-khì hiān-siōng
+天氣預報,thinn-khì ī-pò
+天氣預報,thinn-khì ū-pò
+天氣圖,thinn-khì-tôo
+天狼星,Thian-lông-tshenn
+天狼星,Thian-lông-tshinn
+賊仔星,Tsha̍t-á-tshenn
+賊仔星,Tsha̍t-á-tshinn
+天然氣,thian-jiân-khì
+天然氣,thian-liân-khì
+天琴座,Thian-khîm-tsō
+天敵,thian-ti̍k
+天蠍座,Thian-giat-tsō
+天鷹座,Thinn-ing-tsō
+日頭光電發電廠,ji̍t-thâu-kng-tiān huat-tiān-tshiúnn
+日頭光電發電廠,li̍t-thâu-kng-tiān huat-tiān-tshiúnn
+日頭懸度角,ji̍t-thâu kuân-tōo-kak
+日頭懸度角,li̍t-thâu kuân-tōo-kak
+太陽電池,thài-iông tiān-tî
+日頭觀測器,ji̍t-thâu kuan-tshik-khì
+日頭觀測器,li̍t-thâu kuan-tshik-khì
+固定點,kòo-tīng-tiám
+方向性,hong-hiòng-sìng
+方解石,hong-kái-tsio̍h
+日晷,ji̍t-kuí
+日晷,li̍t-kuí
+月形,gue̍h-hîng
+月形,ge̍h-hîng
+月相,gue̍h-siòng
+月相,ge̍h-siòng
+月球,gue̍h-kiû
+月球,ge̍h-kiû
+木本莖,bo̍k-pún-king
+毛細現象,môo-sè-hiàn-siōng
+水力傳播,tsuí-li̍k thuân-pòo
+水力傳播,tsuí-li̍k thuân-pò
+水分,tsuí-hun
+水生生物,tsuí-sing sing-bu̍t
+水生動物,tsuí-sing tōng-bu̍t
+水生植物,tsuí-sing si̍t-bu̍t
+水汙染,tsuí-u-jiám
+水汙染,tsuí-u-liám
+水流,tsuí-liû
+水域環境,tsuí-hi̍k khuân-kíng
+水循環,tsuí-sûn-khuân
+水塔,tsuí-thah
+水煙,tsuí-ian
+水銀電池,tsuí-gîn tiān-tî
+火力發電,hué-li̍k huat-tiān
+火力發電,hé-li̍k huat-tiān
+火成岩,hué-sîng-gâm
+火成岩,hué-sîng-giâm
+火成岩,hé-sîng-gâm
+火成岩,hé-sîng-giâm
+牛郎星,Gû-nn̂g-tshenn
+仙女座,Sian-lí-tsō
+仙女座,Sian-lú-tsō
+仙后座,Sian-hiō-tsō
+仙后座,Sian-hōo-tsō
+冬季大三角,tang-kuì tuā sann-kak
+噗岸,phok-huānn
+積塗岸,tsik-thôo-huānn
+凹岸,nah-huānn
+蝕塗岸,si̍h-thôo-huānn
+北斗七星,Pak-táu-tshit-tshenn
+北斗七星,Pak-táu-tshit-tshinn
+北極星,Pak-ki̍k-tshenn
+北極星,Pak-ki̍k-tshinn
+北極震盪,pak-ki̍k-tsìn-tōng
+可再生資源,khó-tsài-sing tsu-guân
+可燃性,khó-jiân-sìng
+外來種生物,guā-lâi-tsíng sing-bu̍t
+外溫動物,guā-un tōng-bu̍t
+平行脈,pîng-hîng-me̍h
+平均氣溫,pîng-kin khì-un
+平均氣溫,pîng-kun khì-un
+幼蟲,iù-thâng
+正極,tsiànn-ki̍k
+永續經營,íng-sio̍k king-îng
+永續環境,íng-sio̍k khuân-kíng
+生物多樣性,sing-bu̍t to-iūnn-sìng
+成長環境,sîng-tióng khuân-kíng
+生質能發電,sing-tsit-lîng huat-tiān
+石灰水,tsio̍h-hue-tsuí
+石灰水,tsio̍h-he-tsuí
+石灰岩,tsio̍h-hue-gâm
+石灰岩,tsio̍h-hue-giâm
+石灰岩,tsio̍h-he-gâm
+石灰岩,tsio̍h-he-giâm
+灰石,hue-tsio̍h
+灰石,he-tsio̍h
+石英,tsio̍h-ing
+石墨,tsio̍h-ba̍k
+石蕊試紙,tsio̍h-luí tshì-tsuá
+試紙,tshì-tsuá
+仰角,gióng-kak
+仰角觀測器,gióng-kak kuan-tshik-khì
+boo-lú-tooh,boo-lú-tooh
+光害,kng-hāi
+光圈,kng-khuan
+冰晶,ping-tsing
+合金,ha̍p-kim
+同極相斥,tông-ki̍k sio-thik
+圭表,kui-pió
+地下莖,tē-hā-king
+地下莖,tuē-hā-king
+地平面,tē-pîng-bīn
+地平面,tuē-pîng-bīn
+地平線,tē-pîng-suànn
+地平線,tuē-pîng-suànn
+地形景觀,tē-hîng kíng-kuan
+地形景觀,tuē-hîng kíng-kuan
+地面天氣圖,tē-bīn thinn-khì-tôo
+地面天氣圖,tuē-bīn thinn-khì-tôo
+地球引力,tē-kiû ín-li̍k
+地球引力,tuē-kiû ín-li̍k
+地球自轉,tē-kiû tsū-tsuán
+地球自轉,tuē-kiû tsū-tsuán
+地勢,tē-sè
+地勢,tuē-sè
+地磁,tē-tsû
+地磁,tuē-tsû
+地熱發電,tē-jia̍t huat-tiān
+地熱發電,tē-lia̍t huat-tiān
+地熱發電,tuē-jia̍t huat-tiān
+地熱發電,tuē-lia̍t huat-tiān
+成蝶,sîng-tia̍p
+成蟲,sîng-thâng
+pha̋-siàn-tòo,pha̋-siàn-tòo
+pha-sèn-tooh,pha-sèn-tooh
+百葉窗,pah-hio̍h-thang
+鱟百冊,hāu-peh-tsheh
+百葉箱,pah-hio̍h-siunn
+羽化,ú-huà
+肉食動物,jio̍k-si̍t tōng-bu̍t
+肉食動物,lio̍k-si̍t tōng-bu̍t
+肌肉,ki-jio̍k
+肉仁,bah-jîn
+肉仁,bah-lîn
+自身彈力傳播,tsū-sin tân-li̍k thuân-pò
+自身彈力傳播,tsū-sin tân-li̍k thuân-pòo
+自然保育,tsū-jiân pó-io̍k
+自然保育,tsū-liân pó-io̍k
+自然界,tsū-jiân-kài
+自然界,tsū-liân-kài
+色光,sik-kng
+色散現象,sik-suànn hiān-siōng
+低氣壓,kē-khì-ap
+低氣壓中心,kē-khì-ap tiong-sim
+gu-lá-muh,gu-lá-muh
+冷卻,líng-khiok
+冷鋒,líng-hong
+助燃,tsōo-jiân
+助燃,tsōo-liân
+助燃物,tsōo-jiân-bu̍t
+助燃物,tsōo-liân-bu̍t
+卵生,luán-sing
+卵生動物,luán-sing tōng-bu̍t
+完全溶解,uân-tsuân iûnn-kái
+完全溶去,uân-tsuân iûnn--khì
+完全變態,uân-tsuân piàn-thài
+魚尾叉,hî-bué-tshe
+魚尾叉,hî-bé-tshe
+魚尾叉,hû-bué-tshe
+魚尾叉,hû-bé-tshe
+抗力,khòng-li̍k
+抗力臂,khòng-li̍k-pì
+抗力點,khòng-li̍k-tiám
+拗射,áu-siā
+揣對象,tshuē tuì-siōng
+揣對象,tshē tuì-siōng
+求偶行為,kiû-ngóo hîng-uî
+求偶,kiû-ngóo
+汽艇,khì-thíng
+沉水性,tîm-tsuí-sìng
+沉積岩,tîm-tsik-gâm
+沉積岩,tîm-tsik-giâm
+浮洲,phû-tsiu
+浮嶼,phû-sū
+漏壺,lāu-ôo
+漏壺計時器,lāu-ôo kè-sî-khì
+育幼,io̍k-iù
+豆腐岩,tāu-hū-gâm
+豆腐岩,tāu-hū-giâm
+趖莖,sô-king
+防腐,hông-hú
+防鉎,hông-senn
+防鉎,hông-sian
+並聯,pīng-liân
+奶酸菌,ling-sng-khún
+奶酸菌,ni-sng-khún
+兩生類,lióng-sinn-luī
+兩生類,lióng-senn-luī
+兩生類,lióng-sing-luī
+刻度,khik-tōo
+受力,siū-li̍k
+受熱,siū-jia̍t
+受熱,siū-lia̍t
+固態,kòo-thài
+固體,kòo-thé
+坡度,pho-tōo
+崎度,kiā-tōo
+菌種,khún-tsíng
+孢子,pau-tsú
+孢子囊,pau-tsú-lông
+孢子囊群,pau-tsú-lông-kûn
+定滑輪,tīng-ku̍t-lûn
+昆蟲,khun-thiông
+果實,kué-si̍t
+果實類,kó-si̍t-luī
+港喙,káng-tshuì
+河口湳仔地,hô-kháu làm-á-tē
+河口湳仔地,hô-kháu làm-á-tuē
+河道,hô-tō
+針筒,tsiam-tâng
+射筒,siā-tâng
+注射筒,tsù-siā-tâng
+直射,ti̍t-siā
+直照,ti̍t-tsiò
+社會行為,siā-huē hîng-uî
+社會性蟲豸,siā-huē-sìng thâng-thuā
+社會性昆蟲,siā-huē-sìng khun-thiông
+空氣汙染,khong-khìu u-jiám
+空氣汙染,khong-khìu u-liám
+空氣品質指標值,khong-khì phín-tsit tsí-piau-ti̍t
+空氣品質指標值,khong-khì phín-tsit tsí-phiau-ti̍t
+空氣品質指標值,khong-khì phín-tsit tsí-piau-ta̍t
+空氣品質指標值,khong-khì phín-tsit tsí-phiau-ta̍t
+空氣柱,khong-khì-thiāu
+空氣流動,khong-khì liû-tōng
+空氣發射器,khong-khì huat-siā-khì
+花柱,hue-tsū
+花崗石,hua-kang-tsio̍h
+花崗石,hua-kong-tsio̍h
+花絲,hue-si
+花菜類,hue-tshài-luī
+花萼,hue-go̍k
+花葉,hue-hio̍h
+花藥,hue-io̍h
+金屬片,kim-sio̍k-phìnn
+長石,tn̂g-tsio̍h
+雨量器,hōo-liōng-khì
+青黴素,tshenn-bî-sòo
+青黴素,tshinn-bî-sòo
+phe-ní-sí-lín,phe-ní-sí-lín
+青黴菌,tshenn-bî-khún
+青黴菌,tshinn-bî-khún
+非接觸力,hui-tsiap-tshiok-li̍k
+光度,kng-tōo
+光星,kng-tshenn
+光星,kng-tshinn
+侵蝕,tshim-si̍k
+保育類生物,pó-io̍k-luī sing-bu̍t
+保溫,pó-un
+前蛹,tsiân-ióng
+南河三,Lâm-hô sann
+恆星,hîng-tshenn
+恆星,hîng-tshinn
+恆星,hîng-sing
+恆溫動物,hîng-un tōng-bu̍t
+指北針,tsí-pak-tsiam
+指示劑,tsí-sī-tse
+施力,si-li̍k
+施力臂,si-li̍k-pì
+施力點,si-li̍k-tiám
+星空,sing-khong
+星座盤,sing-tsō-puânn
+星等,sing-tíng
+春季大三角,tshun-kuì tuā sann-kak
+柱仔頭,thiāu-á-thâu
+活栓,ua̍h-sng
+活塞,ua̍h-that
+玻片夾,po-phìnn-ngeh
+玻片樣本,po-phìnn iūnn-pún
+相斥,sio-thik
+相吸,sio-khip
+眉形月,bî-hîng-gue̍h
+眉形月,bî-hîng-ge̍h
+砂糖,sua-thn̂g
+秋季四邊形,tshiu-kuì sù-pian-hîng
+科學家,kho-ha̍k-ka
+紅色石蕊試紙,âng-sik tsio̍h-luí-tshì-tsuá
+背鰭,puē-kî
+胎生,thai-sing
+胎生動物,thai-sing tōng-bu̍t
+胎盤,thai-puânn
+胚胎,phue-thai
+胚胎,phe-thai
+胚珠,phue-tsu
+胚珠,phe-tsu
+若蟲,jio̍k-thâng
+若蟲,jio̍k-thiông
+虹吸現象,hông-khip hiān-siōng
+計時,kè-sî
+負極,hū-ki̍k
+重力,tiōng-li̍k
+音叉,im-tshe
+音懸,im-kuân
+風力計,hong-li̍k-kè
+風力傳播,hong-li̍k thuân-pòo
+風力傳播,hong-li̍k thuân-pò
+風化,hong-huà
+風化作用,hong-huà tsok-iōng
+食品添加物,si̍t-phín thiam-ka-bu̍t
+食奶動物,tsia̍h-ling-tōng-bu̍t
+食奶動物,tsia̍h-ni-tōng-bu̍t
+飼奶動物,tshī-ling-tōng-bu̍t
+飼奶動物,tshī-ni-tōng-bu̍t
+哺乳動物,pōo-jú-tōng-bu̍t
+哺乳類,pōo-jú-luī
+夏季大三角,hā-kuì tuā sann-kak
+容器,iông-khì
+挺水性,thíng-tsuí-sìng
+核能發電,hi̍k-lîng huat-tiān
+核能發電,hu̍t-lîng huat-tiān
+根莖類,kin-king-luī
+根莖類,kun-king-luī
+氣空,khì-khang
+氣門,khì-mn̂g
+氣室,khì-sik
+氣象報告,khì-siōng pò-kò
+氣象預報,khì-siōng ū-pò
+氣象預報,khì-siōng ī-pò
+氣象衛星,khì-siōng uē-tshenn
+氣象衛星,khì-siōng uī-tshinn
+氣溫計,khì-un-kè
+氣團,khì-thuân
+氣態,khì-thài
+sàng-sòo,sàng-sòo
+浮力,phû-li̍k
+浮葉性,phû-hio̍h-sìng
+海洋能發電,hái-iûnn-lîng huat-tiān
+海蝕平台,hái-si̍h pênn-tâi
+海蝕平台,hái-si̍h pînn-tâi
+海蝕洞,hái-si̍h-tōng
+海蝕崁,hái-si̍h-khàm
+特有種,ti̍k-iú-tsíng
+特有種,ti̍k-iú-tsíong
+胸部,hing-pōo
+魚擛,hî-ia̍t
+草本莖,tsháu-pún-king
+草食動物,tsháu-si̍t tōng-bu̍t
+酒精燈,tsiú-tsing-ting
+懸度角,kuân-tōo-kak
+高氣壓,ko-khì-ap
+高氣壓中心,ko-khì-ap tiong-sim
+焦電池,ta-tiān-tî
+偏轉,phian-tsuán
+側芽,tshik-gê
+動力來源,tōng-li̍k lâi-guân
+動物傳播,tōng-bu̍t thuân-pòo
+動物傳播,tōng-bu̍t thuân-pò
+動滑輪,tōng-ku̍t-lûn
+參考體,tsham-khó-thé
+參宿七,tsham-siù tshit
+參宿七,sim-siù tshit
+參宿四,tsham-siù sì
+參宿四,sim-siù sì
+強力電磁鐵,kiông-li̍k tiān-tsû-thih
+強力吸鐵,kiông-li̍k khip-thih
+強力吸鐵,kiông-li̍k khi̍p-thih
+強力吸石,kiông-li̍k khip-tsio̍h
+強力吸石,kiông-li̍k khi̍p-tsio̍h
+弄花,lāng-hue
+接目鏡,tsiap-bo̍k-kiànn
+接物鏡,tsiap-bu̍t-kiànn
+接觸力,tsiap-tshiok-li̍k
+接觸面,tsiap-tshiok-bīn
+控制變因,khòng-tsè piàn-im
+轉踅盤,tńg-se̍h-puânn
+黃酸雨季節,n̂g-sng-hōo kuì-tseh
+黃酸雨季節,n̂g-sng-hōo kuì-tsueh
+芒種雨季節,bông-tsíng-hōo kuì-tseh
+芒種雨季節,bông-tsíng-hōo kuì-tsueh
+梅雨,muî-ú
+梅雨季節,muî-ú kuì-tseh
+梅雨季節,muî-ú kuì-tsueh
+mí-lih,mí-lih
+液態,i̍k-thài
+湠卵,thuànn-nn̄g
+畢宿五,Pit-siù gōo
+異極相吸,ī-ki̍k sio-khip
+粗調節輪,tshoo-tiâu-tsiat-lûn
+幼調節輪,iù-tiâu-tsiat-lûn
+懸浮微粒,hiân-hû-bî-lia̍p
+懸浮,hiân-hû
+微粒,bî-lia̍p
+細懸浮微粒,sè hiân-hû-bî-lia̍p
+細懸浮微粒,suè hiân-hû-bî-lia̍p
+習性,si̍p-sìng
+莫氏𠕇度,Mo̍h--sī tīng-tōo
+規律性,kui-lu̍t-sìng
+揣食,tshuē-tsia̍h
+叨食,lo-tsia̍h
+覓食,bā-tsia̍h
+通電,thong-tiān
+通電線圈,thong-tiān suànn-khuan
+連通管,liân-thong-kóng
+連通管原理,liân-thong-kuán guân-lí
+連通管現象,liân-thong-kóng hiān-siōng
+頂芽,tíng-gê
+單極mòo-tah,tuann-ki̍k mòo-tah
+單擺,tuann-pái
+單擺,tan-pái
+單擺計時器,tuann-pái kè-sî-khì
+單擺計時器,tan-pái kè-sî-khì
+單擺原理,tuann-pái guân-lí
+單擺原理,tan-pái guân-lí
+散熱,sàn-jia̍t
+散熱,sàn-lia̍t
+氮氣,tām-khì
+無扇葉電風,bû sìnn-hio̍h tiān-hong
+發光二極體,huat-kng jī-ki̍k-thé
+發光二極體,huat-kng lī-ki̍k-thé
+發電量,huat-tiān-liōng
+發電機,huat-tiān-ki
+起酵,khí-kànn
+硬度,ngē-tōo
+硬度,ngī-tōo
+𠕇度,tīng-tōo
+等壓線,tíng-ap-suànn
+高麗菜汁,ko-lê-tshài-tsiap
+紫色高麗菜汁指示劑,tsí-sik ko-lê-tshài-tsiap tsí-sī-tse
+絕緣體,tsua̍t-iân-thé
+菌絲,khún-si
+視星等,sī-tshenn-tíng
+視星等,sī-tshinn-tíng
+距離,kī-lî
+距離,kū-lî
+軸心,ti̍k-sim
+心仔,sim-á
+軸半徑,ti̍k-puànn-kìng
+軸根,ti̍k-kin
+軸根,ti̍k-kun
+量筒,niû-tâng
+閏年,jūn-nî
+閏年,lūn-nî
+大朝年,tuā-tiâu-nî
+日頭光,ji̍t-thâu-kng
+日頭光,li̍t-thâu-kng
+公花,kang-hue
+花鬚,hue-tshiu
+雲量,hûn-liōng
+雲層,hûn-tsân
+烏雲母,oo-hûn-bó
+烏雲母,oo-hûn-bú
+烏黴菌,oo-ba̋i-khín
+傳粉,thuân-hún
+傳導,thuân-tō
+傳導現象,thuân-tō hiān-siōng
+微生物,bî-sing-bu̍t
+微生菌,bî-sing-khún
+暖氣團,luán-khì-thuân
+暖鋒,luán-hong
+極地,ki̍k-tē
+極地,ki̍k-tuē
+溶液,iông-i̍k
+溶去,iûnn--khì
+溶去,iûnn--khù
+溶去,iûnn-khì
+溶解現象,iông-kái hiān-siōng
+溶解量,iông-kái-liōng
+溶質,iông-tsit
+溶劑,iông-tsè
+滑石,ku̍t-tsio̍h
+車轆,tshia-lak
+滑車,ku̍t-tshia
+撚錢,lián-tsînn
+獅仔座,Sai-á-tsō
+腹足,hok-tsiok
+腹面,pak-bīn
+腹面,bak-bīn
+魚腹翼,hî-pak-si̍t
+魚腹翼,hû-pak-si̍t
+落地生根,lo̍h-tē-sing-kin
+落地生根,lo̍h-tē-sing-kun
+落地生根,lo̍h-tuē-sing-kin
+落地生根,lo̍h-tuē-sing-kun
+生刀草,tshenn-to-tsháu
+生刀草,tshinn-to-tsháu
+倒吊蓮,tò-tiàu-liân
+葉身,hio̍h-sin
+葉序,hio̍h-sī
+葉序,hio̍h-sū
+葉仔形,hio̍h-á-hîng
+葉仔柄,hio̍h-á-pènn
+葉仔柄,hio̍h-á-pìnn
+葉面,hio̍h-bīn
+葉菜類,hio̍h-tshài-luī
+葉仔邊,hio̍h-á-pinn
+蛹,ióng
+資源開發,tsu-guân khai-huat
+載物臺,tsài-bu̍t-tâi
+過境鳥,kuè-kíng-tsiáu
+過境鳥,kè-kíng-tsiáu
+電池觳仔,tiān-tî khok-á
+電池篋仔,tiān-tî kheh-á
+電池盒仔,tiān-tî a̍p-á
+電量,tiān-liōng
+電磁作用,tiān-tsû tsok-iōng
+電磁波,tiān-tsû-pho
+電吸石,tiān-khip-tsio̍h
+電吸石,tiān-khi̍p-tsio̍h
+電吸鐵,tiān-khip-thih
+電吸鐵,tiān-khi̍p-thih
+電鍍,tiān-tōo
+電金,tiān-kim
+孵出來,pū--tshut-lâi
+實驗室,si̍t-giām-sik
+實驗組,si̍t-giām-tsoo
+對生,tuì-sing
+對流,tuì-liû
+對照組,tuì-tsiàu-tsoo
+槓桿,kǹg-kuáinn
+槓桿,kòng-kán
+槓桿原理,kǹg-kuáinn guân-lí
+槓桿原理,kòng-kán guân-lí
+滯留鋒,tē-liû-hong
+滴管,tih-kńg
+漂浮性,phiau-phû-sìng
+漂浮性,phiau-hû-sìng
+紅銅線,âng-tâng-suànn
+飽流,pá-lâu
+碳鋅電池,thuànn-sin tiān-tî
+磁力,tsû-li̍k
+磁力強弱,tsû-li̍k kiông-jio̍k
+磁力強弱,tsû-li̍k kiông-lio̍k
+磁力現象,tsû-li̍k hiān-siōng
+磁性,tsû-sìng
+磁浮列車,tsû-hû lia̍t-tshia
+磁場,tsû-tiûnn
+磁極,tsû-ki̍k
+吸石條,khip-tsio̍h-tiâu
+吸石條,khi̍p-tsio̍h-tiâu
+吸鐵條,khip-thih-tiâu
+吸鐵條,khi̍p-thih-tiâu
+種小名,tsìng-siáu-miâ
+綠色建築,li̍k-sik kiàn-tio̍k
+綠色能源,li̍k-sik lîng-guân
+bî-tá-bín,bî-tá-bín
+網狀脈,bāng-tsōng-me̍h
+網狀葉脈,bāng-tsōng hio̍h-me̍h
+臭去,tshàu--khì
+漚去,àu--khì
+蒸氣,tsing-khì
+蒸散作用,tsing-suànn tsok-iōng
+蒸散作用,tsing-sàn tsok-iōng
+蒸散現象,tsing-suànn hiàn-siōng
+蒸散現象,tsing-sàn hiàn-siōng
+蝕水,si̍h-tsuí
+蒸發,tsing-huat
+大水雨,tuā-tsuí-hōo
+酵母菌,kànn-bó-khún
+酵母菌,kànn-bú-khún
+酸性,sng-sìng
+酸性水溶液,sng-sìng tsuí-iông-i̍k
+酸性溶液,sng-sìng iông-i̍k
+酸雨,sng-hōo
+酸鹼中和,sng-kinn tiong-hô
+酸鹼性,sng-kinn-sìng
+母花,bó-hue
+花心,hue-sim
+風颱眼,hong-thai-gán
+彈性限度,tân-sìng hān-tōo
+彈性疲乏,tân-sìng phî-hua̍t
+彈性疲乏,tuânn-sìng phî-hua̍t
+弓仔秤,king-á-tshìn
+摩擦力,môo-tshat-li̍k
+數位觀星,sòo-uī kuan-tshenn
+數位觀星,sòo-uī kuan-tshinn
+坐清石灰水,tsē-tshing tsio̍h-hue-tsuí
+坐清石灰水,tsē-tshing tsio̍h-he-tsuí
+坐底石灰水,tshē-té tsio̍h-hue-tsuí
+坐底石灰水,tshē-té tsio̍h-he-tsuí
+坐底石灰水,tshē-tué tsio̍h-hue-tsuí
+坐底石灰水,tshē-tué tsio̍h-he-tsuí
+坐底石灰水,tsē-té tsio̍h-hue-tsuí
+坐底石灰水,tsē-té tsio̍h-he-tsuí
+坐底石灰水,tsē-tué tsio̍h-hue-tsuí
+坐底石灰水,tsē-tué tsio̍h-he-tsuí
+熱帶性低氣壓,jia̍t-tài-sìng kē-khì-ap
+熱帶性低氣壓,lia̍t-tài-sìng kē-khì-ap
+熱帶雨林,jia̍t-tài ú-lîm
+熱帶雨林,lia̍t-tài ú-lîm
+熱脹冷縮,jia̍t tiòng líng sok
+熱脹冷縮,lia̍t tiòng líng siok
+熱傳導,jia̍t-thuân-tō
+熱傳導,lia̍t-thuân-tō
+熱對流,jia̍t-tuì-liû
+熱對流,lia̍t-tuì-liû
+線蜷,suànn-khûn
+蓮葉效應,liân-hio̍h hāu-ìng
+衛星雲圖,uē-tshenn-hûn-tôo
+衛星雲圖,uē-tshinn-hûn-tôo
+衛星雲圖,uī-tshenn-hûn-tôo
+衛星雲圖,uī-tshinn-hûn-tôo
+複式顯微鏡,ho̍k-sik hián-bî-kiànn
+調節輪,tiâu-tsiat-lûn
+輪半徑,lián-puànn-kìng
+輪生,lûn-sing
+鋒面,hong-bīn
+鋰電池,lí-tiān-tî
+鋰離子電池,lí-lî-tsú tiān-tî
+震央,tsìn-iang
+震央,tsìn-iong
+震度,tsìn-tōo
+震源,tsìn-guân
+ba̋i-khín,ba̋i-khín
+營養分,îng-ióng-hun
+齒輪,khí-lûn
+齒仔,khí-á
+車齒組,tshia-khí-tsoo
+狗齒組,káu-khí-tsoo
+齒仔組,khí-á-tsoo
+堅冰,kian-ping
+引電,ín-tiān
+過電,kuè-tiān
+過電,kè-tiān
+傳電性,tshuân-tiān-sìng
+導線,tō-suànn
+操縱變因,tshau-tsiòng piàn-in
+燃素說,jiân-sòo-suat
+燃素說,liân-sòo-suat
+燃點,jiân-tiám
+燃點,liân-tiám
+燈絲,ting-si
+燒杯,sio-pue
+蕨類植物,kueh-luī si̍t-bu̍t
+蕨類植物,keh-luī si̍t-bu̍t
+三角形矸仔,sann-kak-hîng kan-á
+頭部,thâu-pōo
+絞螺仔風,ká-lê-á-hong
+應變變因,ìng-piàn piàn-in
+濫糝開墾,lām-sám khai-khún
+營養繁殖,îng-ióng huân-si̍t
+尪仔仁,ang-á-jîn
+尪仔仁,ang-á-lîn
+繁衍,huân-ián
+聲音三要素,siann-im sam-iàu-sòo
+聲音三要素,siann-im sann-iàu-sòo
+臀鰭,tûn-kî
+尾鰭,bué-kî
+尾鰭,bé-kî
+點著,tiám-to̍h
+密密生,ba̍t-ba̍t-senn
+密密生,ba̍t-ba̍t-sinn
+擺長,pái-tn̂g
+擺動,pái-tōng
+幌振動,hàinn-tín-tāng
+鐘擺,tsing-pái
+hi̍t-á,hi̍t-á
+搖擺鐘仔,iô-pái tsing-á
+獵戶座,La̍h-hōo-tsō
+簡單機械,kán-tan ki-kài
+簡單機械,kán-tan ki-hāi
+織女星,Tsit-lú-tshenn
+織女星,Tsit-lí-tshenn
+藍色石蕊試紙,nâ-sik tsio̍h-luí-tshì-tsuá
+身軀身,sing-khu-sin
+鎳氫電池,gia̍t-khing tiān-tî
+滾藥水,kún-io̍h-tsuí
+雜食動物,tsa̍p-si̍t tōng-bu̍t
+歹菌,pháinn-khún
+跤扒,kha-pê
+鏡座,kiànn-tsō
+鏡臂,kiànn-pì
+觸角,tshio̍k-kak
+電著,tiān--tio̍h
+觸覺,tshiok-kak
+屬名,sio̍k-miâ
+蠟質,la̍h-tsit
+鐵生鉎,thih senn-sian
+鐵生鉎,thih sinn-sian
+鐵製品,thih-tsè-phín
+鰭,kî
+鬚根,tshiu-kin
+鬚根,tshiu-kun
+變溫動物,piàn-un tōng-bu̍t
+變質岩,piàn-tsit-gâm
+變質岩,piàn-tsit-giâm
+鹼性水溶液,kinn-sìng tsuí-iông-i̍k
+鹼性電池,kinn-sìng tiān-tî
+觀星,kuan tshenn
+觀星,kuan tshinn
+觀測天氣,kuan-tshik thinn-khì
+小調音階,sió-tiāu im-kai
+小調,sió-tiāu
+音階,im-kai
+大調,tuā-tiāu
+大調音階,tuā-tiāu im-kai
+二分音符,jī-hun im-hû
+二分音符,lī-hun im-hû
+人物角色,jîn-bu̍t kak-sik
+人物角色,lîn-bu̍t kak-sik
+人聲,lâng-siann
+八分音符,peh-hun im-hû
+八音,pat-im
+八音團,pat-im-thuân
+三拍,sann-phik
+三聲部合唱,sann--siann--pōo ha̍p-tshiùnn
+塗條,thôo-tiâu
+塗球,thôo-kiû
+透大風,thàu-tuā-hong
+小吹,sió-tshue
+小吹,sió-tshe
+小節,sió-tsiat
+小喇叭,sió-lá-pah
+中板,tiong-pán
+中音域,tiong-im-i̍k
+五線譜,ngóo-suànn-phóo
+五聲音階,gōo-siann im-kai
+公共藝術,kong-kiōng gē-su̍t
+升記號,sing-kì-hō
+重複記號,tiông-ho̍k kì-hō
+手工包,tshiú-kang-pau
+木管樂器,bo̍k-kuán ga̍k-khì
+木雕神像,bo̍k-tiau sîn-siōng
+水彩用具,tsuí-tshái-iōng-kū
+水彩家族,tsuí-tshái ka-tso̍k
+水墨畫,tsuí-ba̍k-uē
+半立體,puànn-li̍p-thé
+半音,puànn-im
+叫聲,kiò-siann
+四分休止符,sì-hun hiu-tsí-hû
+四分音符,sì-hun im-hû
+四个線間,sì ê suànn-kan
+本位記號,pún-uī kì-hō
+皮戲,phuê-hì
+皮戲,phê-hì
+交響樂團,kau-hióng-ga̍k-thuân
+休止符,hiu-tsí-hû
+全音,tsuân-im
+共同創作,kiōng-tông tshòng-tsok
+冰雕,ping-tiau
+合唱交響曲,ha̍p-tshiùnn kau-hióng-khik
+合唱交響曲,ha̍p-tshiùnn kau-hióng-khiok
+合唱團,ha̍p-tshiùnn-thuânn
+蘇州𥰔仔,Soo-tsiu phín-á
+曲調,khik-tiāu
+竹篙舞,tik-ko-bú
+羽調式,ú-tiāu-sik
+行板,hîng-pán
+行進樂隊,hîng-tsìn ga̍k-tuī
+伸展,tshun-tián
+低沉,kē-tîm
+作曲家,tsok-khik-ka
+歕空,pûn-khang
+吹奏,tshue-tsàu
+快板,khuài-pán
+沙雕,sua-tiau
+角調式,kak-tiāu-sik
+和弦,hô-hiân
+和聲,hô-siann
+弦樂器,hiân-ga̍k-khì
+弧線,hôo-suànn
+唸唱,liām-tshiùnn
+欣賞曲,him-sióng-khik
+油彩,iû-tshái
+化妝油,huà-tsong-iû
+法國號,Huat-kok-hō
+注意力,tsù-ì-li̍k
+社交舞,siā-kau-bú
+空間感,khong-kan-kám
+表演者,piáu-ián-tsiá
+表演藝術,piáu-ián gē-su̍t
+保育計畫,pó-io̍k kè-uē
+保護湳仔地,pó-hōo làm-á-tē
+保護湳仔地,pó-hōo làm-á-tuē
+客家歌仔,kheh-ka kua-á
+室內管樂團,sik-lāi kuán-ga̍k-thuân
+室外行進管樂團,sik-guā hîng-tsìn kuán-ga̍k-thuân
+律動,lu̍t-tōng
+連紲音,liân-suà-im
+指法,tsí-huat
+指揮家,tsí-hui-ka
+音空,im-khang
+降低半音,kàng-kē puàn-im
+降記號,kàng-kì-hō
+面具,bīn-kū
+音色真厚,im-sik tsin kāu
+音程,im-tîng
+音感,im-kám
+音樂世家,im-ga̍k sè-ka
+音樂會,im-ga̍k-huē
+宮廷舞,kiong-tîng-bú
+宮調式,kiong-tiāu-sik
+捏成,lia̍p-sîng
+粉蠟筆,hún-la̍h-pit
+紙片,tsuá-phìnn
+紙片拼貼,tsuá-phìnn phing-tah
+紙黏塗,tsuá-liâm-thôo
+級進,kip-tsìn
+記性考驗,kì-sìng khó-giām
+記持考驗,kì-tî khó-giām
+懸閣強,kuân koh kiông
+高音域,ko-im-i̍k
+高音譜記號,ko-im-phóo kì-hō
+停留記號,thîng-liû kì-hō
+剪紙,tsián-tsuá
+動態感,tōng-thài-kám
+商調式,siong-tiāu-sik
+國際管樂節,Kok-tsè Kuán-ga̍k-tseh
+國際管樂節,Kok-tsè Kuán-ga̍k-tsueh
+梆笛,pang-ta̍t
+𥰔仔音,phín-á-im
+𥰔仔聲,phín-á-siann
+笛仔聲,ta̍t-á-siann
+𥰔仔類樂器,phín-á luī ga̍k-khì
+設計者,siat-kè-tsiá
+設計師,siat-kè-su
+速度記號,sok-tōo kì-hō
+連結線,liân-kiat-suànn
+結合線,kiat-ha̍p-suànn
+連續記號,liân-sio̍k kì-hō
+粗瓷仔塗,tshoo-huî-á-thôo
+陶器,tô-khì
+粗瓷器,tshoo-huî-khì
+瓷仔藝家,huî-á-gē-ka
+mài-kuh,mài-kuh
+喇叭喙,lá-pah-tshuì
+內場景,lāi-tiûnn-kíng
+種樹綠化,tsìng-tshiū li̍k-huà
+畫布,uē-pòo
+發揮創意,huat-hui tshòng-ì
+小快板,sió-khuài-pán
+華爾茲,ua-luh-tsuh
+視覺藝術,sī-kak gē-su̍t
+進行曲,tsìn-hîng-khik
+傳唱,thuân-tshiùnn
+傳統歌謠,thuân-thóng kua-iâu
+鼻覺,phīnn-kak
+圓滑線,înn-ku̍t-suànn
+圓鼓吹,înn-kóo-tshue
+圓鼓吹,înn-kóo-tshe
+法國鼓吹,huat-kok-kóo-tshue
+法國鼓吹,huat-kok-kóo-tshe
+華爾滋,ua-luh-tsuh
+huâ-lú-tsuh,huâ-lú-tsuh
+想像力,sióng-siōng-li̍k
+拍拍器,phah-phik-khì
+節奏感,tsiat-tsàu-kám
+號頭聲,hō-thâu-siann
+裝飾,tsong-sik
+跳進,thiàu-tsìn
+遊戲,iû-hì
+運筆法,ūn-pit-huat
+道具,tō-kū
+錢鼓,tsînn-kóo
+畫圖紙,uē-tôo-tsuá
+對拗剪,tuì-áu-tsián
+摺法,tsih-huat
+拍鼓,phah kóo
+拍鑼拍鼓,phah-lô-phah-kóo
+烏撇仔,oo-phiat-á
+管絃樂,kuán-hiân-ga̍k
+管弦樂團,kuán-hiân ga̍k-thuân
+管絃樂團,kuán-hiân ga̍k-thuân
+管樂器,kuán-ga̍k-khì
+臺詞,tâi-sû
+臺灣歌仔,Tâi-uân kua-á
+語言表達,gí-giân piáu-ta̍t
+語言表達,gú-giân piáu-ta̍t
+銅管樂器,tâng-kuán ga̍k-khì
+彈鋼琴,tuânn kǹg-khîm
+徵調式,tí-tiāu-sik
+樂段,ga̍k-tuānn
+線間,suànn-kan
+膜空,mo̍oh-khang
+調式,tiāu-sik
+調性,tiāu-sìng
+調號,tiāu-hō
+踢踏舞,that-ta̍h-bú
+器樂曲,khì-ga̍k-khik
+學唱,o̍h tshiùnn
+起工廠,khí kang-tshiúnn
+起工場,khí kang-tiûnn
+螢光色水,îng-kng sik-tsuí
+鋼琴曲,kǹg-khîm-khik
+雕刻品,tiau-khik-phín
+硩印,teh-ìn
+戲尪仔,hì-ang-á
+戲劇反應,hì-kio̍k huán-ìng
+戲劇反應,hì-ki̍k huán-ìng
+擊樂器,kik-ga̍k-khì
+環保人士,khuân-pó jîn-sū
+環保人士,khuân-pó lîn-sū
+環保人士,huân-pó jîn-sū
+環保人士,huân-pó lîn-sū
+聲帶,siann-tuà
+聲部,siann-pōo
+閬音,làng-im
+藏書票,tsông-su-phiò
+色料,sik-liāu
+藝術創作,gē-su̍t tshòng-tsok
+歡唱,huan-tshiùnn
+聽覺,thiann-kak
+讀劇,tha̍k-kio̍k
+讀劇,tha̍k-ki̍k
+變奏曲,piàn-tsàu-khik
+觀察力,kuan-tshat-li̍k
+上學,tsiūnn-o̍h
+小朋友,sió-pîng-iú
+囡仔姊,gín-á-tsí
+囡仔姊,gín-á-tsé
+小動物,sió-tōng-bu̍t
+細隻動物,sè-tsiah tōng-bu̍t
+細隻動物,suè-tsiah tōng-bu̍t
+公共電話,kong-kiōng tiān-ue
+冬尾天,tang-bué-thinn
+冬尾天,tang-bé-thinn
+幼兒園,iù-jî-hn̂g
+幼兒園,iù-lî-hn̂g
+同樂會,tông-lo̍k-huē
+仝班的,kâng-pan--ê
+米食,bí-si̍t
+糞埽減量,pùn-sò kiám-liōng
+囡仔物,gín-á-mi̍h
+玩具,guán-kū
+厝裡的人,tshù--lí ê lâng
+厝內的人,tshù-lāi ê lâng
+家人,ka-jîn
+家人,ka-lîn
+家庭糞埽,ka-tîng pùn-sò
+課室,khò-sik
+寒假作業,hioh-kuânn-tsok-gia̍p
+歇寒作業,hân-ká-tsok-gia̍p
+出芽,tshut-gê
+吐穎,thóo-ínn
+愛護動物,ài-hōo tōng-bu̍t
+節約用水,tsiat-iok iōng tsuí
+節省用水,tsiat-síng iōng tsuí
+省水,síng-tsuí
+耍的規定,sńg ê kui-tīng
+遊戲規則,iû-hì-kui-tsik
+緊急聯絡,kín-kip liân-lo̍k
+急用,kip-iōng
+弄龍弄獅,lāng-lîng lāng-sai
+過年錢,kuè-nî-tsînn
+過年錢,kè-nî-tsînn
+電子化世界,tiān-tsú-huà sè-kái
+上架,tsiūnn-kè
+上籃,tsiūnn-nâ
+喙空癌,tshuì-khang-gâm
+弓步,king-pōo
+弓步,kiong-pōo
+六大類食物,la̍k tuā luī si̍t-bu̍t
+心血管疾病,sim-hueh-kńg tsi̍k-pēnn
+心血管疾病,sim-hueh-kńg tsi̍k-pīnn
+心血管疾病,sim-huih-kńg tsi̍k-pēnn
+心血管疾病,sim-huih-kńg tsi̍k-pīnn
+心肺耐力,sim-hì nāi-li̍k
+心肺耐力,sim-huì nāi-li̍k
+mè-sù,mè-sù
+月事,gu̍eh-sū
+月事,ge̍h-sū
+果子類,kué-tsí-luī
+果子類,ké-tsí-luī
+水果類,tsuí-kó-luī
+牙周病,gê-tsiu-pēnn
+牙周病,gê-tsiu-pīnn
+平衡木,pîng-hîng-bo̍k
+平衡感,pîng-hîng-kám
+生殖器官,sing-si̍t khì-kuan
+交叉步,kau-tshe-pōo
+休閒運動,hiu-hân ūn-tōng
+全榖根莖類,tsuân-kok kin-king luī
+全榖根莖類,tsuân-kok kun-king luī
+守門員,siú-mn̂g-uân
+扣球,khàu-kiû
+羽毛球,ú-mn̂g-kiû
+羽毛球,ú-môo-kiû
+老年期,ló-liân-kî
+肌力,ki-li̍k
+肌耐力,ki-nāi-li̍k
+低脂奶品類,kē-tsi ling-phín luī
+低脂奶品類,kē-tsi lin-phín luī
+均衡,kin-hîng
+均衡,kun-hîng
+豆魚肉卵類,tāu hî bah nn̄g luī
+豆魚肉卵類,tāu hû bah nn̄g luī
+奶苞,ling-pôo
+奶苞,ni-pôo
+奶房,ling-pâng
+奶房,ni-pâng
+囡仔齒,gín-á-khí
+奶齒,ling-khí
+奶齒,ni-khí
+奶齒,lin-khí
+協調性,hia̍p-tiau-sìng
+協調性,hia̍p-tiāu-sìng
+性侵害,sìng-tshim-hāi
+性騷擾,sìng-so-jiáu
+性騷擾,sìng-so-liáu
+抱拳,phō-kûn
+抵抗力,tí-khòng-li̍k
+拋球,phau kiû
+搭球,tah-kiû
+直拳,ti̍t-kûn
+正拳,tsiànn-kûn
+青少年期,tshing-siàu-liân-kî
+青春期,tshing-tshun-kî
+大人齒,tuā-lâng-khí
+挑球,thio-kiû
+柔軟度,jiû-nńg-tōo
+柔軟度,liû-nńg-tōo
+phi̋n-phóng,phi̋n-phóng
+病媒蠓,pēnn-muî-báng
+病媒蠓,pīnn-muî-báng
+馬勢,bē-sè
+跤馬,kha-bé
+半行走,puànn-kiânn-tsáu
+覆水泅,phak-tsuí-siû
+承球,sîn-kiû
+接球,tsiap-kiû
+控球,khòng-kiû
+第二性徵,tē-jī sìng-ting
+第二性徵,tē-lī sìng-ting
+莎蒂希步,sa-tè-hi-pōo
+陽具,iông-bu̍t
+陽物,iông-bu̍t
+單槓,tan-kǹg
+橫箍,huâinn-khoo
+骨疼熱,kut-thiànn-jia̍t
+骨疼熱,kut-thiànn-lia̍t
+登革熱,ting-kik-jia̍t
+登革熱,ting-kik-lia̍t
+開球,khui-kiû
+結膜炎,kiat-mo̍oh-iām
+錢仔,tsînn-á
+跳箱,thiàu-siunn
+閃避球,siám-pī-kiû
+相閃球,sio-siám-kiû
+運動傷害,ūn-tōng siong-hāi
+運球,ūn-kiû
+慣用跤,kuàn-iōng-kha
+góo-lòo,góo-lòo
+罰球區,hua̍t-kiû-khu
+蔬菜類,soo-tshài-luī
+菜蔬類,tshài-se-luī
+養分,ióng-hun
+營養素,îng-ióng-sòo
+穩定性,ún-tīng-sìng
+礦物質,khòng-bu̍t-tsit
+鐵人三項,thih-lâng sann hāng
+體適能,thé-si̍k-lîng
