@@ -24008,6 +24008,7 @@
 促進,tshiok-tsìn
 指標,tsí-piau
 英文,Ing-bûn
+英文,ing-bûn
 素描,sòo-biâu
 素描,sòo-biô
 措施,tshòo-si
@@ -24187,6 +24188,7 @@
 上班,siōng-pan
 大樓,tuā-lâu
 中文,Tiong-bûn
+中文,tiong-bûn
 平交道,pîng-kau-tō
 企圖,khì-tôo
 明確,bîng-khak
@@ -24213,6 +24215,7 @@
 物質,bu̍t-tsit
 客語,Kheh-gí
 客語,Kheh-gú
+客語,kheh-gí
 持有,tshî-iú
 軍方,kun-hong
 展示,tián-sī
@@ -24260,6 +24263,7 @@
 英語,Ing-gí
 英語,Ing-gú
 英語,ing-gí
+英語,ing-gú
 原住民,guân-tsū-bîn
 高音,ko-im
 國會,kok-huē
@@ -24590,6 +24594,7 @@
 華人,Huâ-jîn
 華人,Huâ-lîn
 華文,Huâ-bûn
+華文,huâ-bûn
 傳輸,thuân-su
 過濾,kuè-lī
 過濾,kè-lī
@@ -26905,6 +26910,7 @@
 手稿,tshiú-kó
 日文,Ji̍t-bûn
 日文,Li̍t-bûn
+日文,ji̍t-bûn
 日式,Ji̍t-sik
 日式,Li̍t-sik
 水池,tsuí tî
@@ -27449,6 +27455,7 @@
 日夜,li̍t-iā
 日語,Ji̍t-gí
 日語,Li̍t-gú
+日語,ji̍t-gí
 月租費,ge̍h-tsoo-huì
 月租費,gue̍h-tsoo-huì
 水利,tsuí-lī
@@ -28944,6 +28951,7 @@
 等號,tíng-hō
 華語,Huâ-gí
 華語,Huâ-gú
+華語,huâ-gí
 傳教,thuân-kàu
 傳道,thuân-tō
 傷風,siong-hong
@@ -36215,6 +36223,7 @@ góo-lòo,góo-lòo
 新埤,Sin-pi
 新園,Sin-hn̂g
 琉球,Liû-khiû
+琉球,Liû-kiû
 車城,Tshâ-siânn
 滿州,Buán-tsiu
 三地門,Sam-tē-mn̂g
@@ -36431,9 +36440,6 @@ góo-lòo,góo-lòo
 東京,Tang-kiann
 京都,Kiann-too
 大阪,Tāi-pán
-琉球,Liû-khiû
-琉球,Liû-kiû
-地區,tē-khu
 安徽省,An-hui-síng
 青海省,Tshing-hái-síng
 浙江省,Tsiat-kang-síng
@@ -36494,7 +36500,6 @@ góo-lòo,góo-lòo
 寧夏,Lîng-hā
 西藏,Se-tsōng
 新疆,Sin-kiong
-北京,Pak-kiann
 上海,Siōng-hái
 天津,Thian-tsin
 重慶,Tiông-khìng
@@ -36502,7 +36507,6 @@ góo-lòo,góo-lòo
 澳門,Ò-mn̂g
 自治區,tsū-tī-khu
 行政區,hîng-tsìng-khu
-行政,hîng-tsìng
 壯族,tsòng-tso̍k
 回族,huê-tso̍k
 藏族,tsōng-tso̍k
@@ -36518,6 +36522,32 @@ góo-lòo,góo-lòo
 暹羅,Siām-lô
 金邊,Kim-pinn
 柏林,Pik-lîm
-羅馬,Lô-má
 莫斯科,Bo̍k-su-kho
 倫敦,Lûn-tun
+華盛頓,Huâ-sīng-tùn
+紐約,Niú-iok
+漢語,hàn-gí
+閩語,bân-gí
+福建話,hok-kiàn-uē
+閩北語,bân-pak-gí
+閩中語,bân-tiong-gí
+邵將語,siō-tsiong-gí
+閩東語,bân-tang-gí
+莆仙語,phôo-sian-gí
+閩南語,bân-lâm-gí
+雷州話,luî-tsiu-uē
+海南話,hái-lâm-uē
+莆田話,phôo-tshân-uē
+客家語,kheh-ka-gí
+四縣腔,sì-kuān-khiunn
+海陸腔,hái-lio̍k-khiunn
+大埔腔,tuā-poo-khiunn
+饒平腔,jiâu-pîng-khiunn
+詔安腔,tsiàu-an-khiunn
+粵語,ua̍t-gí
+廣東話,kńg-tang-uē
+日本語,ji̍t-pún-gí
+韓國語,hân-kok-gí
+韓國話,hân-kok-uē
+朝鮮語,tiâu-sián-gí
+文化語,bûn-huà-gí
