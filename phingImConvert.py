@@ -111,9 +111,8 @@ tone_dict = {
 
 def toneSeperation(s):
     #split the string into syllables level
-    syls = re.split("[ \-]+", s)
-    if "" in syls:
-        syls.remove("")
+    syls = re.split("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", s)
+    syls = list(filter(lambda x: x != "", syls))
     return syls
 
 def toneToNum(syls):
@@ -121,6 +120,12 @@ def toneToNum(syls):
     for i in range(len(syls)):
 
         if len(syls[i]) == 0:
+            continue
+
+        if re.fullmatch("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", syls[i]):
+            continue
+
+        if re.fullmatch("([0-9]+)", syls[i]):
             continue
 
         found = False
@@ -131,15 +136,17 @@ def toneToNum(syls):
                 found = True
                 break
         
+        """
         if not found:
             if syls[i][-1] in ["P", "T", "K", "H", "p", "t", "k", "h"]:
                 syls[i] += "4"
             else:
                 syls[i] += "1"
+        """
 
     ret = ""
     for i in range(len(syls)-1):
-        ret += syls[i] + " "
+        ret += syls[i]
     ret += syls[-1]
     return ret.lower()
 
@@ -149,6 +156,50 @@ def PhingImtoNUM(s):
     #move tone number to the back of the syllable
     ret = toneToNum(syls)
     return ret
+
+def POJtoTL(s):
+    syls = toneSeperation(s)
+
+    for i in range(len(syls)):
+        if len(syls[i]) == 0:
+            continue
+
+        if re.fullmatch("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", syls[i]):
+            continue
+
+        syls[i] = syls[i].replace("o͘", "oo")
+        syls[i] = syls[i].replace("o·", "oo")
+        syls[i] = syls[i].replace("ch", "ts")
+        syls[i] = syls[i].replace("chh", "tsh")
+        syls[i] = syls[i].replace("oe", "ue")
+        syls[i] = syls[i].replace("oa", "ua")
+        syls[i] = syls[i].replace("ek", "ik")
+        syls[i] = syls[i].replace("eng", "ing")
+        syls[i] = syls[i].replace("ⁿ", "nn")
+
+    return "".join(syls)
+
+def TLtoPOJ(s):
+    syls = toneSeperation(s)
+
+    for i in range(len(syls)):
+        if len(syls[i]) == 0:
+            continue
+
+        if re.fullmatch("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", syls[i]):
+            continue
+
+        syls[i] = syls[i].replace("nn", "ⁿ")
+        syls[i] = syls[i].replace("ⁿg", "nng") #sometimes nn is at the front, this only happens in "nng" (at least for what I have seen)
+        syls[i] = syls[i].replace("ing", "eng")
+        syls[i] = syls[i].replace("ik", "ek")
+        syls[i] = syls[i].replace("ua", "oa")
+        syls[i] = syls[i].replace("ue", "oe")
+        syls[i] = syls[i].replace("tsh", "chh")
+        syls[i] = syls[i].replace("ts", "ch")
+        syls[i] = syls[i].replace("oo", "o͘")
+
+    return "".join(syls)
 
 if __name__ == "__main__":
     print(PhingImtoNUM(sys.argv[1]))
