@@ -109,6 +109,114 @@ tone_dict = {
     "n̋": ("n", "9"),
 }
 
+#reverse dict of tone_dict
+num_dict = {
+    ("A", "2"): "Á",
+    ("E", "2"): "É",
+    ("I", "2"): "Í",
+    ("O", "2"): "Ó",
+    ("U", "2"): "Ú",
+    ("M", "2"): "Ḿ",
+    ("N", "2"): "Ń",
+    ("a", "2"): "á",
+    ("e", "2"): "é",
+    ("i", "2"): "í",
+    ("o", "2"): "ó",
+    ("u", "2"): "ú",
+    ("m", "2"): "ḿ",
+    ("n", "2"): "ń",
+
+    ("A", "3"): "À",
+    ("E", "3"): "È",
+    ("I", "3"): "Ì",
+    ("O", "3"): "Ò",
+    ("U", "3"): "Ù",
+    ("M", "3"): "M̀",
+    ("N", "3"): "Ǹ",
+    ("a", "3"): "à",
+    ("e", "3"): "è",
+    ("i", "3"): "ì",
+    ("o", "3"): "ò",
+    ("u", "3"): "ù",
+    ("m", "3"): "m̀",
+    ("n", "3"): "ǹ",
+
+    ("A", "5"): "Â",
+    ("E", "5"): "Ê",
+    ("I", "5"): "Î",
+    ("O", "5"): "Ô",
+    ("U", "5"): "Û",
+    ("M", "5"): "M̂",
+    ("N", "5"): "N̂",
+    ("a", "5"): "â",
+    ("e", "5"): "ê",
+    ("i", "5"): "î",
+    ("o", "5"): "ô",
+    ("u", "5"): "û",
+    ("m", "5"): "m̂",
+    ("n", "5"): "n̂",
+
+    ("A", "6"): "Ǎ",
+    ("E", "6"): "Ě",
+    ("I", "6"): "Ǐ",
+    ("O", "6"): "Ǒ",
+    ("U", "6"): "Ǔ",
+    ("M", "6"): "M̌",
+    ("N", "6"): "Ň",
+    ("a", "6"): "ǎ",
+    ("e", "6"): "ě",
+    ("i", "6"): "ǐ",
+    ("o", "6"): "ǒ",
+    ("u", "6"): "ǔ",
+    ("m", "6"): "m̌",
+    ("n", "6"): "ň",
+
+    ("A", "7"): "Ā",
+    ("E", "7"): "Ē",
+    ("I", "7"): "Ī",
+    ("O", "7"): "Ō",
+    ("U", "7"): "Ū",
+    ("M", "7"): "M̄",
+    ("N", "7"): "N̄",
+    ("a", "7"): "ā",
+    ("e", "7"): "ē",
+    ("i", "7"): "ī",
+    ("o", "7"): "ō",
+    ("u", "7"): "ū",
+    ("m", "7"): "m̄",
+    ("n", "7"): "n̄",
+
+    ("A", "8"): "A̍",
+    ("E", "8"): "E̍",
+    ("I", "8"): "I̍",
+    ("O", "8"): "O̍",
+    ("U", "8"): "U̍",
+    ("M", "8"): "M̍",
+    ("N", "8"): "N̍",
+    ("a", "8"): "a̍",
+    ("e", "8"): "e̍",
+    ("i", "8"): "i̍",
+    ("o", "8"): "o̍",
+    ("u", "8"): "u̍",
+    ("m", "8"): "m̍",
+    ("n", "8"): "n̍",
+
+    ("A", "9"): "A̋",
+    ("E", "9"): "E̋",
+    ("I", "9"): "I̋",
+    ("O", "9"): "Ő",
+    ("U", "9"): "Ű",
+    ("M", "9"): "M̋",
+    ("N", "9"): "N̋",
+    ("a", "9"): "a̋",
+    ("e", "9"): "e̋",
+    ("i", "9"): "i̋",
+    ("o", "9"): "ő",
+    ("u", "9"): "ű",
+    ("m", "9"): "m̋",
+    ("n", "9"): "n̋",
+}
+
 def toneSeperation(s):
     #split the string into syllables level
     syls = re.split("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", s)
@@ -128,6 +236,9 @@ def toneToNum(syls):
         if re.fullmatch("([0-9]+)", syls[i]):
             continue
 
+        if syls[i][-1] in ["1", "2", "3", "5", "6", "7", "8", "9"]:
+            continue
+
         found = False
         for tone, seperated in tone_dict.items():
             if tone in syls[i]:
@@ -136,19 +247,120 @@ def toneToNum(syls):
                 found = True
                 break
         
-        """
         if not found:
             if syls[i][-1] in ["P", "T", "K", "H", "p", "t", "k", "h"]:
                 syls[i] += "4"
             else:
                 syls[i] += "1"
-        """
 
-    ret = ""
-    for i in range(len(syls)-1):
-        ret += syls[i]
-    ret += syls[-1]
-    return ret.lower()
+    return syls
+
+def numToTone(syls):
+    #move tone number to appropiate place
+    for i in range(len(syls)):
+
+        if len(syls[i]) == 0:
+            continue
+
+        if re.fullmatch("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", syls[i]):
+            continue
+
+        if re.fullmatch("([0-9]+)", syls[i]):
+            continue
+
+        #get the tone number, it is assumed that the tone number is the only number at the back of the syllable
+        tone_num = syls[i][-1]
+        #since we've got the tone number, we can remove it from the syllable (along with all other numbers)
+        syls[i] = re.sub("[0-9]", "", syls[i])
+        #if the last character is not tone number, skip
+        #if the tone is 1 or 4, we also skip
+        if tone_num not in ["2", "3", "5", "6", "7", "8", "9"]:
+            continue
+
+        #Adding tone is a complicated process, we will check each rule in their designated order (all case-insensitive)
+        #Once a rule is matched, we will add the tone and move to the next syllable
+
+        #Deal with exception first
+        #Add tone to "i" in "aih8"
+        if "aih" in syls[i].lower() and tone_num == "8":
+            #get the index of the "i"
+            index = syls[i].lower().index("aih") + 1
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+
+        #Rule 1: Add tone to the first "a"
+        if "a" in syls[i].lower():
+            #get the index of the first "a"
+            index = syls[i].lower().index("a")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 2: Add tone to the first "o" of "oo"
+        if "oo" in syls[i].lower():
+            #get the index of the first "o"
+            index = syls[i].lower().index("o")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 3: Add tone to the first "e" of "ere"
+        if "ere" in syls[i].lower():
+            #get the index of the first "e"
+            index = syls[i].lower().index("ere") + 2
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 4: Add tone to the first "e" or "o"
+        if "e" in syls[i].lower():
+            #get the index of the first "e"
+            index = syls[i].lower().index("e")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+        if "o" in syls[i].lower():
+            #get the index of the first "o"
+            index = syls[i].lower().index("o")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 5: Add tone to the second charcter of "iu" or "ui"
+        if "iu" in syls[i].lower():
+            #get the index of the second character
+            index = syls[i].lower().index("iu") + 1
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+        if "ui" in syls[i].lower():
+            #get the index of the second character
+            index = syls[i].lower().index("ui") + 1
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 6: Add tone to the first "i" or "u"
+        if "i" in syls[i].lower():
+            #get the index of the first "i"
+            index = syls[i].lower().index("i")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+        if "u" in syls[i].lower():
+            #get the index of the first "u"
+            index = syls[i].lower().index("u")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 7: Add tone to the "n" in "ng"
+        if "ng" in syls[i].lower():
+            #get the index of the "n"
+            index = syls[i].lower().index("ng")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+        #Rule 8: Add tone to "m"
+        if "m" in syls[i].lower():
+            #get the index of the "m"
+            index = syls[i].lower().index("m")
+            syls[i] = syls[i][:index] + num_dict[(syls[i][index], tone_num)] + syls[i][index+1:]
+            continue
+
+    return syls
 
 def PhingImtoNUM(s):
     #split the string into syllables level
@@ -157,8 +369,15 @@ def PhingImtoNUM(s):
     ret = toneToNum(syls)
     return ret
 
-def POJtoTL(s):
+def NUMtoPhingIm(s):
+    #split the string into syllables level
     syls = toneSeperation(s)
+    #move tone number to appropiate place
+    ret = numToTone(syls)
+    return ret
+
+def POJtoTL(s):
+    syls = PhingImtoNUM(s)
 
     for i in range(len(syls)):
         if len(syls[i]) == 0:
@@ -177,10 +396,12 @@ def POJtoTL(s):
         syls[i] = syls[i].replace("eng", "ing")
         syls[i] = syls[i].replace("ⁿ", "nn")
 
+    syls = numToTone(syls)
+
     return "".join(syls)
 
 def TLtoPOJ(s):
-    syls = toneSeperation(s)
+    syls = PhingImtoNUM(s)
 
     for i in range(len(syls)):
         if len(syls[i]) == 0:
@@ -199,7 +420,20 @@ def TLtoPOJ(s):
         syls[i] = syls[i].replace("ts", "ch")
         syls[i] = syls[i].replace("oo", "o͘")
 
+    syls = numToTone(syls)
+
     return "".join(syls)
 
 if __name__ == "__main__":
-    print(PhingImtoNUM(sys.argv[1]))
+    # print(PhingImtoNUM(sys.argv[1]))
+
+    import pandas as pd
+
+    with open("TaigiDatabase.csv") as f:
+        db = pd.read_csv(f)
+
+    for index, row in db.iterrows():
+        input = row["TL"]
+        output = POJtoTL(TLtoPOJ(input))
+        if input != output:
+            print(input, output)

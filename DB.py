@@ -1,5 +1,6 @@
 from phingImConvert import *
 import itertools
+import pandas as pd
 
 def exhaust(s):
     numify = PhingImtoNUM(s)
@@ -28,27 +29,73 @@ def exhaust(s):
     #     "abc", "def"
     # If the split is a seperator, we can accept it provide from zero characters or a space. That is, if "abc" is a seperator, it can provide "", " ", "a", "ab", "abc".
             
-    splitted_provide = []
+    # We calculate the amount of possible combinations of these splits first.
+    amount = 1
     for i in range(len(splitted)):
-        splitted_provide.append([])
         if seperator[i]:
-            splitted_provide[i].append("")
-            splitted_provide[i].append(" ")
-        for j in range(len(splitted[i])):
-            splitted_provide[i].append(splitted[i][:j+1])
+            amount *= 3
+        else:
+            amount *= len(splitted[i])
 
-    # Now, we have all possible combinations of these splits. We can use itertools.product to get all possible combinations of these combinations.
-    combinations = list(itertools.product(*splitted_provide))
+    # If the amount is less than 16000, we can accept all possible combinations.
+    if amount < 16000:
+        splitted_provide = []
+        for i in range(len(splitted)):
+            splitted_provide.append([])
+            if seperator[i]:
+                splitted_provide[i].append("")
+                if splitted[i] != " ":
+                    splitted_provide[i].append(" ")
+                if splitted[i] != "-":
+                    splitted_provide[i].append("-")
+            for j in range(len(splitted[i])):
+                splitted_provide[i].append(splitted[i][:j+1])
 
-    # Finally, we can join these combinations to get all possible results. We will use a one-liner here to test copilot's abiblity
-    joined_combination = ["".join(combination) for combination in combinations]
+        # Now, we have all possible combinations of these splits. We can use itertools.product to get all possible combinations of these combinations.
+        combinations = list(itertools.product(*splitted_provide))
+
+        # Finally, we can join these combinations to get all possible results. We will use a one-liner here to test copilot's abiblity
+        joined_combination = ["".join(combination) for combination in combinations]
+    
+    #Otherwise, we only provide the full string, the full string without tone number, and the first character of each split. (with space, with dash, and without space)
+    else:
+        joined_combination = ["".join(splitted)]
+        joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]))
+        joined_combination.append(" ".join([s for i, s in enumerate(splitted) if not seperator[i]]))
+        joined_combination.append("-".join([s for i, s in enumerate(splitted) if not seperator[i]]))
+        joined_combination.append("".join(splitted).translate(str.maketrans('', '', '0123456789')))
+        joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]).translate(str.maketrans('', '', '0123456789')))
+        joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]).translate(str.maketrans('', '', '0123456789')))
+        first_characters = []
+        for i in range(len(splitted)):
+            if not seperator[i]:
+                first_characters.append(splitted[i][0])
+        joined_combination.append("".join(first_characters))
+        joined_combination.append(" ".join(first_characters))
+        joined_combination.append("-".join(first_characters))
+
     # Remove empty string and space and duplicatation
     joined_combination = list(set(filter(lambda x: x != "" and x != " ", joined_combination)))
     
     return joined_combination
 
-if __name__ == "__main__":
-    possible_input = exhaust("Tsi̍t-ê")
+def stringify(s):
+    possible_input = exhaust(s)
+    return "$" + "$".join(possible_input) + "$"
 
-    stringify = "$" + "$".join(possible_input) + "$"
-    print(stringify)
+if __name__ == "__main__":
+    #read all words from the file
+    with open("TaigiDatabase.csv") as f:
+        db = pd.read_csv(f)
+
+    #add new column for POJ
+    db["POJ"] = db["TL"].apply(TLtoPOJ)
+    #add stringified words to the database as new column named "possible_input_TL"
+    db["possible_input_TL"] = db["TL"].apply(stringify)
+    #add stringified words to the database as new column named "possible_input_POJ"
+    db["possible_input_POJ"] = db["POJ"].apply(stringify)
+    #add new column named "frequency", initialize it to 0 since we don't have any frequency data
+    db["frequency"] = 0
+
+    #save the database
+    db.to_csv("TaigiInputDatabase.csv", index = False)
