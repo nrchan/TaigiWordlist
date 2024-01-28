@@ -1,10 +1,12 @@
 from phingImConvert import *
 import itertools
 import pandas as pd
+import numpy as np
+
+temp = []
 
 def exhaust(s):
-    numify = PhingImtoNUM(s)
-    splitted = toneSeperation(numify)
+    splitted = PhingImtoNUM(s)
 
     seperator = []
     for i in range(len(splitted)):
@@ -36,6 +38,8 @@ def exhaust(s):
             amount *= 3
         else:
             amount *= len(splitted[i])
+
+    temp.append(amount)
 
     # If the amount is less than 16000, we can accept all possible combinations.
     if amount < 16000:
@@ -93,9 +97,19 @@ if __name__ == "__main__":
     #add stringified words to the database as new column named "possible_input_TL"
     db["possible_input_TL"] = db["TL"].apply(stringify)
     #add stringified words to the database as new column named "possible_input_POJ"
-    db["possible_input_POJ"] = db["POJ"].apply(stringify)
+    # db["possible_input_POJ"] = db["POJ"].apply(stringify) #temporary commented to reduce size
     #add new column named "frequency", initialize it to 0 since we don't have any frequency data
     db["frequency"] = 0
 
     #save the database
     db.to_csv("TaigiInputDatabase.csv", index = False)
+
+    print(np.quantile(temp, 0.5))
+    print(np.quantile(temp, 0.6))
+    print(np.quantile(temp, 0.7))
+    print(np.quantile(temp, 0.8))
+    print(np.quantile(temp, 0.9))
+    print(np.quantile(temp, 0.95))
+    print(np.quantile(temp, 0.99))
+    print(np.quantile(temp, 0.999))
+    print(np.quantile(temp, 1.0))

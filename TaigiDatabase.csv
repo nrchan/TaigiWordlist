@@ -1997,7 +1997,9 @@
 加車,ka-tshia
 半身,puànn-sin
 卡車,khah-tshia
+出來,tshuaih
 出來,tshut-lâi
+出來,tshuài
 北京,Pak-kiann
 四季,sù-kuì
 可怕,khó-phà
@@ -5321,6 +5323,8 @@
 拆日仔,thiah-ji̍t-á
 拆日仔,thiah-li̍t-á
 拍毋見,phah-m̄-kìnn
+拍毋見,phàng-kiàn
+拍毋見,phàng-kìnn
 拍手銃,phah-tshiú-tshìng
 放水燈,pàng-tsuí-ting
 放火,pàng-hué
@@ -5618,6 +5622,8 @@
 明仔早起,bîn-á-tsá-khí
 明仔暗,bîn-á-àm
 明仔載,bîn-á-tsài
+明仔載,ma̋-tsài
+明仔載,miâ-tsài
 昏去,hūn--khì
 明白,bîng-pi̍k
 明年,bîn-nî
@@ -9468,7 +9474,9 @@
 堵,tóo
 夠,kàu
 娶,tshuā
+啥人,siáng
 啥人,siánn-lâng
+啥人,siâng
 夠工,kàu-kang
 國中,kok-tiong
 國內,kok-lāi
@@ -11502,6 +11510,7 @@
 無相干,bô-siong-kan
 無限,bû-hān
 無要無緊,bô-iàu-bô-kín
+無要緊,bua̋-kín
 無要緊,bô iàu-kín
 無要緊,bô-iàu-kín
 無要緊,bô-á-kín
@@ -11537,6 +11546,7 @@
 無傳,bô-thn̂g
 無傳,bô-thuînn
 無傳,bôr-thn̂g
+無愛,buaih
 無愛,bô ài
 無愛,bô-ài
 無愛,bôr ài
@@ -11738,10 +11748,10 @@
 稀微,hi-bî
 短歲壽,té-huè-siū
 短歲壽,té-hè-siū
-硩落去,teh--lueh
 硩落去,teh--lo̍h--khìr
 硩落去,teh--lo̍h-khì
 硩落去,teh--lo̍rh-khì
+硩落去,teh--lueh
 短路,té-lōo
 短銃,té-tshìng
 硩嗽,teh-sàu
@@ -18261,6 +18271,7 @@
 中央,tiong-iang
 中央,tiong-iong
 中央,tiong-ng
+中央,tiőng
 託,thok
 物仔,mih-á
 物仔,mī-á
@@ -31344,6 +31355,7 @@
 無恥,bû-thí
 擛扇,ia̍t sìnn
 挐絞絞,jû-ká-ká
+挐絞絞,lû-ká-ká
 挩起來,thuah--khí-lâi
 恩情較大天,un-tsîng khah tuā thinn
 目睭挩窗,ba̍k-tsiu thuah-thang
@@ -35013,8 +35025,8 @@ sàng-sòo,sàng-sòo
 海蝕平台,hái-si̍h pînn-tâi
 海蝕洞,hái-si̍h-tōng
 海蝕崁,hái-si̍h-khàm
-特有種,ti̍k-iú-tsíng
 特有種,ti̍k-iú-tsióng
+特有種,ti̍k-iú-tsíng
 胸部,hing-pōo
 魚擛,hî-ia̍t
 草本莖,tsháu-pún-king
@@ -35738,7 +35750,6 @@ góo-lòo,góo-lòo
 狗母鮻,káu-bó-so
 花貓貓,hue-niau-niau
 相放伴,sio-pàng-phuānn
-挐絞絞,lû-ká-ká
 袂爽,buē-sóng
 袂爽,bē-sóng
 起去,khí-khì
@@ -36412,8 +36423,8 @@ góo-lòo,góo-lòo
 瓜地馬拉,Kua-tē-bé-lá
 海地,Hái-tē
 牙買加,Gâ-mái-ka
-墨西哥,Bi̍k-se-ko
 墨西哥,Bia̍k-se-ko
+墨西哥,Bi̍k-se-ko
 米國,Bí-kok
 花旗,Hue-kî
 美利堅,Bí-lī-kian
@@ -36553,3 +36564,12 @@ góo-lòo,góo-lòo
 韓國話,hân-kok-uē
 朝鮮語,tiâu-sián-gí
 文化語,bûn-huà-gí
+共人,ka̋ng
+共人,kā lâng
+予人,hōo lâng
+予人,hőng
+這个,tsit ê
+這款,tsit khuán
+這樣,tsit iūnn
+彼種,hit tsióng
+彼樣,hit iūnn
