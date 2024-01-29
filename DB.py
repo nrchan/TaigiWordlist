@@ -93,14 +93,23 @@ if __name__ == "__main__":
     with open("TaigiDatabase.csv") as f:
         db = pd.read_csv(f)
 
+    #add corpus here!
+    with open("教育部例句俗諺.csv") as f:
+        corpus = f.read()
+    with open("台華新聞漢字.txt") as f:
+        corpus += f.read()
+    with open("閱讀閩客.csv") as f:
+        corpus += f.read()
+    corpus = corpus.replace(" ", "")
+
     #add new column for POJ
     db["POJ"] = db["TL"].apply(TLtoPOJ)
     #add stringified words to the database as new column named "possible_input_TL"
     db["possible_input_TL"] = db["TL"].apply(stringify)
     #add stringified words to the database as new column named "possible_input_POJ"
     db["possible_input_POJ"] = db["POJ"].apply(stringify)
-    #add new column named "frequency", initialize it to 0 since we don't have any frequency data
-    db["frequency"] = 0
+    #add new column named "frequency"
+    db["frequency"] = db["Hanji"].apply(lambda x: corpus.count(x))
     #add new column named "user_frequency", initialize it to 0 since we don't have any frequency data
     db["user_frequency"] = 0
 
