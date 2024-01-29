@@ -2,15 +2,23 @@ from phingImConvert import *
 import itertools
 import pandas as pd
 import numpy as np
+import csv_to_sqlite 
+import sys
+import csv
 
 temp = []
 
 def exhaust(s):
     splitted = PhingImtoNUM(s)
 
+    #change "ⁿ" to "N" and "o͘" to "ou"
+    for i in range(len(splitted)):
+        splitted[i] = splitted[i].replace("ⁿ", "N")
+        splitted[i] = splitted[i].replace("o͘", "ou")
+
     seperator = []
     for i in range(len(splitted)):
-        if all(c in "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" for c in splitted[i]):
+        if all(c in "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ" for c in splitted[i]):
             seperator.append(False)
         else:
             seperator.append(True)
@@ -89,7 +97,7 @@ def stringify(s):
     return "$" + "$".join(possible_input) + "$"
 
 if __name__ == "__main__":
-    #read all words from the file
+    # read all words from the file
     with open("TaigiDatabase.csv") as f:
         db = pd.read_csv(f)
 
@@ -115,6 +123,10 @@ if __name__ == "__main__":
 
     #save the database
     db.to_csv("TaigiInputDatabase.csv", index = False)
+
+    options = csv_to_sqlite.CsvOptions(typing_style="full", encoding="utf-8")
+    csv.field_size_limit(sys.maxsize)
+    csv_to_sqlite.write_csv(["TaigiInputDatabase.csv"], "TaigiWord.sqlite", options)
 
     print(np.quantile(temp, 0.5))
     print(np.quantile(temp, 0.6))

@@ -425,7 +425,7 @@ def TLtoPOJ(s):
     return "".join(syls)
 
 if __name__ == "__main__":
-    # print(PhingImtoNUM(sys.argv[1]))
+    # print(PhingImtoNUM("chhiūⁿ"))
 
     import pandas as pd
 
