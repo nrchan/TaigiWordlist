@@ -35,25 +35,26 @@ def exhaust(s):
     amount = 1
     for i in range(len(splitted)):
         if seperator[i]:
-            amount *= 3
+            amount *= 1
         else:
             amount *= len(splitted[i])
 
     temp.append(amount)
 
-    # If the amount is less than 16000, we can accept all possible combinations.
-    if amount < 16000:
+    # If the amount is less than a certain number, we can accept all possible combinations.
+    if amount < 20000:
         splitted_provide = []
         for i in range(len(splitted)):
             splitted_provide.append([])
             if seperator[i]:
                 splitted_provide[i].append("")
-                if splitted[i] != " ":
-                    splitted_provide[i].append(" ")
-                if splitted[i] != "-":
-                    splitted_provide[i].append("-")
-            for j in range(len(splitted[i])):
-                splitted_provide[i].append(splitted[i][:j+1])
+                # if splitted[i] != " ":
+                #     splitted_provide[i].append(" ")
+                # if splitted[i] != "-":
+                #     splitted_provide[i].append("-")
+            else:
+                for j in range(len(splitted[i])):
+                    splitted_provide[i].append(splitted[i][:j+1])
 
         # Now, we have all possible combinations of these splits. We can use itertools.product to get all possible combinations of these combinations.
         combinations = list(itertools.product(*splitted_provide))
@@ -97,9 +98,11 @@ if __name__ == "__main__":
     #add stringified words to the database as new column named "possible_input_TL"
     db["possible_input_TL"] = db["TL"].apply(stringify)
     #add stringified words to the database as new column named "possible_input_POJ"
-    # db["possible_input_POJ"] = db["POJ"].apply(stringify) #temporary commented to reduce size
+    db["possible_input_POJ"] = db["POJ"].apply(stringify)
     #add new column named "frequency", initialize it to 0 since we don't have any frequency data
     db["frequency"] = 0
+    #add new column named "user_frequency", initialize it to 0 since we don't have any frequency data
+    db["user_frequency"] = 0
 
     #save the database
     db.to_csv("TaigiInputDatabase.csv", index = False)
