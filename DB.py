@@ -2,9 +2,6 @@ from phingImConvert import *
 import itertools
 import pandas as pd
 import numpy as np
-import csv_to_sqlite 
-import sys
-import csv
 
 temp = []
 
@@ -50,7 +47,7 @@ def exhaust(s):
     temp.append(amount)
 
     # If the amount is less than a certain number, we can accept all possible combinations.
-    if amount < 20000:
+    if amount < 16000:
         splitted_provide = []
         for i in range(len(splitted)):
             splitted_provide.append([])
@@ -92,16 +89,13 @@ def exhaust(s):
     
     return joined_combination
 
-def stringify(s):
-    possible_input = exhaust(s)
-    return "$" + "$".join(possible_input) + "$"
-
 if __name__ == "__main__":
     # read all words from the file
     with open("TaigiDatabase.csv") as f:
         db = pd.read_csv(f)
 
     #add corpus here!
+    corpus = ""
     with open("教育部例句俗諺.csv") as f:
         corpus = f.read()
     with open("台華新聞漢字.txt") as f:
@@ -112,28 +106,46 @@ if __name__ == "__main__":
 
     #add new column for POJ
     db["POJ"] = db["TL"].apply(TLtoPOJ)
-    #add stringified words to the database as new column named "possible_input_TL"
-    db["possible_input_TL"] = db["TL"].apply(stringify)
-    #add stringified words to the database as new column named "possible_input_POJ"
-    db["possible_input_POJ"] = db["POJ"].apply(stringify)
     #add new column named "frequency"
     db["frequency"] = db["Hanji"].apply(lambda x: corpus.count(x))
     #add new column named "user_frequency", initialize it to 0 since we don't have any frequency data
     db["user_frequency"] = 0
 
+    all_combinations = [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []]
+    for index, row in db.iterrows():
+        #get all possible combinations
+        combinations = exhaust(row["TL"])
+        combinations.extend(exhaust(row["POJ"]))
+        #remove duplicatation and space and empty string
+        combinations = list(set(filter(lambda x: x != "" and x != " ", combinations)))
+        for i in range(21):
+            temp_char = None
+            if "$".join([x for x in combinations if len(x) == i+1]) != "":
+                temp_char = "$" + "$".join([x for x in combinations if len(x) == i+1]) + "$"
+            all_combinations[i].append(temp_char)
+        print(index, end="\r")
+
+    db["possible_input_1"] = all_combinations[0]
+    db["possible_input_2"] = all_combinations[1]
+    db["possible_input_3"] = all_combinations[2]
+    db["possible_input_4"] = all_combinations[3]
+    db["possible_input_5"] = all_combinations[4]
+    db["possible_input_6"] = all_combinations[5]
+    db["possible_input_7"] = all_combinations[6]
+    db["possible_input_8"] = all_combinations[7]
+    db["possible_input_9"] = all_combinations[8]
+    db["possible_input_10"] = all_combinations[9]
+    db["possible_input_11"] = all_combinations[10]
+    db["possible_input_12"] = all_combinations[11]
+    db["possible_input_13"] = all_combinations[12]
+    db["possible_input_14"] = all_combinations[13]
+    db["possible_input_15"] = all_combinations[14]
+    db["possible_input_16"] = all_combinations[15]
+    db["possible_input_17"] = all_combinations[16]
+    db["possible_input_18"] = all_combinations[17]
+    db["possible_input_19"] = all_combinations[18]
+    db["possible_input_20"] = all_combinations[19]
+    db["possible_input_21_plus"] = all_combinations[20]
+
     #save the database
-    db.to_csv("TaigiInputDatabase.csv", index = False)
-
-    options = csv_to_sqlite.CsvOptions(typing_style="full", encoding="utf-8")
-    csv.field_size_limit(sys.maxsize)
-    csv_to_sqlite.write_csv(["TaigiInputDatabase.csv"], "TaigiWord.sqlite", options)
-
-    print(np.quantile(temp, 0.5))
-    print(np.quantile(temp, 0.6))
-    print(np.quantile(temp, 0.7))
-    print(np.quantile(temp, 0.8))
-    print(np.quantile(temp, 0.9))
-    print(np.quantile(temp, 0.95))
-    print(np.quantile(temp, 0.99))
-    print(np.quantile(temp, 0.999))
-    print(np.quantile(temp, 1.0))
+    db.to_csv("TaigiWord.csv", index = True, index_label = "taigiWordId")
