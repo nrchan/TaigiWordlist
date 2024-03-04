@@ -96,20 +96,31 @@ if __name__ == "__main__":
 
     #add corpus here!
     corpus = ""
-    with open("教育部例句俗諺.csv") as f:
+    with open("H-教育部例句俗諺.csv") as f:
         corpus = f.read()
-    with open("台華新聞漢字.txt") as f:
+    with open("H-台華新聞.txt") as f:
         corpus += f.read()
-    with open("閱讀閩客.csv") as f:
+    with open("H-閱讀閩客.csv") as f:
+        corpus += f.read()
+    with open("H-臺語典藏數位資料庫.csv") as f:
+        corpus += f.read()
+    with open("T-教育部例句俗諺.csv") as f:
+        corpus += f.read()
+    with open("T-台華新聞.txt") as f:
         corpus += f.read()
     corpus = corpus.replace(" ", "")
 
     #add new column for POJ
     db["POJ"] = db["TL"].apply(TLtoPOJ)
-    #add new column named "frequency"
-    db["frequency"] = db["Hanji"].apply(lambda x: corpus.count(x))
-    #add new column named "user_frequency", initialize it to 0 since we don't have any frequency data
+    #add new colun for numberfy Tl and POJ
+    db["TL_num"] = db["TL"].apply(lambda x: "".join(PhingImtoNUM(x)))
+    db["POJ_num"] = db["POJ"].apply(lambda x: "".join(PhingImtoNUM(x.replace("ⁿ", "N").replace("o͘", "ou"))))
+    print("calculating frequency")
+    #add new column named "frequency", and count frequency from hanji and tl
+    db["frequency"] = db["Hanji"].apply(lambda x: corpus.count(x)) + db["TL"].apply(lambda x: corpus.count(x))
+    #add user frequency and set it as 0
     db["user_frequency"] = 0
+    print("calculating possible input")
 
     all_combinations = [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], []]
     for index, row in db.iterrows():
