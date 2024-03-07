@@ -437,6 +437,9 @@ def TLtoHongIm(s):
         if re.fullmatch("([^0-9a-zA-ZÁÉÍÓÚḾŃáéíóúḿńÀÈÌÒÙM̀Ǹàèìòùm̀ǹÂÊÎÔÛM̂N̂âêîôûm̂n̂ǍĚǏǑǓM̌Ňǎěǐǒǔm̌ňĀĒĪŌŪM̄N̄āēīōūm̄n̄A̍E̍I̍O̍U̍M̍N̍a̍e̍i̍o̍u̍m̍n̍A̋E̋I̋ŐŰM̋N̋a̋e̋i̋őűm̋n̋o͘ⁿ]+)", syls[i]):
             continue
 
+        syls[i] = re.sub(r"m(?=[^0-9 -])", "ㄇ", syls[i])
+        syls[i] = re.sub(r"ng(?=[^0-9 -])", "ㄫ", syls[i])
+
         syls[i] = syls[i].replace("p8", "ㆴ̇")
         syls[i] = syls[i].replace("t8", "ㆵ̇")
         syls[i] = syls[i].replace("k8", "ㆻ̇")
@@ -453,36 +456,34 @@ def TLtoHongIm(s):
         syls[i] = syls[i].replace("7", "˫")
         syls[i] = syls[i].replace("9", "ˊ")
 
-        syls[i] = syls[i].replace("tshi", "ㄑㄧ")
-        syls[i] = syls[i].replace("tsh", "ㄘ")
-        syls[i] = syls[i].replace("tsi", "ㄐㄧ")
-        syls[i] = syls[i].replace("ts", "ㄗ")
-        syls[i] = syls[i].replace("th", "ㄊ")
-        syls[i] = syls[i].replace("t", "ㄉ")
-
         syls[i] = syls[i].replace("ph", "ㄆ")
         syls[i] = syls[i].replace("p", "ㄅ")
-
-        syls[i] = syls[i].replace("am", "ㆰ")
-        syls[i] = syls[i].replace("im", "ㄧㆬ")
-        syls[i] = syls[i].replace("om", "ㆱ")
-        syls[i] = re.sub(r"m(?=[0-9 -])", "ㆬ", syls[i])
-        syls[i] = syls[i].replace("m", "ㄇ")
 
         syls[i] = syls[i].replace("b", "ㆠ")
         syls[i] = syls[i].replace("l", "ㄌ")
 
-        syls[i] = syls[i].replace("si", "ㄒㄧ")
+        syls[i] = re.sub(r"tsh(?=i)", "ㄑ", syls[i])
+        syls[i] = syls[i].replace("tsh", "ㄘ")
+        syls[i] = re.sub(r"ts(?=i)", "ㄐ", syls[i])
+        syls[i] = syls[i].replace("ts", "ㄗ")
+        syls[i] = syls[i].replace("th", "ㄊ")
+        syls[i] = syls[i].replace("t", "ㄉ")
+
+        syls[i] = re.sub(r"s(?=i)", "ㄒ", syls[i])
         syls[i] = syls[i].replace("s", "ㄙ")
 
-        syls[i] = syls[i].replace("ji", "ㆢㄧ")
+        syls[i] = re.sub(r"j(?=i)", "ㆢ", syls[i])
         syls[i] = syls[i].replace("j", "ㆡ")
+
+        syls[i] = syls[i].replace("am", "ㆰ")
+        syls[i] = syls[i].replace("im", "ㄧㆬ")
+        syls[i] = syls[i].replace("om", "ㆱ")
+        syls[i] = syls[i].replace("m", "ㆬ")
 
         syls[i] = syls[i].replace("ang", "ㄤ")
         syls[i] = syls[i].replace("ong", "ㆲ")
         syls[i] = syls[i].replace("ing", "ㄧㄥ")
-        syls[i] = re.sub(r"ng(?=[0-9 -])", "ㆭ", syls[i])
-        syls[i] = syls[i].replace("ng", "ㄫ")
+        syls[i] = syls[i].replace("ng", "ㆭ")
 
         syls[i] = syls[i].replace("ainn", "ㆮ")
         syls[i] = syls[i].replace("aunn", "ㆯ")
@@ -516,17 +517,21 @@ def TLtoHongIm(s):
 
     return " ".join(syls)
 
+def POJtoHongIm(s):
+    syls = TLtoPOJ(s)
+    return TLtoHongIm(syls)
+
 
 if __name__ == "__main__":
-    # print(PhingImtoNUM("chhiūⁿ"))
+    print(PhingImtoNUM("ㄅㆪ ㄆㄨㆤˊ"))
 
-    import pandas as pd
+    # import pandas as pd
 
-    with open("TaigiDatabase.csv") as f:
-        db = pd.read_csv(f)
+    # with open("TaigiDatabase.csv") as f:
+    #     db = pd.read_csv(f)
 
-    for index, row in db.iterrows():
-        input = row["TL"]
-        output = TLtoHongIm(input)
-        if any(c.isalnum() for c in output.replace(" ", "")):
-            print(input, output)
+    # for index, row in db.iterrows():
+    #     input = row["TL"]
+    #     output = TLtoPOJ(input)
+    #     if POJtoTL(output) != row["TL"]:
+    #         print(input, output, POJtoTL(output))

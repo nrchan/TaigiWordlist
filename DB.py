@@ -71,8 +71,8 @@ def exhaust(s):
     else:
         joined_combination = ["".join(splitted)]
         joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]))
-        joined_combination.append(" ".join([s for i, s in enumerate(splitted) if not seperator[i]]))
-        joined_combination.append("-".join([s for i, s in enumerate(splitted) if not seperator[i]]))
+        # joined_combination.append(" ".join([s for i, s in enumerate(splitted) if not seperator[i]]))
+        # joined_combination.append("-".join([s for i, s in enumerate(splitted) if not seperator[i]]))
         joined_combination.append("".join(splitted).translate(str.maketrans('', '', '0123456789')))
         joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]).translate(str.maketrans('', '', '0123456789')))
         joined_combination.append("".join([s for i, s in enumerate(splitted) if not seperator[i]]).translate(str.maketrans('', '', '0123456789')))
@@ -81,13 +81,50 @@ def exhaust(s):
             if not seperator[i]:
                 first_characters.append(splitted[i][0])
         joined_combination.append("".join(first_characters))
-        joined_combination.append(" ".join(first_characters))
-        joined_combination.append("-".join(first_characters))
+        # joined_combination.append(" ".join(first_characters))
+        # joined_combination.append("-".join(first_characters))
 
     # Remove empty string and space and duplicatation
     joined_combination = list(set(filter(lambda x: x != "" and x != " ", joined_combination)))
     
     return joined_combination
+
+def hongimExhaust(s):
+    splitted = s.split(" ")
+
+    amount = 1
+    for i in range(len(splitted)):
+        amount *= len(splitted[i])
+
+    if amount < 16000:
+        splitted_provide = []
+        for i in range(len(splitted)):
+            splitted_provide.append([])
+            for j in range(len(splitted[i])):
+                splitted_provide[i].append(splitted[i][:j+1])
+
+        # Now, we have all possible combinations of these splits. We can use itertools.product to get all possible combinations of these combinations.
+        combinations = list(itertools.product(*splitted_provide))
+
+        # Finally, we can join these combinations to get all possible results. We will use a one-liner here to test copilot's abiblity
+        joined_combination = ["".join(combination) for combination in combinations]
+    
+    #Otherwise, we only provide the full string, the full string without tone number, and the first character of each split. (with space, with dash, and without space)
+    else:
+        joined_combination = ["".join(splitted)]
+        joined_combination.append("".join(splitted))
+        # joined_combination.append(" ".join(splitted))
+        first_characters = []
+        for i in range(len(splitted)):
+            first_characters.append(splitted[i][0])
+        joined_combination.append("".join(first_characters))
+        # joined_combination.append(" ".join(first_characters))
+
+    # Remove empty string and space and duplicatation
+    joined_combination = list(set(filter(lambda x: x != "" and x != " ", joined_combination)))
+    
+    return joined_combination
+
 
 if __name__ == "__main__":
     # read all words from the file
@@ -112,12 +149,22 @@ if __name__ == "__main__":
 
     #add new column for POJ
     db["POJ"] = db["TL"].apply(TLtoPOJ)
+    #add new column for hongim
+    db["HongIm"] = db["TL"].apply(lambda x: TLtoHongIm(x))
     #add new colun for numberfy Tl and POJ
     db["TL_num"] = db["TL"].apply(lambda x: "".join(PhingImtoNUM(x)))
     db["POJ_num"] = db["POJ"].apply(lambda x: "".join(PhingImtoNUM(x.replace("ⁿ", "N").replace("o͘", "ou"))))
     print("calculating frequency")
     #add new column named "frequency", and count frequency from hanji and tl
-    db["frequency"] = db["Hanji"].apply(lambda x: corpus.count(x)) + db["TL"].apply(lambda x: corpus.count(x))
+    db["hanji_frequency"] = db["Hanji"].apply(lambda x: corpus.count(x))
+    db["phingim_frequency"] = db["TL"].apply(lambda x: corpus.count(x))
+    #made frequency goes from 0 to 10000 (we devide by the largest frequency and multiply by 10000, then cast it to integer)
+    max_hanji_frequency = db["hanji_frequency"].max()
+    db["hanji_frequency"] = db["hanji_frequency"] / max_hanji_frequency * 10000
+    db["hanji_frequency"] = db["hanji_frequency"].apply(lambda x: int(x))
+    max_phingim_frequency = db["phingim_frequency"].max()
+    db["phingim_frequency"] = db["phingim_frequency"] / max_phingim_frequency * 10000
+    db["phingim_frequency"] = db["phingim_frequency"].apply(lambda x: int(x))
     #add user frequency and set it as 0
     db["user_frequency"] = 0
     print("calculating possible input")
@@ -127,6 +174,7 @@ if __name__ == "__main__":
         #get all possible combinations
         combinations = exhaust(row["TL"])
         combinations.extend(exhaust(row["POJ"]))
+        combinations.extend(hongimExhaust(row["HongIm"]))
         #remove duplicatation and space and empty string
         combinations = list(set(filter(lambda x: x != "" and x != " ", combinations)))
         for i in range(21):
