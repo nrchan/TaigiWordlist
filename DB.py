@@ -154,10 +154,14 @@ if __name__ == "__main__":
     #add new colun for numberfy Tl and POJ
     db["TL_num"] = db["TL"].apply(lambda x: "".join(PhingImtoNUM(x)))
     db["POJ_num"] = db["POJ"].apply(lambda x: "".join(PhingImtoNUM(x.replace("ⁿ", "N").replace("o͘", "ou"))))
+    #add column for initial letter
+    db["TL_initial"] = db["TL_num"].apply(lambda x: x[0])
+    db["POJ_initial"] = db["POJ_num"].apply(lambda x: x[0])
+    db["HongIm_initial"] = db["HongIm"].apply(lambda x: x[0])
     print("calculating frequency")
     #add new column named "frequency", and count frequency from hanji and tl
     db["hanji_frequency"] = db["Hanji"].apply(lambda x: corpus.count(x))
-    db["phingim_frequency"] = db["TL"].apply(lambda x: corpus.count(x))
+    db["phingim_frequency"] = db["TL_num"].apply(lambda x: corpus.count(x))
     #made frequency goes from 0 to 10000 (we devide by the largest frequency and multiply by 10000, then cast it to integer)
     max_hanji_frequency = db["hanji_frequency"].max()
     db["hanji_frequency"] = db["hanji_frequency"] / max_hanji_frequency * 10000
