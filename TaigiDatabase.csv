@@ -94,6 +94,7 @@
 七夕,tshit-sia̍h
 了工,liáu-kang
 人工,lâng-kang
+人才,jîn-tsâi
 人才,lâng-tsâi
 入土,ji̍p-thóo
 入土,li̍p-thóo
@@ -9574,6 +9575,7 @@
 常常,siông-siông
 強強,kiōng-kiōng
 張掇,tiunn-tuah
+強欲,kiông-beh
 強欲,kiōng-beh
 強欲,kiōng-bueh
 張鳥鼠,tng niáu-tshí
@@ -26152,6 +26154,7 @@
 土星,thóo-tshinn
 土風舞,thóo-hong-bú
 大雨,tuā-hōo
+大雨,tuā-ú
 大戰,tāi-tsiàn
 小型,sió-hîng
 山坡地,suann-pho-tuē
@@ -32035,6 +32038,7 @@
 四界遨,sì-kè gô
 遨遨輾,gô-gô-liàn
 遮光,jia kng
+遮光,jia-kng
 不醉不歸,put tsuì put kui
 燒酒醉,sio-tsiú-tsuì
 醉茫茫,tsuì-bâng-bâng
@@ -36675,6 +36679,7 @@ góo-lòo,góo-lòo
 活取器官,ua̍h-tshú khì-kuan
 phòng-phuh,phòng-phuh
 耐震係數,nāi-tsìn hē-sòo
+係數,hē-sòo
 宮城縣,kiong-siânn-kuān
 射正,siā-tsiànn
 庫德族,khòo-tik-tso̍k
@@ -36697,6 +36702,7 @@ bok-sìn-gù,bok-sìn-gù
 黃斑部病變,n̂g-pan-pōo pênn-piàn
 傷停補時,siong-thîng-póo-sî
 愛國者三型飛彈,ài-kok-tsiá sann-hîng-hui-tuânn
+愛國者,ài-kok-tsiá
 k他命,k tha-bīng
 搜救狗,soo-kiù-káu
 滅火器,bia̍t-hué-khì
@@ -36713,6 +36719,8 @@ k他命,k tha-bīng
 質譜快檢技術,tsit-phóo khuài-kiám ki-su̍t
 a-lú-mih 集塵烌,a-lú-mih tsi̍p-tîn-hu
 輕銀集塵烌,khin-gîn tsi̍p-tîn-hu
+集塵烌,tsi̍p-tîn-hu
+集塵,tsi̍p-tîn
 輝瑞,hui-suī
 器官衰竭,khì-kuan sue-kia̍t
 積體電路,tsik-thé tiān-lōo
@@ -36797,6 +36805,7 @@ thiàn-tòo,thiàn-tòo
 勗勉,hiok-bián
 勗,hiok
 憂鬱症,iu-ut-tsìng
+憂鬱,iu-ut
 一夜干,it-iā-kuann
 加碼,ka-bé
 驅逐艦,khu-tio̍k-lām
@@ -36833,7 +36842,9 @@ thiàn-tòo,thiàn-tòo
 泅水鏡,siû-tsuí-kiànn
 游泳鏡,iû-íng-kiànn
 心肌梗塞,sim-ki kīng-sik
+梗塞,kīng-sik
 心肌梗窒,sim-ki kénn-that
+梗窒,kénn-that
 易科罰金,i̍k-kho hua̍t-kim
 人工智慧,jîn-kang tì-huī
 伸勼工時,tshun-kiu kang-sî
@@ -36870,6 +36881,10 @@ thiàn-tòo,thiàn-tòo
 豪雨特報,hô-ú ti̍k-pò
 大豪雨特報,tuā-hô-ú ti̍k-pò
 超大豪雨特報,tshiau-tuā-hô-ú ti̍k-pò
+豪雨,hô-ú
+大豪雨,tuā-hô-ú
+超大豪雨,tshiau-tuā-hô-ú
+超大,tshiau-tuā
 摧死,tshui--sí
 分道,pun-tō
 分道喙,pun-tō-tshuì
@@ -37112,6 +37127,7 @@ bé-khòng,bé-khòng
 新黨,sin-tóng
 台灣綠黨,tâi-uân li̍k-tóng
 家庭基本收入,ka-tîng ki-pún siu-ji̍p
+基本收入,ki-pún siu-ji̍p
 親民黨,tshin-bîn-tóng
 台灣團結聯盟,tâi-uân thuân-kiat liân-bîng
 中華民族致公黨,tiong-huâ bîn-tso̍k tì-kong-tóng
@@ -37129,14 +37145,17 @@ bé-khòng,bé-khòng
 中華聯合黨,tiong-huâ liân-ha̍p-tóng
 市地公有連線,tshī-tē kong-iú liân-suànn
 制度救世島,tsè-tōo kiù-sè-tó
+救世,kiù-sè
 新華勞動黨,sin-huâ lô-tōng-tóng
 人民民主黨,jîn-bîn bīn-tsú-tóng
 共和黨,kiōng-hô-tóng
 中華赤色聯盟,tiong-huâ tshiah-sik liân-bîng
+赤色,tshiah-sik
 台灣革命黨,tâi-uân kik-bīng-tóng
 中山梅花黨,tiong-san muî-hue-tóng
 台灣進步黨,tâi-uân tsìn-pōo-tóng
 台灣整復師聯盟工黨,tâi-uân tsíng-ho̍k-su liân-bîng kang-tóng
+整復師,tsíng-ho̍k-su
 中華新住民黨,tiong-huâ sin-tsū-bîn-tóng
 新生黨,sin-sing-tóng
 司法正義黨,su-huat tsìng-gī-tóng
@@ -37172,11 +37191,13 @@ bé-khòng,bé-khòng
 台澎黨,tâi-phînn-tóng
 台灣維新,tâi-uân uî-sin
 小民參政歐巴桑聯盟,sió-bîn tsham-tsìng oo-bá-sáng liân-bîng
+歐巴桑,oo-bá-sáng
 參政,tsham-tsìng
 國家公義運動黨,kok-ka kong-gī ūn-tōng-tóng
 道政聯盟,tō-tsìng liân-bîng
 商工統一促進會,siong-kang thóng-it tshiok-tsìn-huē
 臺灣雙語無法黨,tâi-uân siang-gí bô-huat-tóng
+無法,bô-huat
 夏潮聯合會,hā-tiâu liân-ha̍p-huē
 金色力量黨,kim-sik li̍k-liōng-tóng
 台灣新住民黨,tâi-uân sin-tsū-bîn-tóng
@@ -37187,13 +37208,18 @@ bé-khòng,bé-khòng
 更生黨,king-sing-tóng
 中正黨,tiong-tsìng-tóng
 台灣麻將最大黨,tâi-uân muâ-tshiok tsuè-tuā-tóng
+麻將,muâ-tshiok
 民主監督聯盟,bîn-tsú kàm-tok liân-bîng
 中華保台反共復國黨,tiong-huâ pó-tâi huán-kiōng ho̍k-kok-tóng
+復國,ho̍k-kok
 司法改革黨,su-huat kái-kik-tóng
 原民黨,guân-bîn-tóng
 復康聯盟黨,ho̍k-khong liân-bîng-tóng
+復康,ho̍k-khong
 嘉意公益黨,ka-ì kong-ik-tóng
 中小企業團結聯盟,tiong-sió khì-gia̍p thuân-kiat liân-bîng
+中小企業,tiong-sió khì-gia̍p
+中小,tiong-sió
 太易聯盟黨,thài-i̍k liân-bîng-tóng
 三跤㧣,sann-kha-tu
 仝台,kāng-tâi
@@ -37254,6 +37280,7 @@ i-tá-lih 冰淇淋,i-tá-lih ping-kî-lîm
 王梨蝦球,ông-lâi hê-kiû
 蝦球,hê-kiû
 菜頭簽餅,tshài-thâu-tshiam-piánn
+簽餅,tshiam-piánn
 烘焙,hang-puē
 果子乾,kué-tsí-kuann
 素肉,sòo-bah
@@ -37500,6 +37527,7 @@ sa̋i-hóng 咖啡,sa̋i-hóng ka-pi
 tshì-sìr餅,tshì-sìr-piánn
 tshì-sù餅,tshì-sù-piánn
 卡啦雞腿堡,khah-lah ke-thuí-pó
+雞腿堡,ke-thuí-pó
 雞腿,ke-thuí
 籠床仔包,lâng-sn̂g-á-pau
 羅宋湯,lô-sòng-thng
@@ -37509,10 +37537,12 @@ tshì-sù餅,tshì-sù-piánn
 徛路頭,khiā lōo-thâu
 趖蟲類,sô-thâng-luī
 平板電腦,pênn-pán-tiān-náu
+平板,pênn-pán
 遮光窗仔簾,jia-kng thang-á-lî
 遮光kha-tián,jia-kng kha-tián
 資料鋏仔,tsu-liāu giap-á
 儲存容量,tû-tsûn iông-liōng
+儲存,tû-tsûn
 筋肉放冗劑,kin-bah pàng-līng-tse
 筋肉,kin-bah
 放冗劑,pàng-līng-tse
@@ -37596,6 +37626,7 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 花式趨冰,hua-sik tshu-ping
 花式溜冰,hua-sik liu-ping
 趨輪運動,tshu-lián ūn-tōng
+趨輪,tshu-lián
 趨輪趨冰,tshu-lián tshu-ping
 競速趨輪,kīng-sok tshu-lián
 競速溜冰,kīng-sok liu-ping
@@ -37648,17 +37679,21 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 健美,kiān-bí
 三項全能,sann-hāng tsuân-lîng
 競技性比賽,kīng-ki-sìng pí-sài
+競技性,kīng-ki-sìng
 球類比賽,kiû-luī pí-sài
 對抗性比賽,tuì-khòng-sìng pí-sài
+對抗性,tuì-khòng-sìng
 水上芭蕾,tsuí-siōng pa-lé
 水上比賽,tsuí-siōng pí-sài
 水球,tsuí-kiû
 跳板跳水,thiàu-pán thiáu-tsuí
 跳板,thiàu-pán
 跳台跳水,thiàu-tâi thiàu-tsuí
+跳台,thiàu-tâi
 三日賽,sann-ji̍t-sài
 三項賽,sann-hāng-sài
 越野障礙賽,ua̍t-iá tsiòng-gāi-sài
+障礙賽,tsiòng-gāi-sài
 飛行傘,hui-hîng-suànn
 沙埔排球,sua-poo pâi-kiû
 手球,tshiú-kiû
@@ -37681,10 +37716,13 @@ ió-gà,ió-gà
 飛盤,hui-puânn
 定向運動,tīng-hiòng ūn-tōng
 定向越野,tīng-hiòng ua̍t-iá
+越野,ua̍t-iá
 定向,tīng-hiòng
 空架雪車,khang-kè seh-tshia
+空架,khang-kè
 健身房,kiān-sin pâng
 重量訓練,tāng-liōng hùn-liān
 trx吊掛訓練,trx tiàu-kuà hùn-liān
+吊掛訓練,tiàu-kuà hùn-liān
 吊掛,tiàu-kuà
 輕鐵,khin-thih
