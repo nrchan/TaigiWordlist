@@ -236,7 +236,7 @@ def toneToNum(syls):
         if re.fullmatch("([0-9]+)", syls[i]):
             continue
 
-        if syls[i][-1] in ["1", "2", "3", "5", "6", "7", "8", "9"]:
+        if syls[i][-1] in ["1", "2", "3", "4", "5", "6", "7", "8", "9"]:
             continue
 
         found = False

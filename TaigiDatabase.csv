@@ -6776,6 +6776,7 @@
 查某𡢃,tsa̋u-kán
 查某𡢃,tsőo-kán
 查某人,tsa-bóo-lâng
+查某人,tsa̋u-lâng
 查某囝,tsa-bóo-kiánn
 查某囝,tsa̋u-kiánn
 查某囝,tsa̋u-kánn
@@ -8194,7 +8195,7 @@
 桔仔餅,kiat-á-piánn
 浮石,phû-tsio̍h
 海瓜子,hái-kue-tsí
-浮沉,hái phû-tîm
+海浮沉,hái phû-tîm
 浮沉,phû-tîm
 海沙埔,hái-sua-poo
 氣身惱命,khì-sin-lóo-miā
@@ -16738,7 +16739,6 @@
 禮服,lé-ho̍k
 禮物,lé-bu̍t
 禮拜,lé-pài
-禮拜,lé-pài-tsè
 禮拜日,lé-pài-ji̍t
 禮拜日,lé-pài-li̍t
 禮拜堂,lé-pài-tn̂g
@@ -24655,6 +24655,7 @@
 念頭,liām-thâu
 放牧,pàng-bo̍k
 制憲,tsè-hiàn
+芭蕾,pa-lé
 芭蕾,pa-lê
 研判,gián-phuànn
 夏日,hā-ji̍t
@@ -29651,7 +29652,7 @@
 煮飯的,tsír-pn̄g--ê
 煮飯的,tsír-pňg--ê
 煮飯的,tsú-pn̄g--ê
-阮厝的查某人,gún-tshù-ê-tsa̋u-lâng
+阮厝的,gún-tshù-ê
 阿貼的,a-tah--ê
 後柴耙,āu-tshâ-pê
 家內,ke lāi
@@ -30898,7 +30899,7 @@
 兌現,tuī-hiān
 免錢,bián-tsînn
 免職,bián-tsit
-做兵,ho̍k ping-ia̍h
+服兵役,ho̍k ping-ia̍h
 做兵,tsò-ping
 冷飯,líng pn̄g
 祀佛仔,tshāi pu̍t-á
@@ -31064,7 +31065,7 @@
 麵披,mī-phi
 抹銷,buah-siau
 抽血,thiu hueh
-拆破冊,thiah-phuà
+拆破冊,thiah-phuà tsheh
 拆白,thiah-pe̍h
 拋磚引玉,phau tsuan ín gio̍k
 拋妻棄子,phau tshe khì tsú
@@ -31876,6 +31877,7 @@
 對答如流,tuì-tap jû liû
 摘菜,tiah tshài
 慢性病,bān-sìng pēnn
+慢性病,bān-sìng-pēnn
 摻色,tshàm sik
 敲破,khà-phuà
 敲鐘,khau tsing
@@ -34051,7 +34053,6 @@ si-lí-khóng,si-lí-khóng
 性別偏見,sìng-pia̍t phian-kiàn
 明鄭時期,bîng-tēnn sî-kî
 明鄭時期,bîng-tīnn sî-kî
-服兵役,ho̍k ping-ia̍h
 服務業,ho̍k-bū-gia̍p
 服務學習,ho̍k-bū ha̍k-si̍p
 東北季風,tang-pak kuì-hong
@@ -34312,7 +34313,7 @@ si-lí-khóng,si-lí-khóng
 國際犯罪問題,kok-tsè huān-tsuē būn-tuê
 國際犯罪問題,kok-tsè huān-tsuē būn-tê
 珍古德,tin-kóo-tik
-國際珍古德教育保育協會,kok-tsè tin-kóo-tik kàu-io̍k ki̍p pó-io̍k hia̍p-huē
+國際珍古德教育暨保育協會,kok-tsè tin-kóo-tik kàu-io̍k ki̍p pó-io̍k hia̍p-huē
 國際航空站,kok-tsè hâng-khong-tsām
 國際組織,kok-tsè tsoo-tsit
 國際勞工公約,kok-tsè lô-kang kong-iok
@@ -34557,8 +34558,8 @@ si-lí-khóng,si-lí-khóng
 緯線,uí-suànn
 衛生所,uē-sing-sóo
 衛生所,uī-sing-sóo
-衛星影像圖,tshinn iánn-siōng-tôo
 衛星影像圖,uē-tshenn iánn-siōng-tôo
+衛星影像圖,uē-tshinn iánn-siōng-tôo
 課餘時間,khò-î sî-kan
 課外時間,kho-gua sî-kan
 輪作,lûn-tsok
@@ -36373,7 +36374,7 @@ góo-lòo,góo-lòo
 朝鮮,tiâu-sián
 北朝鮮,pak tiâu-sián
 北韓,pak-hân
-大韓民國,hân-kok
+韓國,hân-kok
 大韓民國,tāi-hân bîn-kok
 科威特,kho-ui-ti̍k
 寮國,liâu-kok
@@ -36477,7 +36478,7 @@ góo-lòo,góo-lòo
 澳洲,ò-tsiu
 澳大利亞,ò-tāi-lī-a
 斐濟,huí-tsè
-諾魯,lo̍k-lóo 
+諾魯,lo̍k-lóo
 紐西蘭,liú-se-lân
 帛琉,pi̍k-liû
 索羅門群島,sóo-lô-bûn kûn-tó
@@ -36632,6 +36633,7 @@ góo-lòo,góo-lòo
 升利息,sing-lī-sik
 水豬,tsuí-ti
 白紙運動,pe̍h-tsuá-ūn-tōng
+白紙,pe̍h-tsuá
 白紙革命,pe̍h-tsuá kik-bīng
 生湠地,senn-thuànn-tè
 呼吸道融合病毒,hoo-khip-tō iông-ha̍p pēnn-to̍k
@@ -36721,6 +36723,7 @@ a-lú-mih 集塵烌,a-lú-mih tsi̍p-tîn-hu
 變異株,piàn-ī-tsu
 聖嬰現象,sìng-ing hiān-siōng
 負北極振盪,hū pak-ki̍k tsín-tōng
+振盪,tsín-tōng
 羽絨衫,ú-jiông-sann
 掠夯,lia̍h-giâ
 牚夯,thènn-giâ
@@ -36730,9 +36733,12 @@ a-lú-mih 集塵烌,a-lú-mih tsi̍p-tîn-hu
 閬位坐,làng-uī-tsē
 蒸餾,tsing-liū
 停滯性通貨膨脹,thîng-tù-sìng thong-huè-phòng-tiòng
+通貨膨脹,thong-huè phòng-tiòng
+通貨膨脹,thong-huè-phòng-tiòng
+通貨,thong-huè
+膨脹,phòng-tiòng
 三角錐,sann-kak-tsui
 空浮幼粒,khong-phû iù-lia̍p
-通貨膨脹,thong-huè phòng-tiòng
 捋仔田,lua̍h-á-tshân
 電扶梯,tiān-hû-thui
 隔暝醉,keh-mê-tsuì
@@ -36777,9 +36783,11 @@ a-lú-mih 集塵烌,a-lú-mih tsi̍p-tîn-hu
 壓炒房,ap-tshá-pâng
 四角尖碑,sì-kak-tsiam-pi
 預售厝,ī-siū-tshù
+預售,ī-siū
 肥身症,puî-sin-tsìng
 電競,tiān-kīng
 虛擬實況主,hi-gí si̍t-hóng-tsú
+實況主,si̍t-hóng-tsú
 奢華品,tshia-hua-phín
 戮銃術,lak-tshìng-su̍t
 監交,kàm-kau
@@ -36806,7 +36814,8 @@ thiàn-tòo,thiàn-tòo
 熟似人客,si̍k-sāi lâng-kheh
 人陣,lâng-tīn
 奶管原位癌,ling-kńg guân-uī-gâm
-焦慮症,tsiau-lī-tsìng 
+焦慮症,tsiau-lī-tsìng
+焦慮,tsiau-lī
 掩身戰機,iám-sin tsiàn-ki
 匿蹤戰機,li̍k-tsong tsiàn-ki
 閣揆,koh-kuî
@@ -36829,13 +36838,15 @@ thiàn-tòo,thiàn-tòo
 人工智慧,jîn-kang tì-huī
 伸勼工時,tshun-kiu kang-sî
 彗星,huī-tshenn
-個資漏洩,kò-tsu lāu-sia̍p　
+個資漏洩,kò-tsu lāu-sia̍p
+個資,kò-tsu
 石滬,tsio̍h-hōo
 海洛因,hái-lo̍k-in
 安非他命,an-hui-tha-bīng
 牛棚,gû-pênn
 台積電,tâi-tsik-tiān
 惡性腫瘤,ok-sìng tsíng-liû
+腫瘤,tsíng-liû
 淨零排放,tsīng-lîng pâi-hòng
 溫室效應,un-sik hāu-ìng
 跔厝經濟,ku-tshù king-tsè
@@ -36881,6 +36892,7 @@ ok-sái,ok-sái
 婚外情,hun-guā-tsîng
 外遇,guā-gū
 防呆機制,hông-tai ki-tsè
+防呆,hông-tai
 慢性病連續藥單,bān-sìng-pēnn liân-sio̍k io̍h-tuann
 置入性行銷,tì-ji̍p-sìng hîng-siau
 傭兵,iông-ping
@@ -36893,6 +36905,8 @@ ok-sái,ok-sái
 工課場,khang-khuè-tiûnn
 職場,tsit-tiûnn
 最低工資法,tsuè-kē kang-tsu-huat
+最低,tsuè-kē
+工資法,kang-tsu-huat
 充電柱,tshiong-tiān thiāu
 截圖,tsia̍t-tôo
 蓄水,thiok-tsuí
@@ -36908,7 +36922,7 @@ ok-sái,ok-sái
 創傷後壓力症候群,tshong-siong āu ap-li̍k tsìng-hāu-kûn
 公論,kong-lūn
 果凍,kó-tàng
-共融公園,kiōng-iông kong-hn̂g 
+共融公園,kiōng-iông kong-hn̂g
 共融遊戲場,kiōng-iông iû-hì-tiûnn
 跤後筋,kha-āu-kin
 物聯網,bu̍t-liân-bāng
@@ -36950,9 +36964,10 @@ ok-sái,ok-sái
 可蘭經,khó-lân-king
 大使館,tāi-sài-kuán
 失智症,sit-tì-tsìng
+失智,sit-tì
 伊斯蘭,i-su-lân
-移工,î-kang
-冰風暴,ping-hong-pō　
+移工,î-kang
+冰風暴,ping-hong-pō
 巡洋艦,sûn-iûnn-lām
 閣活節,koh-ua̍h-tseh
 復活節,ho̍k-ua̍h-tseh
@@ -36963,10 +36978,12 @@ ok-sái,ok-sái
 豁免,hat-bián
 豁,hat
 網路防火牆,bāng-lōo hông-hué-tshiûnn
+防火牆,hông-hué-tshiûnn
 鼻胃管,phīnn-uī-kóng
 共伴效應,kiōng-phuān hāu-ìng
 虛擬貨幣,hi-gí huè-pè
 加密貨幣,ka-bi̍t huè-pè
+加密,ka-bi̍t
 人熊,lâng-hîm
 狒狒,huì-huì
 狒,huì
@@ -36982,11 +36999,13 @@ ok-sái,ok-sái
 慢分,bān-hun
 搖滾樂,iô-kún-ga̍k
 自閉症,tsū-pì-tsìng
+自閉,tsū-pì
 水流屍,tsuí-lâu-si
 熱氣球,jia̍t-khì-kiû
 病尾,pēnn-bué
 後遺症,āu-uî-tsìng
 人蛇集團,lâng-tsuâ tsi̍p-thuân
+人蛇,lâng-tsuâ
 木棉花,bo̍k-mî-hue
 考古題,khó-kóo-tê
 考古,khó-kóo
@@ -37042,16 +37061,21 @@ mài-khù,mài-khù
 鯃,ngôo
 虎鯨,hóo-king
 子宮喙癌,tsú-kiong-tshuì-gâm
+子宮喙,tsú-kiong-tshuì
 子宮頭癌,tsú-kiong-thâu-gâm
+子宮頭,tsú-kiong-thâu
 番麥枝,huan-be̍h-ki
 顏智,gân-tì
 甘地,kam-tī
 手摵茶飲料店,tshiú-tshi̍k-tê ím-liāu-tiàm
+飲料店,ím-liāu-tiàm
 紋斑,bûn-pan
 櫻花鉤吻鮭,ing-hue-koo-bún-kui
 鮭,kui
 蓄能設施,thiok-lîng siat-si
+蓄能,thiok-lîng
 蓄電設施,thiok-tiān siat-si
+蓄電,thiok-tiān
 相踏事件,sio-ta̍h sū-kiānn
 斑腿青虳,pan-thuí tshenn-ioh
 虳,ioh
@@ -37066,6 +37090,7 @@ siáu-uah,siáu-uah
 桌頂遊戲,toh-tíng iû-hì
 桌遊,toh-iû
 拗式手機,áu-sik tshiú-ki
+手機,tshiú-ki
 拗式跤踏車,áu-sik kha-ta̍h-tshia
 弄舌,lāng-tsi̍h
 盤舌,puânn-tsi̍h
@@ -37081,6 +37106,7 @@ bé-khòng,bé-khòng
 中國民眾黨,tiong-kok bîn-tsiòng-tóng
 勞動黨,lô-tōng-tóng
 民主進步黨,bîn-tsú tsìn-pōo-tóng
+民進黨,bîn-tsìn-tóng
 中國全民黨,tiong-kok tsuân-bîn-tóng
 公民黨,kong-bîn-tóng
 新黨,sin-tóng
@@ -37094,6 +37120,7 @@ bé-khòng,bé-khòng
 尊嚴黨,tsun-giâm-tóng
 中華統一促進黨,tiong-huâ thóng-it tshiok-tsìn-tóng
 台灣國民黨,tâi-uân kok-bîn-tóng
+國民黨,kok-bîn-tóng
 中華婦女黨,tiong-huâ hū-lí-tóng
 人民最大黨,jîn-bîn tsuè-tuā-tóng
 台灣民意黨,tâi-uân bîn-ì-tóng
@@ -37139,11 +37166,13 @@ bé-khòng,bé-khòng
 合一行動聯盟,ha̍p-it hîng-tōng liân-bîng
 天一黨,thian-it-tóng
 喜樂島聯盟,hí-lo̍k-tó liân-bîng
+喜樂島,hí-lo̍k-tó
 台灣民眾黨,tâi-uân bîn-tsiòng-tóng
 統一聯盟黨,thóng-it liân-bîng-tóng
 台澎黨,tâi-phînn-tóng
 台灣維新,tâi-uân uî-sin
 小民參政歐巴桑聯盟,sió-bîn tsham-tsìng oo-bá-sáng liân-bîng
+參政,tsham-tsìng
 國家公義運動黨,kok-ka kong-gī ūn-tōng-tóng
 道政聯盟,tō-tsìng liân-bîng
 商工統一促進會,siong-kang thóng-it tshiok-tsìn-huē
@@ -37167,11 +37196,10 @@ bé-khòng,bé-khòng
 中小企業團結聯盟,tiong-sió khì-gia̍p thuân-kiat liân-bîng
 太易聯盟黨,thài-i̍k liân-bîng-tóng
 三跤㧣,sann-kha-tu
-國民黨,kok-bîn-tóng
-民進黨,bîn-tsìn-tóng
 仝台,kāng-tâi
 藍白合,nâ-pe̍h-ha̍p
 長照政策,tn̂g-tsiàu-tsìng-tshik
+長照,tn̂g-tsiàu
 產業政策,sán-gia̍p tsìng-tshik
 能源政策,lîng-guân tsìng-tshik
 政黨協商,tsìng-tóng hia̍p-siong
@@ -37190,7 +37218,6 @@ bé-khòng,bé-khòng
 雞跤,ke-kha
 大骨湯,tuā-kut-thng
 牛腱子,gû kiàn-tsí
-粉腸（仔）,hún-tn̂g(-á)
 斷食,tn̄g-si̍t
 酥油,soo-iû
 豆腐麵,tāu-hū-mī
@@ -37201,6 +37228,7 @@ ma-su-kha-phóng,ma-su-kha-phóng
 果汁機,kó-tsiap-ki
 脂肪,tsi-hong
 碳水化合物,thuànn-tsuí huà-ha̍p-bu̍t
+化合物,huà-ha̍p-bu̍t
 醣類,thn̂g-luī
 醣,thn̂g
 鈉含量,nà-hâm-liōng
@@ -37212,6 +37240,7 @@ ma-su-kha-phóng,ma-su-kha-phóng
 i-tá-lih 冰淇淋,i-tá-lih ping-kî-lîm
 西洋萵仔菜,se-iûnn ue-á-tshài
 菇類麵,koo-luī-mī
+菇類,koo-luī
 菇類湯,koo-luī-thng
 菇類醬,koo-luī-tsiùnn
 咖啡因,ka-pi-in
@@ -37223,6 +37252,7 @@ i-tá-lih 冰淇淋,i-tá-lih ping-kî-lîm
 紅醬,âng-tsiùnn
 青醬,tshenn-tsiùnn
 王梨蝦球,ông-lâi hê-kiû
+蝦球,hê-kiû
 菜頭簽餅,tshài-thâu-tshiam-piánn
 烘焙,hang-puē
 果子乾,kué-tsí-kuann
@@ -37236,6 +37266,7 @@ i-tá-lih 冰淇淋,i-tá-lih ping-kî-lîm
 烏麥,oo-be̍h
 豆包,tāu-pau
 印度烘餅,ìn-tōo hang-piánn
+烘餅,hang-piánn
 ma-sá-lah,ma-sá-lah
 調味料,tiâu-bī-liāu
 鍋貼,ko-tah
@@ -37293,9 +37324,12 @@ gá-suh 爐,gá-suh-lôo
 拍卵器,phah-nn̄g-khì
 調理棒,tiâu-lí-pāng
 生酮飲食,sing-tông ím-si̍t
+生酮,sing-tông
 酮,tông
 低醣飲食,kē-thn̂g ím-si̍t
+低醣,kē-thn̂g
 飽和脂肪,pá-hô tsi-hong
+飽和,pá-hô
 肪,hong
 反式脂肪,huán-sik tsi-hong
 益生菌,ik-sing-khún
@@ -37305,7 +37339,7 @@ gá-suh 爐,gá-suh-lôo
 phián-khè-khò,phián-khè-khò
 uá-hòo,uá-hòo
 牛奶酥,gû-ling-soo
-khú-khih餅,khú-khih-piánn 
+khú-khih餅,khú-khih-piánn
 提拉米蘇,thī-lā-mī-sú
 牛奶凍,gû-ling-tàng
 檸檬塔,lê-bóng-thah
@@ -37338,6 +37372,7 @@ hah-suh 條,hah-suh-tiâu
 印度脆球餅,ìn-tōo tshè-kiû-piánn
 方塊酥,hong-tè-soo
 可樂餅,khó-lo̍k-piánn
+可樂,khó-lo̍k
 卵塔,nn̄g-thah
 棉仔糖,mî-á-thn̂g
 紐結糖,niú-kat-thn̂g
@@ -37348,6 +37383,7 @@ hu-lìng-gah,hu-lìng-gah
 茶凍,tê-tàng
 蘋果派,phōng-kó-phài
 lìn-gòo派,lìn-gòo-phài
+林檎派,lìn-gòo-phài
 泡芙,phàu-hû
 舒芙蕾,su-hu-lé
 瑪德蓮,má-tik-liân
@@ -37357,10 +37393,12 @@ lìn-gòo派,lìn-gòo-phài
 雪花冰,seh-hue-ping
 冰沙,ping-sua
 甜箍仔,tinn-khoo-á
+箍仔,khoo-á
 肉桂捲,jio̍k-kuì-kńg
 牛角麭,gû-kak-pháng
 糖餡餅,thn̂g-ānn-piánn
 潛艇堡,tsiâm-thíng-pó
+潛艇,tsiâm-thíng
 潛艇割包,tsiâm-thíng kuah-pau
 米和肉佮,bí-hām-bah-kah
 米割包,bí-kuah-pau
@@ -37384,7 +37422,7 @@ lìn-gòo派,lìn-gòo-phài
 烏秫米,oo-tsu̍t-bí
 烏糙米,oo-tshò-bí
 松露,siông-lōo
-khőng-niá-kuh,khőng-niá-kuh
+khőng-niá-kuh,khőng-niá-kuh
 笑豆,tshiò-tāu
 米線,bí-suànn
 粑粑絲,pa-pa-si
@@ -37392,6 +37430,7 @@ khőng-niá-kuh,khőng-niá-kuh
 抹茶,buah-tê
 má-tsiah,má-tsiah
 泰式綠奶茶,thài-sik li̍k-ling-tê
+泰式,thài-sik
 綠奶茶,li̍k-ling-tê
 青奶茶,tshenn-ling-tê
 泰式奶茶,thài-sik ling-tê
@@ -37408,17 +37447,26 @@ uí-sīr-kih,uí-sīr-kih
 烏咖啡,oo-ka-pi
 拿鐵咖啡,la-thé ka-pi
 西西里咖啡,si-si-lí ka-pi
+西西里,si-si-lí
 檸檬咖啡,lê-bóng ka-pi
 濃縮咖啡,lông-sok ka-pi
 隨溶咖啡,suî-iûnn ka-pi
+隨溶,suî-iûnn
 濾掛咖啡,lī-kuà ka-pi
+濾掛,lī-kuà
 掛耳咖啡,kuà-hīnn ka-pi
+掛耳,kuà-hīnn
 摩卡咖啡,môo-khah ka-pi
+摩卡,môo-khah
 瑪奇朵咖啡,ma-khiá-tooh ka-pi
+瑪奇朵,ma-khiá-tooh
 朵,tooh
 虹吸式咖啡,hông-khip-sik ka-pi
+虹吸式,hông-khip-sik
+虹吸,hông-khip
 sa̋i-hóng 咖啡,sa̋i-hóng ka-pi
 麝香貓咖啡,siā-hiunn-niau ka-pi
+麝香貓,siā-hiunn-niau
 咖啡濾紙,ka-pi lī-tsuá
 塔塔醬,thah-thah-tsiùnn
 和風醬,hô-hong-tsiùnn
@@ -37439,6 +37487,7 @@ sa̋i-hóng 咖啡,sa̋i-hóng ka-pi
 酸豆,sng-tāu
 中國割包,tiong-kok kuah-pau
 沖泡飲品,tshiong-phàu ím-phín
+沖泡,tshiong-phàu
 螺螄粉,lê-sai-hún
 螄,sai
 明膠,bîng-ka
@@ -37451,6 +37500,7 @@ sa̋i-hóng 咖啡,sa̋i-hóng ka-pi
 tshì-sìr餅,tshì-sìr-piánn
 tshì-sù餅,tshì-sù-piánn
 卡啦雞腿堡,khah-lah ke-thuí-pó
+雞腿,ke-thuí
 籠床仔包,lâng-sn̂g-á-pau
 羅宋湯,lô-sòng-thng
 民眾黨,bîn-tsiòng-tóng
@@ -37462,8 +37512,10 @@ tshì-sù餅,tshì-sù-piánn
 遮光窗仔簾,jia-kng thang-á-lî
 遮光kha-tián,jia-kng kha-tián
 資料鋏仔,tsu-liāu giap-á
-儲存容量,tû-tsûn iông-liōng 
+儲存容量,tû-tsûn iông-liōng
 筋肉放冗劑,kin-bah pàng-līng-tse
+筋肉,kin-bah
+放冗劑,pàng-līng-tse
 榴彈炮,liû-tuânn-phàu
 蠓仔電,báng-á-tiān
 蝶仔䘼,ia̍h-á-ńg
@@ -37494,9 +37546,12 @@ há-khih,há-khih
 鐵餅,thih-piánn
 自由車,tsū-iû-tshia
 登山自由車,ting-san tsū-iû-tshia
+登山,ting-san
 公路自由車,kong-lōo tsū-iû-tshia
 場地自由車,tiûnn-tē tsū-iû-tshia
 競速細輪車,kīng-sok-sè-lián-tshia
+競速,kīng-sok
+細輪車,sè-lián-tshia
 自由式相偃,tsū-iû-sik sio-ián
 希羅式相偃,hi-lô-sik sio-ián
 長拳,tn̂g-kûn
@@ -37525,6 +37580,7 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 射擊,siā-kik
 短銃射擊,té-tshìng siā-kik
 步銃射擊,pōo-tshìng siā-kik
+步銃,pōo-tshìng
 馬術,bé-su̍t
 場地障礙賽,tiûnn-tē tsiòng-gāi-sài
 馬場馬術,bé-tiûnn bé-su̍t
@@ -37549,9 +37605,13 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 公園式趨枋,kong-hn̂g-sik tshu-pang
 碗池趨枋,uánn-tî tshu-pang
 運動舞蹈,ūn-tōng bú-tō
-快打旋風5,khuài-tánn suân-hong 5
+快打旋風,khuài-tánn suân-hong
+旋風,suân-hong
 絕地求生,tsua̍t-tē kiû-sing
+絕地,tsua̍t-tē
+求生,kiû-sing
 傳說對決,thuân-suat tuì-kuat
+對決,tuì-kuat
 英雄聯盟,ing-hiông liân-bîng
 軟式網球,nńg-sik bāng-kiû
 擊劍,kik-kiàm
@@ -37582,6 +37642,7 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 釘鞋,ting-ê
 水底有氧運動,tsuí-té iú-ióng ūn-tōng
 有氧運動,iú-ióng ūn-tōng
+有氧,iú-ióng
 飛輪,hui-lûn
 現代五項,hiān-tāi gōo-hāng
 健美,kiān-bí
@@ -37593,6 +37654,7 @@ khu-la-sí 相偃,khu-la-sí sio-ián
 水上比賽,tsuí-siōng pí-sài
 水球,tsuí-kiû
 跳板跳水,thiàu-pán thiáu-tsuí
+跳板,thiàu-pán
 跳台跳水,thiàu-tâi thiàu-tsuí
 三日賽,sann-ji̍t-sài
 三項賽,sann-hāng-sài
@@ -37619,8 +37681,10 @@ ió-gà,ió-gà
 飛盤,hui-puânn
 定向運動,tīng-hiòng ūn-tōng
 定向越野,tīng-hiòng ua̍t-iá
+定向,tīng-hiòng
 空架雪車,khang-kè seh-tshia
 健身房,kiān-sin pâng
 重量訓練,tāng-liōng hùn-liān
 trx吊掛訓練,trx tiàu-kuà hùn-liān
+吊掛,tiàu-kuà
 輕鐵,khin-thih
